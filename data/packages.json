@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "PKG-FBCM",
+    "slug": "full-body-checkup-mini",
+    "name": "Full Body Checkup Mini",
+    "code": "PKG-FBCM",
+    "category": "Full Body Checkups",
+    "price": 1099,
+    "mrp": 3410,
+    "tagline": "Essential Metabolic Screen",
+    "description": "A smart starting point for anyone over 25. Covers blood sugar, cholesterol, liver, kidneys, thyroid, and urine - the core markers every annual checkup should include, at an easy entry price.",
+    "constituents": [
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Liver Function Profile (LFT)",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Kidney Function Test (KFT)",
+        "slug": "kidney-function-test",
+        "price": 1000
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-FBCE",
+    "slug": "full-body-checkup-essential",
+    "name": "Full Body Checkup Essential",
+    "code": "PKG-FBCE",
+    "category": "Full Body Checkups",
+    "price": 1350,
+    "mrp": 4410,
+    "tagline": "Comprehensive Annual Screen",
+    "description": "A thorough annual checkup that goes beyond the basics, adding your 3-month sugar average (HbA1c) and full thyroid check to core organ and metabolic tests. A solid yearly health baseline.",
+    "constituents": [
+      {
+        "name": "CBC-5",
+        "slug": "cbc-5-edta-whole-blood",
+        "price": 400
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Liver Function Profile (LFT)",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Kidney Function Test (KFT)",
+        "slug": "kidney-function-test",
+        "price": 1000
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-FBCA",
+    "slug": "full-body-checkup-advanced",
+    "name": "Full Body Checkup Advanced",
+    "code": "PKG-FBCA",
+    "category": "Full Body Checkups",
+    "price": 2099,
+    "mrp": 7610,
+    "tagline": "Premium Full-Body Screen",
+    "description": "Our most complete annual checkup. Everything in our Essential package, plus Vitamin B12 and D - two deficiencies so common they're worth checking every year. Ideal for corporate wellness or a thorough yearly review.",
+    "constituents": [
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Liver Function Profile (LFT)",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Kidney Function Test (KFT)",
+        "slug": "kidney-function-test",
+        "price": 1000
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Vitamin B12 (Cyanocobalamin), Serum",
+        "slug": "vitamin-b12-cyanocobalamine-serum",
+        "price": 1350
+      },
+      {
+        "name": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+        "slug": "vitamin-d-total-25-hydroxyvitamin-d-serum",
+        "price": 1750
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-AHC",
+    "slug": "advanced-heart-checkup",
+    "name": "Advanced Heart Checkup",
+    "code": "PKG-AHC",
+    "category": "Heart Health",
+    "price": 2499,
+    "mrp": null,
+    "tagline": "Heart Health",
+    "description": "A curated heart health test package. Full details coming soon - please call us for the complete list of included tests.",
+    "constituents": [],
+    "needsContent": true
+  },
+  {
+    "id": "PKG-DB",
+    "slug": "diabetes-basic",
+    "name": "Diabetes Basic",
+    "code": "PKG-DB",
+    "category": "Diabetes",
+    "price": 599,
+    "mrp": 760,
+    "tagline": "Glucose Control Screen",
+    "description": "Not sure if your blood sugar is under control? This screen checks your 3-month average (HbA1c) plus fasting and after-meal glucose - everything you need for a first diabetes check or routine monitoring, in one affordable draw.",
+    "constituents": [
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Post Prandial Blood Sugar (PPBS)",
+        "slug": "glucose-post-prandial-plasma",
+        "price": 80
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-IB",
+    "slug": "infection-basic",
+    "name": "Infection Basic",
+    "code": "PKG-IB",
+    "category": "Fever and Infection",
+    "price": 999,
+    "mrp": 1200,
+    "tagline": "Infection & Inflammation Screen",
+    "description": "Feeling feverish or unwell with no clear cause? This panel checks your blood count, inflammation levels, and urine together to help pinpoint whether an infection is behind it, and how serious it is.",
+    "constituents": [
+      {
+        "name": "CBC with ESR + Peripheral Smear",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "CRP - Quantitative, Serum",
+        "slug": "crp-semi-quantitative-serum",
+        "price": 415
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-VC",
+    "slug": "vitamin-checkup",
+    "name": "Vitamin Checkup",
+    "code": "PKG-VC",
+    "category": "Fever and Infection",
+    "price": 1499,
+    "mrp": 3100,
+    "tagline": "Micronutrient Deficiency Screen",
+    "description": "Tired all the time, or dealing with bone or muscle aches? Vitamin D and B12 deficiency are two of the most common, and most fixable, causes in India. This quick screen checks both in one draw.",
+    "constituents": [
+      {
+        "name": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+        "slug": "vitamin-d-total-25-hydroxyvitamin-d-serum",
+        "price": 1750
+      },
+      {
+        "name": "Vitamin B12 (Cyanocobalamin), Serum",
+        "slug": "vitamin-b12-cyanocobalamine-serum",
+        "price": 1350
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-FIP",
+    "slug": "fever-infection-panel",
+    "name": "Fever & Infection Panel",
+    "code": "PKG-FIP",
+    "category": "Women's Health",
+    "price": 1249,
+    "mrp": 1550,
+    "tagline": "Most Ordered - Seasonal High Volume",
+    "description": "Our most-booked panel, for good reason. When fever won't quit, this checks your blood count, inflammation markers, a typhoid screen, and urine together - giving your doctor a fast, complete picture.",
+    "constituents": [
+      {
+        "name": "CBC with ESR + Peripheral Smear",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "CRP - Quantitative, Serum",
+        "slug": "crp-semi-quantitative-serum",
+        "price": 415
+      },
+      {
+        "name": "Widal Test, Serum",
+        "slug": "widal-test-serum",
+        "price": 350
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-PSP",
+    "slug": "pre-surgical-panel",
+    "name": "Pre-Surgical Panel",
+    "code": "PKG-PSP",
+    "category": "Women's Health",
+    "price": 3199,
+    "mrp": 5795,
+    "tagline": "Pre-Op / Hospital Referral",
+    "description": "The standard checklist before any planned surgery. Covers blood clotting, blood group, liver and kidney function, and mandatory infection screening - everything your surgical team needs to clear you safely.",
+    "constituents": [
+      {
+        "name": "CBC-5",
+        "slug": "cbc-5-edta-whole-blood",
+        "price": 400
+      },
+      {
+        "name": "Prothrombin Time (PT/INR)",
+        "slug": "prothrombin-time-pt-inr-citrate-plasma",
+        "price": 450
+      },
+      {
+        "name": "Activated Partial Thromboplastin Time (APTT)",
+        "slug": "activated-partial-thromboplastin-time-aptt",
+        "price": 465
+      },
+      {
+        "name": "ABO Group & Rh Type",
+        "slug": "abo-group-rh-type-edta-whole-blood",
+        "price": 200
+      },
+      {
+        "name": "Liver Function Profile (LFT)",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Kidney Function Test (KFT)",
+        "slug": "kidney-function-test",
+        "price": 1000
+      },
+      {
+        "name": "Hepatitis B Surface Antigen (HBsAg)",
+        "slug": "hepatitis-b-surface-antigen-hbsag-serum",
+        "price": 550
+      },
+      {
+        "name": "HIV Antibodies",
+        "slug": "hiv-antibodies-serum",
+        "price": 630
+      },
+      {
+        "name": "HCV Antibodies",
+        "slug": "hcv-antibodies-serum",
+        "price": 1200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-FTA",
+    "slug": "first-trimester-antenatal-panel",
+    "name": "First Trimester Antenatal Panel",
+    "code": "PKG-FTA",
+    "category": "Women's Health",
+    "price": 2599,
+    "mrp": 3920,
+    "tagline": "Booking Visit Screen - Week 12",
+    "description": "Your first-visit essentials, in one panel. Covers infection screening, blood group, thyroid, kidney function, and early diabetes risk - everything your doctor needs to build your pregnancy care plan around week 12.",
+    "constituents": [
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "ABO Group & Rh Type",
+        "slug": "abo-group-rh-type-edta-whole-blood",
+        "price": 200
+      },
+      {
+        "name": "Hepatitis B Surface Antigen (HBsAg)",
+        "slug": "hepatitis-b-surface-antigen-hbsag-serum",
+        "price": 550
+      },
+      {
+        "name": "HIV Antibodies",
+        "slug": "hiv-antibodies-serum",
+        "price": 630
+      },
+      {
+        "name": "VDRL (Syphilis Screen)",
+        "slug": "vdrl-modified-serum",
+        "price": 350
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Creatinine, Serum",
+        "slug": "creatinine-serum",
+        "price": 230
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "HbA1c - GDM Screening",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-STT",
+    "slug": "second-third-trimester-panel",
+    "name": "Second / Third Trimester Panel",
+    "code": "PKG-STT",
+    "category": "Women's Health",
+    "price": 1349,
+    "mrp": 1930,
+    "tagline": "GDM + Anaemia Screen - Week 28",
+    "description": "Built for week 28. Focuses on what matters most at this stage - blood sugar control, iron levels, and haemoglobin - to catch gestational diabetes or anaemia early, when they're easiest to manage.",
+    "constituents": [
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "HbA1c - GDM Screening",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Serum Iron and TIBC Studies",
+        "slug": "serum-iron-and-tibc-studies",
+        "price": 550
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-PCOS",
+    "slug": "pcos-workup-panel",
+    "name": "PCOS Workup Panel",
+    "code": "PKG-PCOS",
+    "category": "Women's Health",
+    "price": 4399,
+    "mrp": 7660,
+    "tagline": "High Demand - Women 18-35",
+    "description": "Irregular periods, unwanted hair growth, or trouble losing weight? This panel checks the key hormones behind PCOS alongside your blood sugar and blood count, giving your doctor a complete hormonal picture.",
+    "constituents": [
+      {
+        "name": "Luteinizing Hormone (LH)",
+        "slug": "luteinizing-hormone-lh-serum",
+        "price": 650
+      },
+      {
+        "name": "Follicle Stimulating Hormone (FSH)",
+        "slug": "follicle-stimulating-hormone-fsh-serum",
+        "price": 650
+      },
+      {
+        "name": "Prolactin, Serum",
+        "slug": "prolactin-serum",
+        "price": 650
+      },
+      {
+        "name": "Testosterone, Total, Serum",
+        "slug": "testosterone-total-serum",
+        "price": 850
+      },
+      {
+        "name": "AMH / MIS, Serum",
+        "slug": "amh-mis-serum",
+        "price": 2300
+      },
+      {
+        "name": "Insulin, Fasting Serum",
+        "slug": "insulin-fasting-serum",
+        "price": 1050
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-MENO",
+    "slug": "menopause-perimenopause-panel",
+    "name": "Menopause & Perimenopause Panel",
+    "code": "PKG-MENO",
+    "category": "Women's Health",
+    "price": 1299,
+    "mrp": 2730,
+    "tagline": "Women 40-55",
+    "description": "Hot flushes, mood swings, or periods that have gone unpredictable? This panel checks the core hormones behind the menopausal transition, helping your doctor confirm what's happening and how best to manage it.",
+    "constituents": [
+      {
+        "name": "Follicle Stimulating Hormone (FSH), Serum",
+        "slug": "follicle-stimulating-hormone-fsh-serum",
+        "price": 650
+      },
+      {
+        "name": "Luteinizing Hormone (LH), Serum",
+        "slug": "luteinizing-hormone-lh-serum",
+        "price": 650
+      },
+      {
+        "name": "Estradiol (E2), Serum",
+        "slug": "estradiol-e2-serum",
+        "price": 850
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-FIW",
+    "slug": "female-infertility-workup",
+    "name": "Female Infertility Workup",
+    "code": "PKG-FIW",
+    "category": "Women's Health",
+    "price": 3099,
+    "mrp": 5930,
+    "tagline": "Couples Planning Conception",
+    "description": "Trying to conceive and want answers? This panel checks your ovarian reserve, key fertility hormones, thyroid, and blood sugar together - the essential hormone workup for couples planning a pregnancy.",
+    "constituents": [
+      {
+        "name": "AMH / MIS, Serum",
+        "slug": "amh-mis-serum",
+        "price": 2300
+      },
+      {
+        "name": "Follicle Stimulating Hormone (FSH), Serum",
+        "slug": "follicle-stimulating-hormone-fsh-serum",
+        "price": 650
+      },
+      {
+        "name": "Luteinizing Hormone (LH), Serum",
+        "slug": "luteinizing-hormone-lh-serum",
+        "price": 650
+      },
+      {
+        "name": "Prolactin, Serum",
+        "slug": "prolactin-serum",
+        "price": 650
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-TORCH",
+    "slug": "torch-comprehensive-panel",
+    "name": "TORCH Comprehensive Panel",
+    "code": "PKG-TORCH",
+    "category": "Women's Health",
+    "price": 4899,
+    "mrp": 6380,
+    "tagline": "Pre-Conception / Recurrent Pregnancy Loss",
+    "description": "Recommended before you conceive, or after a pregnancy loss. Checks for infections - Toxoplasma, Rubella, CMV, Herpes - that can affect a pregnancy, plus key autoimmune markers, so you can plan with confidence.",
+    "constituents": [
+      {
+        "name": "TORCH IgG & IgM Evaluation, Serum",
+        "slug": "torch-igg-igm-evaluation-serum",
+        "price": 3000
+      },
+      {
+        "name": "Anti Nuclear Antibody (ANA), IFA, Serum",
+        "slug": "anti-nuclear-antibody-ana-ifa-serum",
+        "price": 1400
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Homocysteine, Serum/Plasma",
+        "slug": "homocysteine-serum-plasma",
+        "price": 1400
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-DMP",
+    "slug": "diabetes-monitoring-panel",
+    "name": "Diabetes Monitoring Panel",
+    "code": "PKG-DMP",
+    "category": "Diabetes",
+    "price": 3049,
+    "mrp": 5060,
+    "tagline": "Quarterly Review - Most Ordered",
+    "description": "Already managing diabetes? This is your quarterly check-in - blood sugar control, kidney and liver health, cholesterol, and thyroid, all in one panel, so nothing slips through the cracks between doctor visits.",
+    "constituents": [
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "Insulin, Fasting Serum",
+        "slug": "insulin-fasting-serum",
+        "price": 1050
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Kidney Function Test",
+        "slug": "kidney-function-test",
+        "price": 1000
+      },
+      {
+        "name": "Liver Function Profile",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Urinalysis",
+        "slug": "urinalysis",
+        "price": 200
+      },
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-IRP",
+    "slug": "insulin-resistance-panel",
+    "name": "Insulin Resistance Panel",
+    "code": "PKG-IRP",
+    "category": "Diabetes",
+    "price": 3099,
+    "mrp": 4035,
+    "tagline": "PCOS / Pre-Diabetes / Metabolic Syndrome",
+    "description": "For when blood sugar is borderline and weight won't budge. This panel measures insulin resistance directly, alongside blood sugar, cholesterol, and heart-risk markers - useful in PCOS, pre-diabetes, or metabolic syndrome.",
+    "constituents": [
+      {
+        "name": "Insulin, Fasting Serum",
+        "slug": "insulin-fasting-serum",
+        "price": 1050
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Homocysteine, Serum/Plasma",
+        "slug": "homocysteine-serum-plasma",
+        "price": 1400
+      },
+      {
+        "name": "Uric Acid, Serum",
+        "slug": "uric-acid-serum",
+        "price": 255
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-CES",
+    "slug": "comprehensive-endocrine-screen",
+    "name": "Comprehensive Endocrine Screen",
+    "code": "PKG-CES",
+    "category": "Diabetes",
+    "price": 3699,
+    "mrp": 6460,
+    "tagline": "New Patient / Annual Workup",
+    "description": "A broad hormone health check for anyone with multiple, hard-to-place symptoms. Covers thyroid, reproductive hormones, blood sugar, cholesterol, and Vitamin D - a strong starting point for a new patient workup.",
+    "constituents": [
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Prolactin, Serum",
+        "slug": "prolactin-serum",
+        "price": 650
+      },
+      {
+        "name": "Follicle Stimulating Hormone (FSH), Serum",
+        "slug": "follicle-stimulating-hormone-fsh-serum",
+        "price": 650
+      },
+      {
+        "name": "Luteinizing Hormone (LH), Serum",
+        "slug": "luteinizing-hormone-lh-serum",
+        "price": 650
+      },
+      {
+        "name": "Testosterone, Total, Serum",
+        "slug": "testosterone-total-serum",
+        "price": 850
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "slug": "glucose-fasting-fluoride-plasma",
+        "price": 80
+      },
+      {
+        "name": "HbA1c (Glycosylated Haemoglobin)",
+        "slug": "glycosylated-hemoglobin-hba1c",
+        "price": 600
+      },
+      {
+        "name": "Lipid Profile",
+        "slug": "lipid-profile-serum",
+        "price": 650
+      },
+      {
+        "name": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+        "slug": "vitamin-d-total-25-hydroxyvitamin-d-serum",
+        "price": 1750
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-AWP",
+    "slug": "anaemia-workup-panel",
+    "name": "Anaemia Workup Panel",
+    "code": "PKG-AWP",
+    "category": "Women's Health",
+    "price": 2249,
+    "mrp": 3600,
+    "tagline": "Very High Volume Referral",
+    "description": "Constantly tired or looking pale? This panel checks the three most common causes of anaemia in India - low iron, low B12, and inherited blood disorders - so treatment can target the real cause.",
+    "constituents": [
+      {
+        "name": "CBC with ESR + Peripheral Smear",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "Vitamin B12 (Cyanocobalamin), Serum",
+        "slug": "vitamin-b12-cyanocobalamine-serum",
+        "price": 1350
+      },
+      {
+        "name": "Serum Iron and TIBC Studies",
+        "slug": "serum-iron-and-tibc-studies",
+        "price": 550
+      },
+      {
+        "name": "Hemoglobin Variant Analysis, Blood",
+        "slug": "hemoglobin-variant-analysis-blood",
+        "price": 1200
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-LDP",
+    "slug": "liver-disease-panel",
+    "name": "Liver Disease Panel",
+    "code": "PKG-LDP",
+    "category": "Liver Health",
+    "price": 1999,
+    "mrp": 3565,
+    "tagline": "Hepatology Workup",
+    "description": "For jaundice, high liver enzymes, or known hepatitis exposure. This panel gives a complete liver health picture, plus clotting and hepatitis screening - the full workup your doctor needs to investigate further.",
+    "constituents": [
+      {
+        "name": "Liver Function Profile, Serum",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      },
+      {
+        "name": "Hepatitis B Surface Antigen (HBsAg), Serum",
+        "slug": "hepatitis-b-surface-antigen-hbsag-serum",
+        "price": 550
+      },
+      {
+        "name": "HCV Antibodies, Serum",
+        "slug": "hcv-antibodies-serum",
+        "price": 1200
+      },
+      {
+        "name": "Prothrombin Time (PT/INR)",
+        "slug": "prothrombin-time-pt-inr-citrate-plasma",
+        "price": 450
+      },
+      {
+        "name": "Activated Partial Thromboplastin Time (APTT)",
+        "slug": "activated-partial-thromboplastin-time-aptt",
+        "price": 465
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-HIVM",
+    "slug": "hiv-monitoring-panel",
+    "name": "HIV Monitoring Panel",
+    "code": "PKG-HIVM",
+    "category": "Sexual Health",
+    "price": 3149,
+    "mrp": 4830,
+    "tagline": "Infectious Disease / ART Monitoring",
+    "description": "For patients already on HIV treatment. This six-monthly check tracks your immune cell count (CD4) alongside blood and liver health, helping your doctor confirm treatment is working and staying safe.",
+    "constituents": [
+      {
+        "name": "HIV Antibodies, Serum",
+        "slug": "hiv-antibodies-serum",
+        "price": 630
+      },
+      {
+        "name": "Lymphocyte Subset Enumeration, Blood",
+        "slug": "lymphocyte-subset-enumeration-blood",
+        "price": 2800
+      },
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "Liver Function Profile, Serum",
+        "slug": "liver-function-profile-serum",
+        "price": 900
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-HLH",
+    "slug": "hair-loss-hormonal-panel",
+    "name": "Hair Loss & Hormonal Panel",
+    "code": "PKG-HLH",
+    "category": "Skin Conditions",
+    "price": 2649,
+    "mrp": 5680,
+    "tagline": "Alopecia Workup - Most Ordered",
+    "description": "Hair thinning that won't stop? This is our most-booked dermatology panel, checking the five most common, and treatable, causes: thyroid issues, Vitamin D & B12 deficiency, hormone imbalance, and anaemia.",
+    "constituents": [
+      {
+        "name": "Thyroid Panel (T3, T4, TSH)",
+        "slug": "thyroid-panel-tsh-serum",
+        "price": 580
+      },
+      {
+        "name": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+        "slug": "vitamin-d-total-25-hydroxyvitamin-d-serum",
+        "price": 1750
+      },
+      {
+        "name": "Vitamin B12 (Cyanocobalamin), Serum",
+        "slug": "vitamin-b12-cyanocobalamine-serum",
+        "price": 1350
+      },
+      {
+        "name": "Testosterone, Total, Serum",
+        "slug": "testosterone-total-serum",
+        "price": 850
+      },
+      {
+        "name": "Prolactin, Serum",
+        "slug": "prolactin-serum",
+        "price": 650
+      },
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-ASK",
+    "slug": "autoimmune-skin-panel",
+    "name": "Autoimmune Skin Panel",
+    "code": "PKG-ASK",
+    "category": "Skin Conditions",
+    "price": 2249,
+    "mrp": 3455,
+    "tagline": "Psoriasis / Lupus / Pemphigus",
+    "description": "For ongoing skin inflammation or blistering that hasn't responded to usual treatment. Screens for underlying autoimmune causes, and is often recommended before starting stronger immune-suppressing treatment.",
+    "constituents": [
+      {
+        "name": "Anti Nuclear Antibody (ANA), IFA, Serum",
+        "slug": "anti-nuclear-antibody-ana-ifa-serum",
+        "price": 1400
+      },
+      {
+        "name": "Rheumatoid Factor, Serum",
+        "slug": "rheumatoid-factor-serum",
+        "price": 800
+      },
+      {
+        "name": "CBC with ESR",
+        "slug": "cbc-with-esr-cbcpsesr",
+        "price": 500
+      },
+      {
+        "name": "C-Reactive Protein (CRP), Serum (Quantitative)",
+        "slug": "c-reactive-protein-crp-serum-quantitative",
+        "price": 500
+      },
+      {
+        "name": "Uric Acid, Serum",
+        "slug": "uric-acid-serum",
+        "price": 255
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-AUP",
+    "slug": "allergy-urticaria-panel",
+    "name": "Allergy & Urticaria Panel",
+    "code": "PKG-AUP",
+    "category": "Skin Conditions",
+    "price": 1649,
+    "mrp": 2280,
+    "tagline": "Urticaria / Eczema - High Demand",
+    "description": "Recurring hives, eczema, or itching with no obvious trigger? This panel checks your allergy markers and inflammation levels, and rules out a parasitic cause, helping your doctor get to the root of it.",
+    "constituents": [
+      {
+        "name": "Total IgE, Serum",
+        "slug": "total-ige-serum",
+        "price": 1200
+      },
+      {
+        "name": "CBC-5, EDTA Whole Blood",
+        "slug": "cbc-5-edta-whole-blood",
+        "price": 400
+      },
+      {
+        "name": "C-Reactive Protein (CRP), Serum (Quantitative)",
+        "slug": "c-reactive-protein-crp-serum-quantitative",
+        "price": 500
+      },
+      {
+        "name": "Stool: Ova & Parasite",
+        "slug": "stool-ova-parasite",
+        "price": 180
+      }
+    ],
+    "needsContent": false
+  },
+  {
+    "id": "PKG-STI",
+    "slug": "sti-infection-screen",
+    "name": "STI / Infection Screen",
+    "code": "PKG-STI",
+    "category": "Skin Conditions",
+    "price": 1599,
+    "mrp": 2780,
+    "tagline": "Sexual Health / Dermatology",
+    "description": "A confidential check for the four infections that matter most after a high-risk exposure or unexplained symptoms. Straightforward, private, and a responsible step for your sexual health.",
+    "constituents": [
+      {
+        "name": "HIV Antibodies, Serum",
+        "slug": "hiv-antibodies-serum",
+        "price": 630
+      },
+      {
+        "name": "Hepatitis B Surface Antigen (HBsAg), Serum",
+        "slug": "hepatitis-b-surface-antigen-hbsag-serum",
+        "price": 550
+      },
+      {
+        "name": "HCV Antibodies, Serum",
+        "slug": "hcv-antibodies-serum",
+        "price": 1200
+      },
+      {
+        "name": "CBC-5, EDTA Whole Blood",
+        "slug": "cbc-5-edta-whole-blood",
+        "price": 400
+      }
+    ],
+    "needsContent": false
+  }
+]

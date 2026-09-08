@@ -1,0 +1,3560 @@
+[
+  {
+    "Test Name": "TSH 3rd Gen Ultrasensitive, Serum",
+    "Code": 3250,
+    "MRP (Rs.)": 380,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Thyroid Panel – TSH, Serum",
+    "Code": "TPC",
+    "MRP (Rs.)": 580,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Thyroid Panel II (FT3, FT4, TSH), Serum",
+    "Code": 1499,
+    "MRP (Rs.)": 1050,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Free Thyroxine (FT4), Serum",
+    "Code": 3228,
+    "MRP (Rs.)": 500,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Free Triiodothyronine (FT3), Serum",
+    "Code": 3234,
+    "MRP (Rs.)": 500,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Glycosylated Hemoglobin (HbA1c)",
+    "Code": 3180,
+    "MRP (Rs.)": 600,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Insulin, Fasting Serum",
+    "Code": 3192,
+    "MRP (Rs.)": 1050,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "CBC with ESR (CBC+PS+ESR)",
+    "Code": 5111,
+    "MRP (Rs.)": 500,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "CBC-5, EDTA Whole Blood",
+    "Code": "5110G",
+    "MRP (Rs.)": 400,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Hemoglobin by Cyanmethaemoglobin",
+    "Code": "5112DR",
+    "MRP (Rs.)": 130,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Hemoglobin Variant Analysis, Blood",
+    "Code": 3834,
+    "MRP (Rs.)": 1200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Serum Iron and TIBC Studies",
+    "Code": "3533HD",
+    "MRP (Rs.)": 550,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "ABO Group & Rh Type, EDTA Whole Blood",
+    "Code": 5100,
+    "MRP (Rs.)": 200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Platelet Count, EDTA Whole Blood",
+    "Code": 5160,
+    "MRP (Rs.)": 200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Erythrocyte Sedimentation Rate (ESR)",
+    "Code": "1569B",
+    "MRP (Rs.)": 150,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Liver Function Profile, Serum",
+    "Code": 1388,
+    "MRP (Rs.)": 900,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Bilirubin (Total, Direct, Indirect), Serum",
+    "Code": "1527H",
+    "MRP (Rs.)": 330,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Alanine Aminotransferase (ALT/SGPT), Serum",
+    "Code": "1347H",
+    "MRP (Rs.)": 220,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Aspartate Aminotransferase (AST/SGOT), Serum",
+    "Code": "1345H",
+    "MRP (Rs.)": 220,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Bilirubin, Direct, Serum",
+    "Code": "1526H",
+    "MRP (Rs.)": 200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Kidney Function Test",
+    "Code": 1342,
+    "MRP (Rs.)": 1000,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Culture, Urine with Susceptibility",
+    "Code": "1285CS",
+    "MRP (Rs.)": 950,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Electrolytes (Na/K/Cl), Serum",
+    "Code": "1568HD",
+    "MRP (Rs.)": 550,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Blood Urea Nitrogen (BUN), Serum",
+    "Code": "1079H",
+    "MRP (Rs.)": 255,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Urinalysis",
+    "Code": "5200U",
+    "MRP (Rs.)": 200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Calcium, Serum",
+    "Code": "4836H",
+    "MRP (Rs.)": 255,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Creatinine, Serum",
+    "Code": "1320H",
+    "MRP (Rs.)": 230,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Lipid Profile, Serum",
+    "Code": "1209AD",
+    "MRP (Rs.)": 650,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Homocysteine, Serum/Plasma",
+    "Code": 3344,
+    "MRP (Rs.)": 1400,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Triglycerides, Serum",
+    "Code": "3346HD",
+    "MRP (Rs.)": 330,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Cholesterol, Serum",
+    "Code": "3350HD",
+    "MRP (Rs.)": 210,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "LH, FSH, Prolactin, Serum",
+    "Code": 2021,
+    "MRP (Rs.)": 1700,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "AMH / MIS, Serum",
+    "Code": "1705R",
+    "MRP (Rs.)": 2300,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Luteinizing Hormone (LH), Serum",
+    "Code": 3198,
+    "MRP (Rs.)": 650,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Prolactin, Serum",
+    "Code": 3206,
+    "MRP (Rs.)": 650,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Follicle Stimulating Hormone (FSH), Serum",
+    "Code": 3174,
+    "MRP (Rs.)": 650,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Estradiol (E2), Serum",
+    "Code": 3155,
+    "MRP (Rs.)": 850,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Testosterone, Total, Serum",
+    "Code": 3244,
+    "MRP (Rs.)": 850,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "HCG, Serum",
+    "Code": 3184,
+    "MRP (Rs.)": 850,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Double Marker Test, Serum",
+    "Code": 1268,
+    "MRP (Rs.)": 2750,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Quadruple Marker Test, Serum",
+    "Code": "1275P",
+    "MRP (Rs.)": 4200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "TORCH IgG & IgM Evaluation, Serum",
+    "Code": "9901M",
+    "MRP (Rs.)": 3000,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "TORCH IgM [5 Parameters]",
+    "Code": 9912,
+    "MRP (Rs.)": 2000,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "TORCH IgG Evaluation, Serum",
+    "Code": "9911M",
+    "MRP (Rs.)": 1700,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "HCV Antibodies, Serum",
+    "Code": "2446R",
+    "MRP (Rs.)": 1200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "HIV Antibodies, Serum",
+    "Code": "9916R",
+    "MRP (Rs.)": 630,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Hepatitis B Surface Antigen (HBsAg), Serum",
+    "Code": "2470R",
+    "MRP (Rs.)": 550,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Lymphocyte Subset Enumeration, Blood",
+    "Code": "1657B",
+    "MRP (Rs.)": 2800,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Widal Test, Serum",
+    "Code": 9076,
+    "MRP (Rs.)": 350,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Stool: Ova & Parasite",
+    "Code": 2361,
+    "MRP (Rs.)": 180,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Blood Lympho Culture",
+    "Code": "5814B",
+    "MRP (Rs.)": 3800,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "C-Reactive Protein (CRP), Serum (Quantitative)",
+    "Code": "1535N",
+    "MRP (Rs.)": 500,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Mycoreal",
+    "Code": 2434,
+    "MRP (Rs.)": 2250,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+    "Code": 8823,
+    "MRP (Rs.)": 1750,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Vitamin B12 (Cyanocobalamine), Serum",
+    "Code": 3020,
+    "MRP (Rs.)": 1350,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Rheumatoid Factor, Serum",
+    "Code": 1328,
+    "MRP (Rs.)": 800,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Anti Nuclear Antibody (ANA), IFA, Serum",
+    "Code": 1100,
+    "MRP (Rs.)": 1400,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Total IgE, Serum",
+    "Code": "1245E",
+    "MRP (Rs.)": 1200,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Uric Acid, Serum",
+    "Code": "1310H",
+    "MRP (Rs.)": 255,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Prothrombin Time (PT/INR), Citrate Plasma",
+    "Code": 3892,
+    "MRP (Rs.)": 450,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Activated Partial Thromboplastin Time (APTT)",
+    "Code": 3895,
+    "MRP (Rs.)": 465,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Prostate Specific Antigen (PSA), Serum",
+    "Code": 3546,
+    "MRP (Rs.)": 1050,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "CA 125 (Ovarian Cancer Monitor), Serum",
+    "Code": 3121,
+    "MRP (Rs.)": 1550,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Alpha-Fetoprotein (AFP), Serum",
+    "Code": 3109,
+    "MRP (Rs.)": 1050,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "Small Tissue Biopsy",
+    "Code": 1500,
+    "MRP (Rs.)": 900,
+    "Type": "Routine"
+  },
+  {
+    "Test Name": "1, 25 DIHYDROXY VITAMIN D, SERUM",
+    "Code": 8825,
+    "MRP (Rs.)": 4200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "17-A-HYDROXYPROGESTERONE, SERUM",
+    "Code": 3190,
+    "MRP (Rs.)": 1850,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "25 HYDROXY VITAMIN D TOTAL (VITAMIN D2+VITAMIN D3)",
+    "Code": "8823L",
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABPA",
+    "Code": 2710,
+    "MRP (Rs.)": 3300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABPA MINI",
+    "Code": 7833,
+    "MRP (Rs.)": 2800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABPA SCREEN (TOTAL IGE, SPECIFIC IGE AF)",
+    "Code": 7869,
+    "MRP (Rs.)": 2300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABS EOSINOPHIL COUNT, EDTA WHOLE BLOOD",
+    "Code": 1262,
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABS TO EXTRACTABLE NUCLEAR ANTIGEN(ANA BLOT),SERUM",
+    "Code": 1236,
+    "MRP (Rs.)": 3700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABSOLUTE BASOPHIL COUNT",
+    "Code": 10596,
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABSOLUTE LYMPHOCYTE COUNT",
+    "Code": 10595,
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ABSOLUTE MONOCYTE COUNT",
+    "Code": 10597,
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ACHR-ACETYL CHOLINE RECEPTOR ANTIBODIES, SERUM",
+    "Code": 5559,
+    "MRP (Rs.)": 4800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ACID FAST BACILLI SMEAR",
+    "Code": 5320,
+    "MRP (Rs.)": 290,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ACUTE LEUKEMIA DIAGNOSTIC & PROGNOSTIC PANEL",
+    "Code": 8043,
+    "MRP (Rs.)": 30000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ACUTE LEUKEMIA PANEL",
+    "Code": 1608,
+    "MRP (Rs.)": 11500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ACUTE LEUKEMIA PANEL",
+    "Code": "1608F",
+    "MRP (Rs.)": 11500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ADENOSINE DEAMINASE",
+    "Code": 3131,
+    "MRP (Rs.)": 1150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ADRENOCORTICOTROPIC HORMONE, PLASMA",
+    "Code": 3102,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AFB BACTEC CULTURE",
+    "Code": 1464,
+    "MRP (Rs.)": 1600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AFB CULTURE",
+    "Code": "SP2744",
+    "MRP (Rs.)": 2850,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AFB SMEARS - 3 SAMPLES",
+    "Code": "5320S",
+    "MRP (Rs.)": 715,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AIH PLUS",
+    "Code": 2720,
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN QUANTITATIVE , 12 HRS URINE",
+    "Code": "1324H12",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN QUANTITATIVE , 24 HRS URINE",
+    "Code": "1324H24",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN, BODY FLUID",
+    "Code": "1510F",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN, FLUID",
+    "Code": "1510HF",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN, SERUM",
+    "Code": "1510H",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN, SPINAL FLUID",
+    "Code": "1324HSF",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN/CREATININE RATIO, RANDOM, URINE",
+    "Code": "1324HR",
+    "MRP (Rs.)": 605,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALBUMIN+GLOBULIN+A/G RATIO, SERUM",
+    "Code": "1580H",
+    "MRP (Rs.)": 210,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALCIAN BLUE",
+    "Code": "Z203K6",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALKALINE PHOSPHATASE, SERUM",
+    "Code": "3930H",
+    "MRP (Rs.)": 290,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALLERGEN - ASPERGILLUS FUMIGATUS, SERUM",
+    "Code": 3053,
+    "MRP (Rs.)": 1800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALLERGY PANEL 2 (29 ALLERGENS)",
+    "Code": 2109,
+    "MRP (Rs.)": 14000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ALLERGY SCREEN ADULT",
+    "Code": 8239,
+    "MRP (Rs.)": 1200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMBRY CANCER NEXT EXPANDED - 84 GENES",
+    "Code": "G603",
+    "MRP (Rs.)": 53000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMH PLUS WITH TESTOSTERONE FREE AND TOTAL",
+    "Code": 4501,
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMYLASE BODY FLUID",
+    "Code": "3844BF",
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMYLASE, 24HRS URINE",
+    "Code": "3844UHD",
+    "MRP (Rs.)": 575,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMYLASE, FLUID",
+    "Code": "3844DF",
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AMYLASE, SERUM",
+    "Code": "3844D",
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANA POSITIVE REFLEX TO ENA / ANA BLOT",
+    "Code": "9206RFX",
+    "MRP (Rs.)": 3900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANCA POSITIVE REFLEX MPO, PR3 ANTIBODIES",
+    "Code": "9207RFX",
+    "MRP (Rs.)": 2650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANEMIA PROFILE I",
+    "Code": 1068,
+    "MRP (Rs.)": 1925,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANEMIA PROFILE II",
+    "Code": "1069B",
+    "MRP (Rs.)": 1320,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANEMIA SCREEN",
+    "Code": 9112,
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANGIOTENSIN CONVERTING ENZYME, SERUM",
+    "Code": "3114D",
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTE-NATAL PANEL",
+    "Code": 1359,
+    "MRP (Rs.)": 1760,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTENATAL PANEL ADVANCE",
+    "Code": 7724,
+    "MRP (Rs.)": 2860,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTENATAL SCREEN",
+    "Code": 9114,
+    "MRP (Rs.)": 1375,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI - CCP ANTIBODIES, SERUM",
+    "Code": 3301,
+    "MRP (Rs.)": 2250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI CARDIOLIPIN ANTIBODIES IGM, SERUM",
+    "Code": "3371M",
+    "MRP (Rs.)": 1050,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI MITOCHONDRIAL ANTIBODY, SERUM",
+    "Code": 1102,
+    "MRP (Rs.)": 2700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI MULLERIAN HORMONE",
+    "Code": 4530,
+    "MRP (Rs.)": 2300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI NEUTROPHIL CYTOPLASMIC ANTIBODY, SERUM",
+    "Code": 1862,
+    "MRP (Rs.)": 2600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI PHOSPHOLIPID IGG ANTIBODIES",
+    "Code": "1711T",
+    "MRP (Rs.)": 1450,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI SMOOTH MUSCLE ANTIBODY, SERUM",
+    "Code": 1106,
+    "MRP (Rs.)": 2600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI ß2 GLYCOPROTEIN 1 IGG, SERUM",
+    "Code": 1720,
+    "MRP (Rs.)": 1450,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI ß2 GLYCOPROTEIN 1 IGM, SERUM",
+    "Code": 1719,
+    "MRP (Rs.)": 1450,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI-AQUAPORIN-4(NMO)–MOG PANEL, SERUM/CSF",
+    "Code": 2248,
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI-PHOSPHOLIPASE A2 RECEPTOR (PLA2R) IGG,SERUM",
+    "Code": 4601,
+    "MRP (Rs.)": 5300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTIPHOSPHOLIPID EVAL",
+    "Code": "1080A",
+    "MRP (Rs.)": 5250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI-PHOSPHOLIPID IGM ANTIBODY, SERUM",
+    "Code": 1735,
+    "MRP (Rs.)": 1450,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTISTREPTOLYSIN - O, SERUM QUANTITATIVE",
+    "Code": "2376D",
+    "MRP (Rs.)": 685,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTISTREPTOLYSIN O, SERUM",
+    "Code": 1332,
+    "MRP (Rs.)": 475,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI-THYROGLOBULIN ANTIBODIES, SERUM",
+    "Code": 1110,
+    "MRP (Rs.)": 1900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ANTI-THYROID PEROXIDASE ANTIBODIES, SERUM",
+    "Code": 3062,
+    "MRP (Rs.)": 1850,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "APLA TOTAL",
+    "Code": 4640,
+    "MRP (Rs.)": 5200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ASCITIC FLUID, ROUTINE",
+    "Code": 5194,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ASPERGILLUS. FUMIGATUS-SPECIFIC IGG",
+    "Code": 3261,
+    "MRP (Rs.)": 2000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AUTOIMMUNE ENCEPHALITIS PANEL, SERUM/CSF",
+    "Code": 2246,
+    "MRP (Rs.)": 22500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AUTOIMMUNE HEPATITIS PANEL 1",
+    "Code": "1019A",
+    "MRP (Rs.)": 6250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "AUTOIMMUNE HEPATITIS TOTAL (ANA, SMA, AMA, LKM-1)",
+    "Code": 4894,
+    "MRP (Rs.)": 6300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "B12 PLUS",
+    "Code": 3524,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BACTEC BLOOD CULTURE",
+    "Code": 1225,
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "B-ALL MINIMAL RESIDUAL DISEASE (MRD) ANALYSIS",
+    "Code": 7618,
+    "MRP (Rs.)": 11500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BCR-ABL 1  KINASE DOMAIN MUTATION ANALYSIS, EDTA",
+    "Code": 5351,
+    "MRP (Rs.)": 11000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BCR-ABL QUANTITATIVE (IS)",
+    "Code": "9892IS",
+    "MRP (Rs.)": 7000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BD GLUCAN",
+    "Code": 5569,
+    "MRP (Rs.)": 8200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BETASCREEN",
+    "Code": 3142,
+    "MRP (Rs.)": 330,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BICARBONATE, SERUM",
+    "Code": 6202,
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BILIRUBIN BODY FLUID",
+    "Code": "1088HF1",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BILIRUBIN, TOTAL, SERUM",
+    "Code": "1088H",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BIOFIRE COMPREHENSIVE GI PANEL",
+    "Code": "8057F",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BIOFIRE COMPREHENSIVE MENINGITIS/ ENCEPHALITIS",
+    "Code": "8056F",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BIOFIRE COMPREHENSIVE RESPIRATORY PANEL",
+    "Code": "8054F",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BIOFIRE PNEUMONIA PLUS PANEL",
+    "Code": "8161F",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BK VIRUS  DNA QUANTITATIVE",
+    "Code": "RD1470",
+    "MRP (Rs.)": 8000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLEEDING TIME",
+    "Code": 1089,
+    "MRP (Rs.)": 110,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLEEDING TIME & CLOTTING TIME, EDTA WHOLE BLOOD",
+    "Code": 1090,
+    "MRP (Rs.)": 180,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD COAGULATION PROFILE",
+    "Code": "1389COA",
+    "MRP (Rs.)": 990,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD CULTURE - BACTEC PLUS",
+    "Code": 1212,
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD CULTURE - BACTEC PLUS ANAEROBIC",
+    "Code": "1212NP",
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD CULTURE & SUSCEPTIBILITY",
+    "Code": "5200BC",
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD CULTURE: YEAST - BACTEC",
+    "Code": "1212M",
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD GLUCOSE- FASTING & POST PRANDIAL",
+    "Code": 1433,
+    "MRP (Rs.)": 150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD PRESSURE",
+    "Code": "BP",
+    "MRP (Rs.)": 55,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BLOOD UREA NITROGEN, RANDOM URINE",
+    "Code": "1079RU",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BOH PANEL",
+    "Code": 1014,
+    "MRP (Rs.)": 5700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BOH TOTAL",
+    "Code": 4638,
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BONE HISTOPATHOLOGY",
+    "Code": 1509,
+    "MRP (Rs.)": 1600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BONE MARROW ASPIRATE SMEAR ANALYSIS",
+    "Code": 1054,
+    "MRP (Rs.)": 935,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BONE MARROW ASPIRATION & SMEAR STUDY",
+    "Code": 1052,
+    "MRP (Rs.)": 1540,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BONE MARROW COMPREHENSIVE(BIOPSY AND ASPIRATE)",
+    "Code": "1509F",
+    "MRP (Rs.)": 3850,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BRCA -NEXT, EDTA WHOLE BLOOD",
+    "Code": "RD1421",
+    "MRP (Rs.)": 21000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BREAST CA PANEL",
+    "Code": 1692,
+    "MRP (Rs.)": 5000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BREAST EVALUATION PANEL",
+    "Code": "1831K",
+    "MRP (Rs.)": 4000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BRONCHOALVEOLAR FLUID ANALYSIS",
+    "Code": 5190,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "BRUCELLA IGG & IGM, SERUM",
+    "Code": "8836N",
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "C DIFFICILE TOXIN A/B",
+    "Code": "1218T",
+    "MRP (Rs.)": 3400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "C PEPTIDE, SERUM",
+    "Code": 3140,
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "C1 ESTERASE INHIBITOR,SERUM",
+    "Code": 5653,
+    "MRP (Rs.)": 4300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CA 15-3, SERUM",
+    "Code": 3134,
+    "MRP (Rs.)": 1700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CA 19-9, SERUM",
+    "Code": 3120,
+    "MRP (Rs.)": 1700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CALCIUM, 24HRS URINE",
+    "Code": "4836UH",
+    "MRP (Rs.)": 290,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CALCIUM, IONIZED",
+    "Code": 4831,
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CALCULUS ANALYSIS BY AUTOMATED FTIR",
+    "Code": 4162,
+    "MRP (Rs.)": 1500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CARCINO EMBRYONIC ANTIGEN, SERUM",
+    "Code": 3258,
+    "MRP (Rs.)": 1000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CARDIAC ENZYME PANEL, SERUM",
+    "Code": 1164,
+    "MRP (Rs.)": 1320,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CARDIOLIPIN ANTIBODIES, SERUM",
+    "Code": 3371,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CBC WITH PS",
+    "Code": "5110A",
+    "MRP (Rs.)": 455,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CDC-CROSSMATCH",
+    "Code": "1351G",
+    "MRP (Rs.)": 3750,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CEREBROSPINAL FLUID, ROUTINE",
+    "Code": 5195,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CERULOPLASMIN, SERUM",
+    "Code": "1516D",
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHIKUNGUNYA IGM ANTIBODIES RAPID, SERUM",
+    "Code": 2492,
+    "MRP (Rs.)": 825,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHLORIDE, 24HRS URINE",
+    "Code": "1182UHD",
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHLORIDE, RANDOM, URINE",
+    "Code": "1182HDUR",
+    "MRP (Rs.)": 265,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHLORIDE, SERUM",
+    "Code": "1182HD",
+    "MRP (Rs.)": 265,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHOLESTEROL, BODY FLUID",
+    "Code": "3350HDF1",
+    "MRP (Rs.)": 210,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHROMOGRANIN A, SERUM/EDTA PLASMA",
+    "Code": 3951,
+    "MRP (Rs.)": 8000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHROMOSOMAL MICROARRAY POC",
+    "Code": "6040M",
+    "MRP (Rs.)": 18000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHROMOSOME ANALYSIS: HEMATOLOGICAL DISORDERS",
+    "Code": 5800,
+    "MRP (Rs.)": 4400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CHRONIC LYMPHOPROLIFERATIVE DISORDERS",
+    "Code": 1609,
+    "MRP (Rs.)": 15000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CLASS I ANTIBODY DETECTION (PRA%)",
+    "Code": 8882,
+    "MRP (Rs.)": 13000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CLASS II ANTIBODY DETECTION (PRA %)",
+    "Code": 8883,
+    "MRP (Rs.)": 13000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CLINICAL EXOME ANALYSIS",
+    "Code": "RD1544",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CLOTTING TIME, BLOOD",
+    "Code": 1081,
+    "MRP (Rs.)": 110,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CMV VIRAL LOAD REAL TIME PCR",
+    "Code": 7576,
+    "MRP (Rs.)": 9500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COLORECTAL CANCER PANEL, BLOCKS",
+    "Code": 4550,
+    "MRP (Rs.)": 13000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPLEMENT C3, SERUM",
+    "Code": "1501D",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPLEMENT C4, SERUM",
+    "Code": "1504D",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE ALLERGY - INFANCY,(22 ALLERGENS)",
+    "Code": 1408,
+    "MRP (Rs.)": 12500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE ALLERGY PANELS-ADULTS(30 ALLERGENS)",
+    "Code": 1404,
+    "MRP (Rs.)": 14500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE ANA PROFILE(ANA, ENA BLOT)",
+    "Code": 10002,
+    "MRP (Rs.)": 4500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE HEREDITARY CANCER PANEL (154 GENES)",
+    "Code": "G560",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE MYELOMA PROTEIN PANEL",
+    "Code": "5040M",
+    "MRP (Rs.)": 8700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COMPREHENSIVE NSCLC PANEL 1",
+    "Code": 10169,
+    "MRP (Rs.)": 32000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CONGO RED",
+    "Code": "Z203K7",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COOMBS TEST, DIRECT, EDTA WHOLE BLOOD",
+    "Code": 1120,
+    "MRP (Rs.)": 520,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COPPER, 24 HRS URINE",
+    "Code": "9144U24",
+    "MRP (Rs.)": 2400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COPPER, SERUM",
+    "Code": 9144,
+    "MRP (Rs.)": 2400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CORTISOL, SERUM",
+    "Code": 3128,
+    "MRP (Rs.)": 800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "COUPLE KARYOTYPING (PBLC)",
+    "Code": 7535,
+    "MRP (Rs.)": 5600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATINE KINASE - MB, SERUM",
+    "Code": "3615D",
+    "MRP (Rs.)": 700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATINE KINASE (CPK), SERUM",
+    "Code": "3976H",
+    "MRP (Rs.)": 520,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE CLEARANCE, SERUM AND URINE",
+    "Code": 1322,
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE EGFR",
+    "Code": "1320HGFR",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE, 24HRS URINE",
+    "Code": "1320UH",
+    "MRP (Rs.)": 245,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE, BODY FLUID",
+    "Code": "1320HBF",
+    "MRP (Rs.)": 245,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE, FLUID",
+    "Code": "1320HF",
+    "MRP (Rs.)": 245,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CREATININE, RANDOM, URINE",
+    "Code": "1320HR",
+    "MRP (Rs.)": 245,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CRP, SEMI-QUANTITATIVE, SERUM",
+    "Code": "1535S",
+    "MRP (Rs.)": 415,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CSF CULTURE & SUSCEPTIBILITY",
+    "Code": "1200CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE , SPUTUM SUSCEPTIBILITY",
+    "Code": "1217CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE AEROBIC & SUSCEPTIBILITY",
+    "Code": "1221CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE STOOL, AEROBIC AND SUSCEPTIBILITY",
+    "Code": "5700CS",
+    "MRP (Rs.)": 1250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE, BODY FLUID - BACTEC PLUS AEROBIC",
+    "Code": "1195AP",
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE, BODY FLUID + SUSCEPTIBILITY",
+    "Code": "1194CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE,BLOOD AND SUSCEPTIBILITY",
+    "Code": "1193CS",
+    "MRP (Rs.)": 1250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CULTURE; BETA STREP",
+    "Code": 1192,
+    "MRP (Rs.)": 500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CUSTOM IHC PANEL",
+    "Code": "Z009K",
+    "MRP (Rs.)": 9000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CYTOLOGY FOR MALIGNANT CELLS",
+    "Code": "1515SF",
+    "MRP (Rs.)": 475,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "CYTOMEGALOVIRUS IGG & IGM, SERUM",
+    "Code": 9436,
+    "MRP (Rs.)": 1800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DCP-DECARBOXY PROTHROMBIN PIVKA-II, SERUM",
+    "Code": 4827,
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "D-DIMER, CITRATE PLASMA",
+    "Code": 4200,
+    "MRP (Rs.)": 1650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DEHYDROEPIANDROSTERONE-S, SERUM",
+    "Code": 3150,
+    "MRP (Rs.)": 1250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DENGUE DUO RAPID SCREENING TEST",
+    "Code": 4532,
+    "MRP (Rs.)": 500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DENGUE DUO RAPID SCREENING TEST, SERUM",
+    "Code": "7599R",
+    "MRP (Rs.)": 500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DENGUE NS1 ANTIGEN TEST, SERUM",
+    "Code": 7648,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DIABETA SCREEN",
+    "Code": "3180DS",
+    "MRP (Rs.)": 705,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DIABETES CHAMPION PACKAGE",
+    "Code": 7714,
+    "MRP (Rs.)": 1815,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DIABETES MONITOR",
+    "Code": 1579,
+    "MRP (Rs.)": 1870,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DIHYDROPYRIMIDINE DEHYDROGENASE GENE MUTATION - SE",
+    "Code": 8384,
+    "MRP (Rs.)": 14500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DIRECT LDL CHOLESTEROL, SERUM",
+    "Code": "1533D",
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DOUBLE STRANDED DNA, IFA, SERUM",
+    "Code": 1199,
+    "MRP (Rs.)": 2700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DSA (DONOR SPECIFIC IGG ANTIBODIES TO CLASS I&II)",
+    "Code": 4810,
+    "MRP (Rs.)": 11500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "DUAL MARKER (FMF) BY TRF METHOD,SERUM",
+    "Code": "1268D",
+    "MRP (Rs.)": 2750,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "EBER",
+    "Code": "105AR00",
+    "MRP (Rs.)": 3800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ECZEMA",
+    "Code": 8262,
+    "MRP (Rs.)": 1685,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "EFTS (1ST TRIMESTER QUAD) WITH PREECLAMPSIA, SERUM",
+    "Code": 10471,
+    "MRP (Rs.)": 3800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "EGFR MUTATION DETECTION, TISSUE/BLOCK",
+    "Code": "RD1405",
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ELECTROLYTES (NA/K/CL), 24HRS URINE",
+    "Code": "1568UHD",
+    "MRP (Rs.)": 530,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ELECTROLYTES, RANDOM, URINE",
+    "Code": "1568UHDR",
+    "MRP (Rs.)": 530,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ENTEROQUICK",
+    "Code": 3525,
+    "MRP (Rs.)": 1650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ERYTHROPOIETIN, SERUM",
+    "Code": 1160,
+    "MRP (Rs.)": 2500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "EVEROLIMUS, EDTA/HEPARIN WHOLE BLOOD",
+    "Code": 7165,
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "EYE CULTURE ISO, ID & SENSITIVITY",
+    "Code": "1211CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FACTOR V MUTATION DETECTION, EDTA BLOOD",
+    "Code": 9894,
+    "MRP (Rs.)": 6300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FATTY LIVER INDEX,SERUM",
+    "Code": 10218,
+    "MRP (Rs.)": 600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FECAL CALPROTECTIN, STOOL",
+    "Code": 9980,
+    "MRP (Rs.)": 3200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FERRITIN, SERUM",
+    "Code": 3170,
+    "MRP (Rs.)": 1000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FIBRINOGEN DEGRADATION PRODUCTS (FDP), PLASMA",
+    "Code": 4208,
+    "MRP (Rs.)": 1760,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FIBRINOGEN, CITRATE PLASMA",
+    "Code": 1426,
+    "MRP (Rs.)": 1540,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FINE NEEDLE ASPIRATION (CYTOLOGY SMEARS), SMEARS",
+    "Code": 1515,
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FINE NEEDLE ASPIRATION CYTOLOGY, SMEARS",
+    "Code": 1518,
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FITE FARACO STAIN FOR ACID FAST BACILLI",
+    "Code": "Z203K14",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FLEXI ALLERGY PANEL (ANY 10 ALLERGENS)",
+    "Code": 4012,
+    "MRP (Rs.)": 6800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FLEXI ALLERGY PANEL (ANY 5 ALLERGENS)",
+    "Code": 4010,
+    "MRP (Rs.)": 4000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FLOWCYTOMETRY CROSSMATCHING",
+    "Code": 7540,
+    "MRP (Rs.)": 9000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FLU REAL TIME PCR",
+    "Code": "8008G",
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FLUID, ROUTINE",
+    "Code": 5197,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FOLIC ACID, SERUM",
+    "Code": 3522,
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FOOD INTOLERANCE TEST",
+    "Code": "RD1306",
+    "MRP (Rs.)": 19500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FREE TESTOSTERONE, SERUM",
+    "Code": "3248FT",
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FROZEN SECTION",
+    "Code": "1504FZ",
+    "MRP (Rs.)": 2200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FSH & LH EVALUATION, SERUM",
+    "Code": 2020,
+    "MRP (Rs.)": 1200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FUNGAL STAIN",
+    "Code": 5323,
+    "MRP (Rs.)": 290,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "FUNGUS CULTURE & STAIN",
+    "Code": 5322,
+    "MRP (Rs.)": 1150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "G-6-PD, QUANTITATIVE, BLOOD",
+    "Code": "1146QT",
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GALACTOMANNAN, BRONCHOALVEOLAR LAVAGE FLUID (BAL)",
+    "Code": "1728B",
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GALACTOMANNAN, SERUM",
+    "Code": 1728,
+    "MRP (Rs.)": 5800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GAMMA GLUTAMYL TRANSFERASE, SERUM",
+    "Code": "1294H",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GESTATIONAL GLUCOSE TOLERANCE (GTT) -3, PLASMA",
+    "Code": "1127BS",
+    "MRP (Rs.)": 150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLOBULIN",
+    "Code": "GLOB",
+    "MRP (Rs.)": 235,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE CHALLENGE TEST",
+    "Code": "1302GCT",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE FASTING,FLUORIDE PLASMA",
+    "Code": "1302H",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE RANDOM, PLASMA",
+    "Code": "1302R",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE TOLERANCE TEST (GTT-2),PLASMA",
+    "Code": "1126BS",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE TOLERANCE TEST, PLASMA FLUORIDE",
+    "Code": "1126GT",
+    "MRP (Rs.)": 230,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE, BODY FLUID",
+    "Code": "1302F1",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE, FLUID",
+    "Code": "1302F",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE, POST-PRANDIAL, PLASMA",
+    "Code": 1302,
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE, SPINAL FLUID",
+    "Code": "1302C",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUCOSE, URINE",
+    "Code": "1302UH",
+    "MRP (Rs.)": 80,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GLUTAMIC ACID DECARBOXYLASE ANTIBODY",
+    "Code": 3193,
+    "MRP (Rs.)": 7200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GOMORIS METHANMINE SILVER STAIN (GMS)",
+    "Code": "Z203K3",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GOMORIS RETICULIN STAIN (RETIC)",
+    "Code": "Z203K4",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GONOCOCCAL SMEAR",
+    "Code": "2438B",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GRAM STAIN",
+    "Code": 2438,
+    "MRP (Rs.)": 290,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "GYNAECOLOGICAL CHECK UP",
+    "Code": "GYNAECO",
+    "MRP (Rs.)": 1100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "H & E SLIDES RETURN",
+    "Code": "1500RS",
+    "MRP (Rs.)": 125,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "H S TROPONIN I, SERUM",
+    "Code": 3393,
+    "MRP (Rs.)": 2000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "H1N1 /SWINE FLU BY PCR",
+    "Code": 8008,
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HAPTOGLOBIN, SERUM",
+    "Code": "1519I",
+    "MRP (Rs.)": 4800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HB, TLC & DLC, EDTA WHOLE BLOOD",
+    "Code": 5101,
+    "MRP (Rs.)": 250,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HB, TLC, DLC & ESR, EDTA WHOLE BLOOD",
+    "Code": 5102,
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HBV SCREEN",
+    "Code": 8720,
+    "MRP (Rs.)": 3150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HBV VIRAL LOAD BY REAL TIME PCR",
+    "Code": 9973,
+    "MRP (Rs.)": 4700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HCV VIRAL LOAD BY REAL TIME PCR",
+    "Code": 9972,
+    "MRP (Rs.)": 4700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HDL CHOLESTEROL, SERUM",
+    "Code": "1124HD",
+    "MRP (Rs.)": 310,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HELICOBACTER PYLORI ANTIGEN DETECTION",
+    "Code": 9981,
+    "MRP (Rs.)": 1600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEMOGLOBIN & HEMATOCRIT, EDTA WHOLE BLOOD",
+    "Code": 5112,
+    "MRP (Rs.)": 190,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEMOGLOBIN VARIANT ANALYSIS - EDTA WHOLE BLOOD",
+    "Code": "3834C",
+    "MRP (Rs.)": 1200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEP SCREEN",
+    "Code": 1818,
+    "MRP (Rs.)": 2700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS A IGM, SERUM",
+    "Code": 2451,
+    "MRP (Rs.)": 1500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B AND TETANUS VACCINATION TRAINEES",
+    "Code": 8162,
+    "MRP (Rs.)": 165,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM",
+    "Code": 2452,
+    "MRP (Rs.)": 1350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B CORE IGM, SERUM",
+    "Code": 2457,
+    "MRP (Rs.)": 1350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B E ANTIGEN, SERUM",
+    "Code": 2456,
+    "MRP (Rs.)": 1150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B SURFACE ABS (QUANT), SERUM",
+    "Code": "2453QN",
+    "MRP (Rs.)": 1200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B SURFACE ANTIGEN, SERUM",
+    "Code": 2470,
+    "MRP (Rs.)": 600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS B VIRUS DNA QUANTITATIVE",
+    "Code": 9890,
+    "MRP (Rs.)": 9500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS C ANTIBODIES, SERUM",
+    "Code": 2446,
+    "MRP (Rs.)": 1600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS C VIRUS RNA GENOTYPING",
+    "Code": 7473,
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS C VIRUS RNA QUANTITATIVE",
+    "Code": 9891,
+    "MRP (Rs.)": 9500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HEPATITIS E IGM, SERUM",
+    "Code": "2466M",
+    "MRP (Rs.)": 1900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HER 2/ NEU",
+    "Code": "6006F",
+    "MRP (Rs.)": 13000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HERPES SIMPLEX VIRUS 1&2 IGG & IGM, SERUM",
+    "Code": 8051,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HERPES SIMPLEX VIRUS DNA DETECTOR",
+    "Code": 7581,
+    "MRP (Rs.)": 5800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIGH SENSITIVITY C-REACTIVE PROTEIN, SERUM",
+    "Code": "1537D",
+    "MRP (Rs.)": 1000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIV ABS, WESTERN BLOT, SERUM",
+    "Code": 3012,
+    "MRP (Rs.)": 3800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIV MONITOR (VIRAL LOAD, CD4 / CD8), BLOOD",
+    "Code": "DT4202",
+    "MRP (Rs.)": 7500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIV SCREENING 4TH GEN ASSAY, SERUM",
+    "Code": 9916,
+    "MRP (Rs.)": 750,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIV VIRAL LOAD BY REAL TIME PCR",
+    "Code": 9974,
+    "MRP (Rs.)": 5700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HIV-1 MONITOR",
+    "Code": "DT4206",
+    "MRP (Rs.)": 6700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA - A B DR LOCI TYPING PCR DUO",
+    "Code": 6150,
+    "MRP (Rs.)": 36500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA –A B C DR DQ DP LOCI TYPING",
+    "Code": 4848,
+    "MRP (Rs.)": 33000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA –A B C DR DQ LOCI TYPING BY HISTOSPOT",
+    "Code": 4852,
+    "MRP (Rs.)": 27000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA –A B C DRB1 DQB1 DPB1 HR LOCI TYPING",
+    "Code": 8217,
+    "MRP (Rs.)": 20000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA A, B, DR LOCI TYPING PCR",
+    "Code": 9971,
+    "MRP (Rs.)": 20000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA B27 BY PCR",
+    "Code": 1348,
+    "MRP (Rs.)": 4000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA DUO ABDR & CDC & FLOWCYTOMETRY CROSSMATCHING",
+    "Code": "SP3092",
+    "MRP (Rs.)": 42000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA PLUS",
+    "Code": "SP3054",
+    "MRP (Rs.)": 33500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HLA-B27, FLOW CYTOMETRY, BLOOD",
+    "Code": 1350,
+    "MRP (Rs.)": 3300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HOMEOSTATIC MODEL ASSESSMENT (HOMA) 2, SERUM",
+    "Code": 7561,
+    "MRP (Rs.)": 1300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HP - SKIN BIOPSY",
+    "Code": 1502,
+    "MRP (Rs.)": 1540,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HPV DNA DETECTOR",
+    "Code": 1820,
+    "MRP (Rs.)": 1800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HYPERSENSITIVITY PNEUMONITIS PANEL, SERUM",
+    "Code": 7831,
+    "MRP (Rs.)": 8200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "HYPERTENSION PROFILE",
+    "Code": 1021,
+    "MRP (Rs.)": 1650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "IGG4, SERUM",
+    "Code": "9548C",
+    "MRP (Rs.)": 7400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ILD TOTAL (RH,ANA REF,ANTI CCP,CRP,ACE,HP PANEL)",
+    "Code": 8024,
+    "MRP (Rs.)": 13500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "IMMATURE PLATELET FRACTION",
+    "Code": 10497,
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "IMMUNOFIXATION EP, SERUM",
+    "Code": 3125,
+    "MRP (Rs.)": 7500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "IMMUNOGLOBULIN, SERUM",
+    "Code": 1045,
+    "MRP (Rs.)": 2500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "INDIRECT COOMBS TEST",
+    "Code": 1121,
+    "MRP (Rs.)": 530,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "INHIBIN B, SERUM",
+    "Code": 3339,
+    "MRP (Rs.)": 2500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "INSULIN LIKE GROWTH FACTOR - I, SERUM",
+    "Code": 3194,
+    "MRP (Rs.)": 4700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "INSULIN, SERUM (POST-PRANDIAL)",
+    "Code": "3192A",
+    "MRP (Rs.)": 1050,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "IRON, SERUM",
+    "Code": "3532D",
+    "MRP (Rs.)": 605,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "JAK2 V617F MUTATION DETECTION, EDTA",
+    "Code": 8386,
+    "MRP (Rs.)": 7000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "JONES PERIODIC ACID SILVER METHANAMINE STAIN TECH",
+    "Code": "Z203K2",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "KIDNEY PANEL - II",
+    "Code": 1574,
+    "MRP (Rs.)": 1870,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "KIDNEY SCREEN",
+    "Code": 9113,
+    "MRP (Rs.)": 440,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "KINSHIP ANALYSIS",
+    "Code": "RD1502",
+    "MRP (Rs.)": 26000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "Lactate Dehydrogenase (LDH), Body Fluid",
+    "Code": "1009HBF",
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LACTATE DEHYDROGENASE (LDH), SPINAL FLUID",
+    "Code": "1009HSF",
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LACTATE DEHYDROGENASE, FLUID",
+    "Code": "1009F",
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LACTATE DEHYDROGENASE, SERUM",
+    "Code": "1009H",
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LARGE SPECIMEN, TISSUE",
+    "Code": 1507,
+    "MRP (Rs.)": 2500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LE CELL EXAMINATION, BLOOD",
+    "Code": 1398,
+    "MRP (Rs.)": 355,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LEPRA SMEAR",
+    "Code": "2438E",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LEPTOSPIRA IGM, SERUM",
+    "Code": 7621,
+    "MRP (Rs.)": 1600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LEUKEMIA / LYMPHOMA FLOW CYTOMETRY PANEL",
+    "Code": "1609F",
+    "MRP (Rs.)": 15000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIPASE, FLUID",
+    "Code": "3369DF",
+    "MRP (Rs.)": 825,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIPASE, SERUM",
+    "Code": "3369D",
+    "MRP (Rs.)": 800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIPID PROFILE - NON FASTING, SERUM",
+    "Code": "1209ADNF",
+    "MRP (Rs.)": 440,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIPID SCREEN",
+    "Code": 1383,
+    "MRP (Rs.)": 470,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIPOPROTEIN (A), SERUM",
+    "Code": "3446D",
+    "MRP (Rs.)": 1400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIQUID-BASED CYTOLOGY",
+    "Code": 1284,
+    "MRP (Rs.)": 1350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIQUIPREP CYTOLOGY",
+    "Code": 1274,
+    "MRP (Rs.)": 1350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIVER & KIDNEY PROFILE",
+    "Code": 1022,
+    "MRP (Rs.)": 1375,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIVER FUNCTION TEST (WITHOUT GGT)",
+    "Code": 1387,
+    "MRP (Rs.)": 750,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIVER SCREEN",
+    "Code": 9111,
+    "MRP (Rs.)": 495,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIVER SCREENING PANEL",
+    "Code": 9117,
+    "MRP (Rs.)": 550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LIVER-KIDNEY-MICRO ABS, SERUM",
+    "Code": 1115,
+    "MRP (Rs.)": 2700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LUPUS ANTICOAGULANT",
+    "Code": 5964,
+    "MRP (Rs.)": 2400,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LUXOL FAST BLUE STAIN FOR MYELIN (LFB)",
+    "Code": "Z203K15",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "LYMPHOCYTE SUBSET(CD4% & ABSOLUTE COUNT), BLOOD",
+    "Code": 1659,
+    "MRP (Rs.)": 1550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MAGNESIUM, 24HRS URINE",
+    "Code": "4866UH",
+    "MRP (Rs.)": 455,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MAGNESIUM, RANDOM, URINE",
+    "Code": "4866HUR",
+    "MRP (Rs.)": 440,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MAGNESIUM, SERUM",
+    "Code": "4866H",
+    "MRP (Rs.)": 440,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MAGNESIUM/CREATININE RATIO, RANDOM, URINE",
+    "Code": "4866HURC",
+    "MRP (Rs.)": 440,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MALARIA ANTIGEN DETECTION, WHOLE BLOOD",
+    "Code": 1395,
+    "MRP (Rs.)": 715,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MALARIAL PARASITE (M.P), EDTA WHOLE BLOOD/SMEAR",
+    "Code": 1397,
+    "MRP (Rs.)": 220,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MASSON FONTANA SILVER STAINING TECHNIQUE, MELANIN",
+    "Code": "Z203K8",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MASSON TRICHOME STAIN (MT)",
+    "Code": "Z203K11",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MEDIUM BIOPSY SPECIMEN, TISSUE",
+    "Code": 1511,
+    "MRP (Rs.)": 1500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MELANIN BLEACH TECHNIQUE",
+    "Code": "Z203K9",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "METANEPHRINE FREE (PLASMA)",
+    "Code": "3315P",
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "METANEPHRINES, 24HRS URINE",
+    "Code": 3317,
+    "MRP (Rs.)": 2800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "METHOTREXATE, SERUM",
+    "Code": 6201,
+    "MRP (Rs.)": 4620,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MICROALBUMIN, URINE",
+    "Code": "3441UD",
+    "MRP (Rs.)": 605,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MICROBIOLOGY STAIN / ALBERT STAIN",
+    "Code": 1713,
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MICROFILARIA DETECTION, BLOOD",
+    "Code": 1493,
+    "MRP (Rs.)": 330,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MINI HCP",
+    "Code": 9115,
+    "MRP (Rs.)": 2035,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MINIMAL RESIDUAL DISEASE (MRD) BY FLOW CYTOMETRY",
+    "Code": 2015,
+    "MRP (Rs.)": 15000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MPN REFLEX PANEL",
+    "Code": "RD1322RFX",
+    "MRP (Rs.)": 16500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MTHFR GENE MUTATION",
+    "Code": 9802,
+    "MRP (Rs.)": 10000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MUCICARMINE STAIN",
+    "Code": "Z203K5",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MULTIPLE MYELOMA PANEL FISH",
+    "Code": "6031F",
+    "MRP (Rs.)": 16000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MUSK ANTIBODY (SERUM)",
+    "Code": 4065,
+    "MRP (Rs.)": 8000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYASTHENIA GRAVIS PANEL",
+    "Code": 8903,
+    "MRP (Rs.)": 9200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYCO3PLEX",
+    "Code": 2435,
+    "MRP (Rs.)": 3600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYCOBACTERIUM CULTURE - BACTEC EXTRA PULMONARY",
+    "Code": "1464EP",
+    "MRP (Rs.)": 1700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYELODYSPLASTIC SYNDROME EVALUATION (FISH)",
+    "Code": "6018F",
+    "MRP (Rs.)": 11000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYELOID PROFILER NEXT PANEL",
+    "Code": "RD1674",
+    "MRP (Rs.)": 23000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYOSITIS PROFILE (11 ANTIGENS),SERUM",
+    "Code": 8924,
+    "MRP (Rs.)": 9500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "MYOSITIS PROFILE (16 ANTIGENS),SERUM",
+    "Code": "8924B",
+    "MRP (Rs.)": 13000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NASAL EOSINOPHILS",
+    "Code": "1262NF",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NATIVE KIDNEY BIOPSY",
+    "Code": "1761G",
+    "MRP (Rs.)": 5000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NEUROTROPIC VIRUS PANEL",
+    "Code": "RD1462",
+    "MRP (Rs.)": 8000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NIPT",
+    "Code": "RD1492",
+    "MRP (Rs.)": 16500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NIPT WITH MICRODELETION",
+    "Code": "RD1492T",
+    "MRP (Rs.)": 19000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NK CELL EVALUATION, BLOOD",
+    "Code": 5422,
+    "MRP (Rs.)": 4500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "NSCLC PANEL",
+    "Code": "10138RFX",
+    "MRP (Rs.)": 22000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "N-TERMINAL PRO B-TYPE NATRIURETIC PEPTIDE, SERUM",
+    "Code": 2121,
+    "MRP (Rs.)": 4300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OLIGOCLONAL BANDS, CSF",
+    "Code": 1316,
+    "MRP (Rs.)": 6200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ONCOMINE COMPREHENSIVE PLUS PANEL",
+    "Code": "G564",
+    "MRP (Rs.)": 135000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ORAL GLUCOSE TOLERANCE TEST - GESTATIONAL",
+    "Code": "1126BH",
+    "MRP (Rs.)": 150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OSMOLALITY, URINE",
+    "Code": "3231U",
+    "MRP (Rs.)": 1100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OSMOTIC FRAGILITY TEST, BLOOD",
+    "Code": 5113,
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OT SURVEILLANCE",
+    "Code": "LC001",
+    "MRP (Rs.)": 4950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OT SURVEILLANCE - AEROBIC CULTURE",
+    "Code": "LC002A",
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "OVARIAN MALIGNANCY RISK ALGORITHM (ROMA)-HE4+CA125",
+    "Code": 7194,
+    "MRP (Rs.)": 3650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PANCREATIC ELASTASE, STOOL",
+    "Code": 3884,
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PAP DUO-LBC+HPV DNA DETECTOR",
+    "Code": 1822,
+    "MRP (Rs.)": 2600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PAPANICOLAOU SMEAR",
+    "Code": 1272,
+    "MRP (Rs.)": 690,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PARAFFIN BLOCK H&E SLIDE, TISSUE/PB",
+    "Code": "Z201K",
+    "MRP (Rs.)": 1100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PARAFFIN BLOCKS RETURN",
+    "Code": "1500RB",
+    "MRP (Rs.)": 125,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PARAFFIN BLOCKS/H& E SLIDE, TISSUE/PB",
+    "Code": "Z202K",
+    "MRP (Rs.)": 1650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PARANEOPLASTIC NEUROLOGIC SYNDROME-6 ANTIGENS",
+    "Code": 3861,
+    "MRP (Rs.)": 7000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PCOD PANEL",
+    "Code": 1011,
+    "MRP (Rs.)": 4650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PCOS BASIC",
+    "Code": 8067,
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PCOS TOTAL",
+    "Code": 4639,
+    "MRP (Rs.)": 4500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PDL 1 - 22 C3 - DAKO",
+    "Code": "163AR00",
+    "MRP (Rs.)": 11000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PERICARDIAL FLUID ANALYSIS",
+    "Code": 5192,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PERIODIC ACID SCHIFFS STAIN (PAS)",
+    "Code": "Z203K1",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PERIPHERAL SMEAR EXAM, EDTA WHOLE BLOOD",
+    "Code": 5162,
+    "MRP (Rs.)": 220,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PERITONEAL FLUID, ROUTINE",
+    "Code": 5193,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PERLS PRUSSION BLUE STAIN FOR HEMOSIDERIN",
+    "Code": "Z203K10",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PH, RANDOM, URINE",
+    "Code": 10598,
+    "MRP (Rs.)": 180,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PHILADELPHIA CHROMOSOME (BCR/ABL - QUANTITATIVE)",
+    "Code": "5350QN",
+    "MRP (Rs.)": 7000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PHOSPHORUS, 24HRS URINE",
+    "Code": "1591UH",
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PHOSPHORUS, RANDOM, URINE",
+    "Code": "1591R",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PHOSPHORUS, SERUM",
+    "Code": "1591H",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PIVKA II TOTAL",
+    "Code": 7796,
+    "MRP (Rs.)": 4200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PLEURAL FLUID, ROUTINE",
+    "Code": 5196,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "POTASSIUM, RANDOM, URINE",
+    "Code": "5311R",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "POTASSIUM, SERUM",
+    "Code": "5311HD",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "POTASSIUM, URINE",
+    "Code": "5311UHD",
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PREGNANCY TEST, SPOT URINE (UPT)",
+    "Code": 3189,
+    "MRP (Rs.)": 310,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PREOPERATIVE PANEL",
+    "Code": "1344A",
+    "MRP (Rs.)": 1735,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROCALCITONIN, SERUM",
+    "Code": 3226,
+    "MRP (Rs.)": 5600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PRODUCT OF CONCEPTION (POC) – GENETIC SCREENING",
+    "Code": "RD1546",
+    "MRP (Rs.)": 7500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROGESTERONE, SERUM",
+    "Code": 3163,
+    "MRP (Rs.)": 850,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN C ACTIVITY, PLASMA",
+    "Code": 3836,
+    "MRP (Rs.)": 4600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN ELECTROPHORESIS REFLEX TO IMMUNOFIXATION",
+    "Code": "9201RFXM",
+    "MRP (Rs.)": 3800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN ELECTROPHORESIS, SERUM",
+    "Code": "1580M",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN S ACTIVITY, PLASMA",
+    "Code": 3837,
+    "MRP (Rs.)": 4600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN, 24HRS URINE",
+    "Code": "1324U",
+    "MRP (Rs.)": 465,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN, TOTAL, BODY FLUID",
+    "Code": "1324FB",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PROTEIN, TOTAL, SPINAL FLUID",
+    "Code": "1324TSF",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PSA FREE & TOTAL, SERUM",
+    "Code": 3547,
+    "MRP (Rs.)": 1950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PTH(INTACT),EDTA & CALCIUM, SERUM",
+    "Code": 3944,
+    "MRP (Rs.)": 2200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "PUS CULTURE & SENSITIVITY, AEROBIC",
+    "Code": "1221B",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "QUADRUPLE MARKER, SERUM",
+    "Code": 1275,
+    "MRP (Rs.)": 4200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "QUANTITATIVE D-DIMER, CITRATE PLASMA",
+    "Code": 4199,
+    "MRP (Rs.)": 1650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RA TOTAL",
+    "Code": "4635M",
+    "MRP (Rs.)": 3350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RAAS SCREENING, SERUM",
+    "Code": 2333,
+    "MRP (Rs.)": 6000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RADICAL TUMOUR SAMPLE",
+    "Code": 5571,
+    "MRP (Rs.)": 5300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RAPID TYPHI IGM, SERUM/PLASMA EDTA/EDTA WB",
+    "Code": 9075,
+    "MRP (Rs.)": 570,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RBC COUNT, BLOOD",
+    "Code": "5112R",
+    "MRP (Rs.)": 165,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RECIPIENT ANTIBODY STATUS (POS/ NEG)",
+    "Code": 8881,
+    "MRP (Rs.)": 6500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "REDUCING SUBSTANCES, STOOL",
+    "Code": 2365,
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RETICULOCYTE COUNT, EDTA WHOLE BLOOD",
+    "Code": 5170,
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RETURN OF PARAFFIN BLOCK/ SLIDE",
+    "Code": "1500R",
+    "MRP (Rs.)": 125,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RHEUMATOID FACTOR QUANTITATIVE, SERUM",
+    "Code": "1540D",
+    "MRP (Rs.)": 800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RHEUMATOID FACTOR, BODY FLUID",
+    "Code": "1540F",
+    "MRP (Rs.)": 800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RUBELLA IGG & IGM, SERUM",
+    "Code": "9421M",
+    "MRP (Rs.)": 1550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "RUBELLA IGG ANTIBODIES, SERUM",
+    "Code": "9416M",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SCA PANEL, EDTA BLOOD",
+    "Code": 4593,
+    "MRP (Rs.)": 14100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SCRUB TYPHUS IGM, SERUM",
+    "Code": "1739E",
+    "MRP (Rs.)": 1150,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SECOND OPINION / REVIEW",
+    "Code": "013AR00",
+    "MRP (Rs.)": 8500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SEMEN ANALYSIS",
+    "Code": 1265,
+    "MRP (Rs.)": 475,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SERUM BLOOD UREA NITROGEN WITH UREA",
+    "Code": "1078D",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SERUM FREE LIGHT CHAINS (KAPPA & LAMBDA)",
+    "Code": 1732,
+    "MRP (Rs.)": 6600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SICKLING TEST, EDTA WHOLE BLOOD",
+    "Code": 1400,
+    "MRP (Rs.)": 220,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SINGLE ANTIGEN BEAD CLASS I",
+    "Code": 8884,
+    "MRP (Rs.)": 24000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SINGLE ANTIGEN BEAD CLASS II",
+    "Code": 8885,
+    "MRP (Rs.)": 22000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SKIN TEST MANTOUX",
+    "Code": 1256,
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SLE DIAGNOSTIC PROFILE",
+    "Code": 5004,
+    "MRP (Rs.)": 2550,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SODIUM, RANDOM, URINE",
+    "Code": "5306R",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SODIUM, SERUM",
+    "Code": "5306HD",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SODIUM, URINE",
+    "Code": "5306UHD",
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SPECIAL STAINS, TISSUE/PARAFFIN BLOCK",
+    "Code": "Z203K",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SPECIFIC GRAVITY, RANDOM, URINE",
+    "Code": 10600,
+    "MRP (Rs.)": 180,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SPERM DNA FRAGMENTATION",
+    "Code": 9444,
+    "MRP (Rs.)": 7000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SPUTUM EOSINOPHILS",
+    "Code": "1262S",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "STOOL - HANGING DROP METHOD",
+    "Code": 2368,
+    "MRP (Rs.)": 165,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "STOOL FOR CULTURE & SENSITIVITY, AEROBIC",
+    "Code": "5700B",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "STOOL FOR OCCULT BLOOD",
+    "Code": 2367,
+    "MRP (Rs.)": 180,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "SYNOVIAL FLUID, ROUTINE",
+    "Code": 5191,
+    "MRP (Rs.)": 660,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "T. PALLIDUM HEMAGGLUTINATION, SERUM",
+    "Code": 9020,
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TACROLIMUS",
+    "Code": 5950,
+    "MRP (Rs.)": 5000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TACROLIMUS, EDTA WHOLE BLOOD",
+    "Code": "5950T",
+    "MRP (Rs.)": 4800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TACROLIMUS, EDTA/HEPARIN WHOLE BLOOD",
+    "Code": "5950A",
+    "MRP (Rs.)": 5000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TBFERON (M TUBERCULOSIS IGRA)",
+    "Code": 2406,
+    "MRP (Rs.)": 3200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TESTOSTERONE,FREE/TOTAL, SERUM",
+    "Code": 3248,
+    "MRP (Rs.)": 2650,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THALASSEMIA PROFILE",
+    "Code": "4970B",
+    "MRP (Rs.)": 1900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THROAT SWAB CULTURE + SUSCEPTIBILITY",
+    "Code": "1219CS",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THROMBOCHECK HEREDITARY",
+    "Code": 7980,
+    "MRP (Rs.)": 14500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THROMBOCHECK PANEL",
+    "Code": 1253,
+    "MRP (Rs.)": 20000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THROMBOCHECK TOTAL",
+    "Code": 1751,
+    "MRP (Rs.)": 23500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THYROGLOBULIN, SERUM",
+    "Code": 3251,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THYROID ANTIBODIES, SERUM",
+    "Code": 1016,
+    "MRP (Rs.)": 2900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THYROID SCREENING PANEL",
+    "Code": "TSP",
+    "MRP (Rs.)": 1900,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "THYROSCREEN PANEL",
+    "Code": 5009,
+    "MRP (Rs.)": 750,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TISSUE FOR PROCESSING, TISSUE/PARAFFIN BLOCK",
+    "Code": "TISSUE5",
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TISSUE TRANSGLUTAMINASE IGA, SERUM",
+    "Code": 9362,
+    "MRP (Rs.)": 1700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TNF – ALPHA (SERUM)",
+    "Code": 5433,
+    "MRP (Rs.)": 5000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TORCH IGG & IGM ABS (EIA)",
+    "Code": 9901,
+    "MRP (Rs.)": 3600,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL BILE ACIDS, SERUM",
+    "Code": 5201,
+    "MRP (Rs.)": 2300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL IGG, SERUM",
+    "Code": "1505D",
+    "MRP (Rs.)": 1050,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL IRON BINDING CAPACITY, SERUM",
+    "Code": "3533UHD",
+    "MRP (Rs.)": 530,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL LEUKOCYTE COUNT",
+    "Code": "5101B",
+    "MRP (Rs.)": 385,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL PROTEIN, CSF",
+    "Code": "1324C",
+    "MRP (Rs.)": 320,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL PROTEIN, SERUM",
+    "Code": "1324H",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL PROTEIN, SYNOVIAL FLUID",
+    "Code": "1324SF",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOTAL PROTEIN,ALBUMIN,GLOBULIN, SERUM",
+    "Code": "1324A",
+    "MRP (Rs.)": 245,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TOXOPLASMA IGG & IGM ANTIBODIES, SERUM",
+    "Code": "2261M",
+    "MRP (Rs.)": 1700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TPMT GENOTYPING, EDTA WHOLE BLOOD",
+    "Code": 8030,
+    "MRP (Rs.)": 6200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TRANSFERRIN, SERUM",
+    "Code": "1519HD",
+    "MRP (Rs.)": 1450,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TRIGLYCERIDES, BODY FLUID",
+    "Code": "3346R",
+    "MRP (Rs.)": 330,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TRIPLE MARKER TEST BY TRF METHOD, SERUM",
+    "Code": "1267P",
+    "MRP (Rs.)": 3200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TRIPLE TEST",
+    "Code": 1267,
+    "MRP (Rs.)": 3200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TROPONIN T - HS, SERUM",
+    "Code": "3395A",
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TSH RECEPTOR ANTIBODIES, SERUM",
+    "Code": "3254I",
+    "MRP (Rs.)": 5200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TWO STEP STRATEGY FOR OGTT IN GDM",
+    "Code": 1139,
+    "MRP (Rs.)": 45,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "TZANK SMEAR",
+    "Code": "2438D",
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "UGTA1 GENE MUTATION",
+    "Code": "RD1479",
+    "MRP (Rs.)": 14000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ULTIMATE LIPID PROFILE, SERUM",
+    "Code": "1532D",
+    "MRP (Rs.)": 580,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "UREA NITROGEN, 24HRS URINE",
+    "Code": "1079UH",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "UREA NITROGEN, BODY FLUID",
+    "Code": "1079HBF",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "UREA, 24 HOUR, URINE",
+    "Code": "1079U24",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "UREA, RANDOM, URINE",
+    "Code": "1079URU",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URIC ACID, 24HRS URINE",
+    "Code": "1310UH",
+    "MRP (Rs.)": 300,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URIC ACID, BODY FLUID",
+    "Code": "1310HF",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URIC ACID/CREATININE RATIO, RANDOM, URINE",
+    "Code": "1310HR",
+    "MRP (Rs.)": 255,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINARY EOSINOPHILS",
+    "Code": "1262U",
+    "MRP (Rs.)": 200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINARY PROTEIN CREATININE RATIO",
+    "Code": "1324UC",
+    "MRP (Rs.)": 310,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINARY PROTEIN, RANDOM URINE",
+    "Code": "1324RU",
+    "MRP (Rs.)": 465,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINE CULTURE AND SENSITIVITY",
+    "Code": "1285E",
+    "MRP (Rs.)": 950,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINE FOR BILE PIGMENTS",
+    "Code": "5200BP",
+    "MRP (Rs.)": 125,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINE FOR BILE SALTS",
+    "Code": "5200B",
+    "MRP (Rs.)": 125,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "URINE PROTEIN (24 HRS / SPOT URINE)",
+    "Code": "1324US",
+    "MRP (Rs.)": 310,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VACCICHEQ",
+    "Code": "DT3203",
+    "MRP (Rs.)": 6800,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VAGINAL SWAB FOR C&S",
+    "Code": 1717,
+    "MRP (Rs.)": 935,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VAGINAL SWAB FOR TV / MONILIASIS",
+    "Code": 1714,
+    "MRP (Rs.)": 275,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VANILMANDELIC ACID, 24HRS URINE",
+    "Code": "3316U",
+    "MRP (Rs.)": 4700,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VARICELLA ZOSTER IGG, SERUM",
+    "Code": 8761,
+    "MRP (Rs.)": 2000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VDRL (MODIFIED),SERUM",
+    "Code": 2366,
+    "MRP (Rs.)": 350,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VDRL, CSF",
+    "Code": "2366C",
+    "MRP (Rs.)": 330,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VERHOEFFS VAN GIESON METHOD FOR ELASTIC FIBRES",
+    "Code": "Z203K12",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VIRAL SCREEN",
+    "Code": 9116,
+    "MRP (Rs.)": 1375,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VITAMIN D PLUS",
+    "Code": 9510,
+    "MRP (Rs.)": 2200,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "VITAMIN PLUS",
+    "Code": 9509,
+    "MRP (Rs.)": 2100,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "WHITE CELL COUNT AND DIFFERENTIAL, EDTA WB",
+    "Code": 5122,
+    "MRP (Rs.)": 180,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "WHOLE EXOME SEQUENCING - SOLO",
+    "Code": "RD1493",
+    "MRP (Rs.)": 27000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "WHOLE EXOME SEQUENCING WITH MT DNA SEQUENCING",
+    "Code": "G592",
+    "MRP (Rs.)": 29000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT MTB /RIF ULTRA – EXTRA-PULMONARY",
+    "Code": "RD1324UEP",
+    "MRP (Rs.)": 2416,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT MTB/RIF - EXTRAPULMONARY",
+    "Code": "RD1324EP",
+    "MRP (Rs.)": 2416,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT MTB/RIF - PULMONARY",
+    "Code": "RD1324",
+    "MRP (Rs.)": 2416,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT MTB/RIF ULTRA - PULMONARY",
+    "Code": "RD1324UL",
+    "MRP (Rs.)": 2416,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT PLUS",
+    "Code": 9507,
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "XPERT PLUS EXTRAPULMONARY",
+    "Code": "9507EPUL",
+    "MRP (Rs.)": 3000,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "Y-CHROMOSOME MICRODELETION PCR, EDTA BLOOD",
+    "Code": "RD1440",
+    "MRP (Rs.)": 9500,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "ZIEL-NEELSEN TECHNIQUE FOR ACID FAST BACILLI",
+    "Code": "Z203K13",
+    "MRP (Rs.)": 410,
+    "Type": "Specialised"
+  },
+  {
+    "Test Name": "Skin biopsy and immunoflorescence",
+    "Code": "1528S",
+    "MRP (Rs.)": 4200,
+    "Type": "Specialised"
+  }
+]

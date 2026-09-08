@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "diagnostics-site-dev",
+      "runtimeExecutable": "C:\\Users\\admin\\Downloads\\Website\\run-dev.cmd",
+      "runtimeArgs": [],
+      "port": 3000
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fafafa;
+}
+
+/* Hero: illustration shows first on mobile, then text/search/booking options;
+   on desktop the illustration sits to the right, spanning the full column. */
+.hero-grid {
+  display: grid;
+  grid-template-areas: "illus" "text" "search" "moreways";
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 768px) {
+  .hero-grid {
+    grid-template-areas: "text illus" "search illus" "moreways illus";
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+}
+.hero-illus { grid-area: illus; }
+.hero-text { grid-area: text; }
+.hero-search { grid-area: search; }
+.hero-moreways { grid-area: moreways; }

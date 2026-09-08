@@ -1,0 +1,20 @@
+node_modules
+.next
+.data
+.env.local
+scripts/node_modules
+
+# Rights-encumbered / not-for-use reference image - never commit this
+Anil Kapoor Home Collection Sample.jpg
+
+# Stock photo candidates evaluated but not used for the hero image
+scratch-photos/
+
+# Excel lock file
+~$*.xlsx
+
+# TypeScript build cache
+tsconfig.tsbuildinfo
+
+# Unread file - contents unknown, excluded until reviewed (see chat)
+CC SPRF.pdf

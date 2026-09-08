@@ -1,0 +1,184 @@
+[
+  {
+    "Package Name": "Full Body Checkup Mini",
+    "Category": "Full Body Checkups",
+    "Code": "PKG-FBCM",
+    "Package Price (Rs.)": 1099,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Full Body Checkup Essential",
+    "Category": "Full Body Checkups",
+    "Code": "PKG-FBCE",
+    "Package Price (Rs.)": 1350,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Full Body Checkup Advanced",
+    "Category": "Full Body Checkups",
+    "Code": "PKG-FBCA",
+    "Package Price (Rs.)": 2099,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Advanced Heart Checkup",
+    "Category": "Heart Health",
+    "Code": "PKG-AHC",
+    "Package Price (Rs.)": 2499,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Diabetes Basic",
+    "Category": "Diabetes",
+    "Code": "PKG-DB",
+    "Package Price (Rs.)": 599,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Infection Basic",
+    "Category": "Fever and Infection",
+    "Code": "PKG-IB",
+    "Package Price (Rs.)": 999,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Vitamin Checkup",
+    "Category": "Fever and Infection",
+    "Code": "PKG-VC",
+    "Package Price (Rs.)": 1499,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Fever & Infection Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-FIP",
+    "Package Price (Rs.)": 1249,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Pre-Surgical Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-PSP",
+    "Package Price (Rs.)": 3199,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "First Trimester Antenatal Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-FTA",
+    "Package Price (Rs.)": 2599,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Second / Third Trimester Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-STT",
+    "Package Price (Rs.)": 1349,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "PCOS Workup Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-PCOS",
+    "Package Price (Rs.)": 4399,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Menopause & Perimenopause Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-MENO",
+    "Package Price (Rs.)": 1299,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Female Infertility Workup",
+    "Category": "Women's Health",
+    "Code": "PKG-FIW",
+    "Package Price (Rs.)": 3099,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "TORCH Comprehensive Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-TORCH",
+    "Package Price (Rs.)": 4899,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Diabetes Monitoring Panel",
+    "Category": "Diabetes",
+    "Code": "PKG-DMP",
+    "Package Price (Rs.)": 3049,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Thyroid Panel (T3, T4, TSH)",
+    "Category": "Thyroid",
+    "Code": "PKG-TP",
+    "Package Price (Rs.)": 399,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Insulin Resistance Panel",
+    "Category": "Diabetes",
+    "Code": "PKG-IRP",
+    "Package Price (Rs.)": 3099,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Comprehensive Endocrine Screen",
+    "Category": "Diabetes",
+    "Code": "PKG-CES",
+    "Package Price (Rs.)": 3699,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Anaemia Workup Panel",
+    "Category": "Women's Health",
+    "Code": "PKG-AWP",
+    "Package Price (Rs.)": 2249,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Liver Disease Panel",
+    "Category": "Liver Health",
+    "Code": "PKG-LDP",
+    "Package Price (Rs.)": 1999,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "HIV Monitoring Panel",
+    "Category": "Sexual Health",
+    "Code": "PKG-HIVM",
+    "Package Price (Rs.)": 3149,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Hair Loss & Hormonal Panel",
+    "Category": "Skin Conditions",
+    "Code": "PKG-HLH",
+    "Package Price (Rs.)": 2649,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Autoimmune Skin Panel",
+    "Category": "Skin Conditions",
+    "Code": "PKG-ASK",
+    "Package Price (Rs.)": 2249,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "Allergy & Urticaria Panel",
+    "Category": "Skin Conditions",
+    "Code": "PKG-AUP",
+    "Package Price (Rs.)": 1649,
+    "Type": "Package"
+  },
+  {
+    "Package Name": "STI / Infection Screen",
+    "Category": "Skin Conditions",
+    "Code": "PKG-STI",
+    "Package Price (Rs.)": 1599,
+    "Type": "Package"
+  }
+]
