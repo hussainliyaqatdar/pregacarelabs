@@ -72,7 +72,7 @@ export default function SearchModal() {
         role="dialog"
         aria-modal="true"
         aria-label="Search tests and packages"
-        className="relative bg-white w-full h-full sm:h-auto sm:max-h-[85vh] sm:max-w-xl sm:rounded-xl shadow-xl flex flex-col animate-[search-modal-in_0.15s_ease-out]"
+        className="relative bg-white w-full h-dvh sm:h-auto sm:max-h-[85vh] sm:max-w-xl sm:rounded-xl shadow-xl flex flex-col animate-[search-modal-in_0.15s_ease-out]"
       >
         <div className="flex items-center justify-between px-4 py-3 border-b shrink-0">
           <h2 className="text-lg font-bold text-gray-900">Search tests and packages</h2>

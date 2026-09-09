@@ -132,15 +132,15 @@ export default function CheckoutPage() {
   }
 
   return (
-    <div className="grid md:grid-cols-3 gap-8 max-w-4xl">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl">
       <div className="md:col-span-2 flex flex-col gap-6">
         <h1 className="text-2xl font-bold text-gray-900">Book your home collection</h1>
 
         <div className="bg-white border rounded-lg p-4 flex flex-col gap-3">
           <h2 className="font-semibold text-gray-900">Patient details</h2>
-          <div className="grid grid-cols-2 gap-3">
-            <input placeholder="Full name*" value={form.name} onChange={(e) => update("name", e.target.value)} className="border rounded-md px-3 py-2 text-sm col-span-2" />
-            <input placeholder="WhatsApp number* (for report delivery)" value={form.whatsapp} onChange={(e) => update("whatsapp", e.target.value)} className="border rounded-md px-3 py-2 text-sm col-span-2" />
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <input placeholder="Full name*" value={form.name} onChange={(e) => update("name", e.target.value)} className="border rounded-md px-3 py-2 text-sm sm:col-span-2" />
+            <input placeholder="WhatsApp number* (for report delivery)" value={form.whatsapp} onChange={(e) => update("whatsapp", e.target.value)} className="border rounded-md px-3 py-2 text-sm sm:col-span-2" />
             <select value={form.gender} onChange={(e) => update("gender", e.target.value)} className="border rounded-md px-3 py-2 text-sm">
               <option value="">Gender*</option>
               <option>Female</option>
@@ -155,7 +155,7 @@ export default function CheckoutPage() {
           <h2 className="font-semibold text-gray-900">Collection address</h2>
 
           <div className="bg-brand-light rounded-md px-3 py-2 flex flex-col gap-2">
-            <div className="flex items-center justify-between">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
               <div className="text-sm text-gray-700">
                 <span className="font-medium">Current Location (Google Maps)</span>
                 {coords && (
@@ -169,7 +169,7 @@ export default function CheckoutPage() {
                 type="button"
                 onClick={useCurrentLocation}
                 disabled={locating}
-                className="text-xs font-medium bg-white border border-brand text-brand-dark px-3 py-1.5 rounded-md hover:bg-brand hover:text-white transition disabled:opacity-60 whitespace-nowrap"
+                className="text-xs font-medium bg-white border border-brand text-brand-dark px-3 py-1.5 rounded-md hover:bg-brand hover:text-white transition disabled:opacity-60 whitespace-nowrap shrink-0 self-start sm:self-auto"
               >
                 {locating ? "Locating…" : coords ? "Update location" : "Use current location"}
               </button>
@@ -184,12 +184,12 @@ export default function CheckoutPage() {
                 Current location not working? Enter it manually
               </button>
             ) : (
-              <div className="flex gap-2">
+              <div className="flex flex-col sm:flex-row gap-2">
                 <input
                   placeholder="Paste a Google Maps link, or lat,lng (e.g. 12.9081, 77.5831)"
                   value={manualLocationInput}
                   onChange={(e) => setManualLocationInput(e.target.value)}
-                  className="flex-1 border rounded-md px-3 py-2 text-sm bg-white"
+                  className="flex-1 border rounded-md px-3 py-2 text-sm bg-white min-w-0"
                 />
                 <button
                   type="button"
@@ -228,7 +228,7 @@ export default function CheckoutPage() {
                     }
                     setManualLocationError("Couldn't read a location from that. Try pasting the full Google Maps link, or exact coordinates like 12.9081, 77.5831.");
                   }}
-                  className="text-xs font-medium bg-white border border-brand text-brand-dark px-3 py-1.5 rounded-md hover:bg-brand hover:text-white transition disabled:opacity-60 whitespace-nowrap"
+                  className="text-xs font-medium bg-white border border-brand text-brand-dark px-3 py-1.5 rounded-md hover:bg-brand hover:text-white transition disabled:opacity-60 whitespace-nowrap shrink-0"
                 >
                   {resolvingLink ? "Resolving link…" : "Set location"}
                 </button>
@@ -238,7 +238,7 @@ export default function CheckoutPage() {
           </div>
 
           <input placeholder="House/flat, street, landmark*" value={form.addressLine} onChange={(e) => update("addressLine", e.target.value)} className="border rounded-md px-3 py-2 text-sm" />
-          <div className="grid grid-cols-3 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             <input placeholder="Locality (e.g. JP Nagar)" value={form.locality} onChange={(e) => update("locality", e.target.value)} className="border rounded-md px-3 py-2 text-sm" />
             <input placeholder="City" value={form.city} onChange={(e) => update("city", e.target.value)} className="border rounded-md px-3 py-2 text-sm" />
             <input placeholder="Pincode*" value={form.pincode} onChange={(e) => update("pincode", e.target.value)} className="border rounded-md px-3 py-2 text-sm" />
@@ -269,13 +269,13 @@ export default function CheckoutPage() {
             })}
           </div>
 
-          <div className="grid grid-cols-3 gap-2">
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
             {slots.map((s) => (
               <button
                 key={s.slot}
                 disabled={!s.available}
                 onClick={() => setSlot(s.slot)}
-                className={`text-sm px-3 py-2 rounded-md border ${
+                className={`text-xs sm:text-sm px-2 sm:px-3 py-2 rounded-md border ${
                   !s.available ? "bg-gray-100 text-gray-400 cursor-not-allowed" : slot === s.slot ? "bg-brand text-white border-brand" : "bg-white text-gray-700 hover:border-brand"
                 }`}
               >
@@ -288,7 +288,7 @@ export default function CheckoutPage() {
       </div>
 
       <div className="md:col-span-1">
-        <div className="bg-brand-light rounded-lg p-4 flex flex-col gap-2 sticky top-20">
+        <div className="bg-brand-light rounded-lg p-4 flex flex-col gap-2 md:sticky md:top-20">
           <h2 className="font-semibold text-gray-900">Order summary</h2>
           {items.map((i) => (
             <div key={`${i.kind}-${i.slug}`} className="flex justify-between text-sm">

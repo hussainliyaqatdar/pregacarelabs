@@ -6,6 +6,7 @@ import { allTests, allPackages } from "./catalog";
 type CartContextType = {
   lines: CartLine[];
   add: (kind: "test" | "package", slug: string) => void;
+  decrement: (kind: "test" | "package", slug: string) => void;
   remove: (kind: "test" | "package", slug: string) => void;
   clear: () => void;
   count: number;
@@ -41,6 +42,15 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     });
   }
 
+  function decrement(kind: "test" | "package", slug: string) {
+    setLines((prev) =>
+      prev.flatMap((l) => {
+        if (!(l.kind === kind && l.slug === slug)) return [l];
+        return l.qty <= 1 ? [] : [{ ...l, qty: l.qty - 1 }];
+      })
+    );
+  }
+
   function remove(kind: "test" | "package", slug: string) {
     setLines((prev) => prev.filter((l) => !(l.kind === kind && l.slug === slug)));
   }
@@ -51,7 +61,7 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
 
   const count = lines.reduce((sum, l) => sum + l.qty, 0);
 
-  return <CartContext.Provider value={{ lines, add, remove, clear, count }}>{children}</CartContext.Provider>;
+  return <CartContext.Provider value={{ lines, add, decrement, remove, clear, count }}>{children}</CartContext.Provider>;
 }
 
 export function useCart() {

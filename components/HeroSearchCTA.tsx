@@ -13,7 +13,6 @@ export default function HeroSearchCTA() {
         <path strokeLinecap="round" d="M21 21l-4.35-4.35" />
       </svg>
       <span className="text-gray-500 flex-1">Search Tests and Packages</span>
-      <span className="bg-brand text-white rounded-md px-4 py-2 font-medium text-sm shrink-0">Search</span>
     </button>
   );
 }
