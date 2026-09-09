@@ -1,0 +1,128 @@
+"use client";
+import Link from "next/link";
+import { useEffect } from "react";
+import { useCartSummary } from "@/lib/cart-context";
+import { useUI } from "@/lib/ui-context";
+import PriceTag from "./PriceTag";
+
+export default function CartDrawer() {
+  const { cartDrawerOpen, closeCartDrawer, openSearchModal } = useUI();
+  const { items, subtotalMrp, subtotalPrice, remove, clear } = useCartSummary();
+
+  useEffect(() => {
+    if (!cartDrawerOpen) return;
+    function onKeyDown(e: KeyboardEvent) {
+      if (e.key === "Escape") closeCartDrawer();
+    }
+    document.addEventListener("keydown", onKeyDown);
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.removeEventListener("keydown", onKeyDown);
+      document.body.style.overflow = "";
+    };
+  }, [cartDrawerOpen, closeCartDrawer]);
+
+  if (!cartDrawerOpen) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 flex justify-end">
+      <div className="absolute inset-0 bg-black/40" onClick={closeCartDrawer} aria-hidden="true" />
+      <div
+        role="dialog"
+        aria-modal="true"
+        aria-label="Your cart"
+        className="relative w-full sm:w-[420px] h-full bg-white shadow-xl flex flex-col animate-[cart-drawer-in_0.2s_ease-out]"
+      >
+        <div className="flex items-center justify-between px-4 py-3 border-b shrink-0">
+          <h2 className="text-lg font-bold text-gray-900">Your cart</h2>
+          <button onClick={closeCartDrawer} aria-label="Close cart" className="text-gray-400 hover:text-gray-700 p-1">
+            <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round">
+              <path d="M18 6L6 18M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+
+        {items.length === 0 ? (
+          <div className="flex-1 flex flex-col items-center justify-center gap-3 px-6 text-center">
+            <p className="text-gray-500">Your cart is empty.</p>
+            <button
+              onClick={() => {
+                closeCartDrawer();
+                openSearchModal();
+              }}
+              className="text-brand font-medium hover:underline"
+            >
+              Browse tests and packages →
+            </button>
+          </div>
+        ) : (
+          <>
+            <div className="flex-1 overflow-y-auto px-4 py-3 flex flex-col gap-3">
+              {items.map((i) => (
+                <div key={`${i.kind}-${i.slug}`} className="border rounded-lg p-3 flex items-center justify-between gap-2">
+                  <div className="min-w-0">
+                    <span className="text-xs uppercase tracking-wide text-gray-400">{i.kind}</span>
+                    <Link
+                      href={i.kind === "test" ? `/tests/${i.slug}` : `/packages/${i.slug}`}
+                      onClick={closeCartDrawer}
+                      className="block font-semibold text-gray-900 hover:text-brand truncate"
+                    >
+                      {i.name}
+                    </Link>
+                    <p className="text-xs text-gray-500">Qty: {i.qty}</p>
+                  </div>
+                  <div className="flex items-center gap-3 shrink-0">
+                    <PriceTag mrp={i.mrp * i.qty} price={i.price * i.qty} size="sm" />
+                    <button
+                      onClick={() => remove(i.kind, i.slug)}
+                      aria-label={`Remove ${i.name} from cart`}
+                      title="Remove"
+                      className="text-gray-400 hover:text-red-500 transition p-1"
+                    >
+                      <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M3 6h18" />
+                        <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+                        <path d="M19 6l-.867 12.142A2 2 0 0 1 16.138 20H7.862a2 2 0 0 1-1.995-1.858L5 6" />
+                        <path d="M10 11v6" />
+                        <path d="M14 11v6" />
+                      </svg>
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <div className="shrink-0 border-t px-4 py-3 flex flex-col gap-3 bg-white">
+              <div className="bg-brand-light rounded-lg p-3 flex flex-col gap-1">
+                <div className="flex justify-between text-sm text-gray-600">
+                  <span>MRP total</span>
+                  <span className="line-through">Rs. {subtotalMrp.toLocaleString("en-IN")}</span>
+                </div>
+                <div className="flex justify-between font-bold text-brand-dark text-lg">
+                  <span>You pay</span>
+                  <span>Rs. {subtotalPrice.toLocaleString("en-IN")}</span>
+                </div>
+                {subtotalMrp > subtotalPrice && (
+                  <div className="flex justify-between text-sm text-brand-accent font-medium">
+                    <span>Total savings</span>
+                    <span>Rs. {(subtotalMrp - subtotalPrice).toLocaleString("en-IN")}</span>
+                  </div>
+                )}
+              </div>
+              <div className="flex items-center justify-between gap-3">
+                <button onClick={clear} className="text-sm text-gray-500 hover:underline shrink-0">Clear cart</button>
+                <Link
+                  href="/checkout"
+                  onClick={closeCartDrawer}
+                  className="flex-1 text-center bg-brand text-white px-4 py-3 rounded-md font-medium hover:bg-brand-dark transition"
+                >
+                  Proceed to book collection →
+                </Link>
+              </div>
+            </div>
+          </>
+        )}
+      </div>
+    </div>
+  );
+}

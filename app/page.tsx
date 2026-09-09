@@ -1,5 +1,5 @@
 import Link from "next/link";
-import SearchBar from "@/components/SearchBar";
+import HeroSearchCTA from "@/components/HeroSearchCTA";
 import TrustMarkers from "@/components/TrustMarkers";
 import ReviewsCarousel from "@/components/ReviewsCarousel";
 import TestCard from "@/components/TestCard";
@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         <div className="hero-search">
-          <SearchBar large />
+          <HeroSearchCTA />
         </div>
 
         <div className="hero-moreways">

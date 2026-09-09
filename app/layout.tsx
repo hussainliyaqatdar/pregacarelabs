@@ -1,8 +1,11 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { CartProvider } from "@/lib/cart-context";
+import { UIProvider } from "@/lib/ui-context";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import SearchModal from "@/components/SearchModal";
+import CartDrawer from "@/components/CartDrawer";
 import { BUSINESS_NAME, SITE_URL, BOOKING_PHONE, SERVICE_AREAS, GMB_RATING, GMB_PROFILE_URL } from "@/lib/site-config";
 
 export const metadata: Metadata = {
@@ -73,9 +76,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
         <CartProvider>
-          <Header />
-          <main className="max-w-6xl mx-auto px-4 py-8 min-h-[70vh]">{children}</main>
-          <Footer />
+          <UIProvider>
+            <Header />
+            <main className="max-w-6xl mx-auto px-4 py-8 min-h-[70vh]">{children}</main>
+            <Footer />
+            <SearchModal />
+            <CartDrawer />
+          </UIProvider>
         </CartProvider>
       </body>
     </html>
