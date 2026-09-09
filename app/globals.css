@@ -56,3 +56,25 @@ body {
     overflow-x: auto;
   }
 }
+
+/* Cart drawer: slides in from the right edge. */
+@keyframes cart-drawer-in {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-\[cart-drawer-in_0\.2s_ease-out\] {
+    animation: none;
+  }
+}
+
+/* Search modal: fades and scales in from a slightly smaller/lower position. */
+@keyframes search-modal-in {
+  from { opacity: 0; transform: translateY(12px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-\[search-modal-in_0\.15s_ease-out\] {
+    animation: none;
+  }
+}

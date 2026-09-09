@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useCart } from "@/lib/cart-context";
+import { useUI } from "@/lib/ui-context";
 import { BOOKING_PHONE, BOOKING_PHONE_TEL } from "@/lib/site-config";
 import { getPackageCategories } from "@/lib/catalog";
 import Logo from "./Logo";
@@ -10,6 +11,7 @@ const PACKAGE_CATEGORIES = getPackageCategories();
 
 export default function Header() {
   const { count } = useCart();
+  const { openCartDrawer } = useUI();
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
@@ -52,14 +54,20 @@ export default function Header() {
             <a href={`tel:${BOOKING_PHONE_TEL}`} className="hidden sm:flex items-center gap-1 text-sm font-medium text-brand-dark hover:underline">
               <span aria-hidden>{"\u{1F4DE}"}</span> {BOOKING_PHONE}
             </a>
-            <Link href="/cart" className="relative text-gray-700 hover:text-brand text-sm font-medium">
+            <button
+              onClick={() => {
+                setMobileOpen(false);
+                openCartDrawer();
+              }}
+              className="relative text-gray-700 hover:text-brand text-sm font-medium"
+            >
               Cart
               {count > 0 && (
                 <span className="absolute -top-2 -right-3 bg-brand-accent text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
                   {count}
                 </span>
               )}
-            </Link>
+            </button>
             <button className="md:hidden text-gray-700" onClick={() => setMobileOpen((v) => !v)} aria-label="Toggle menu">
               {"☰"}
             </button>
