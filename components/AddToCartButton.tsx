@@ -2,9 +2,21 @@
 import { useCart } from "@/lib/cart-context";
 
 const SIZES = {
-  sm: "text-sm px-4 py-2",
-  lg: "text-base px-6 py-3 font-medium",
+  sm: { addBtn: "text-sm px-3 py-2", stepperBtn: "w-8 h-8", stepperText: "text-sm", icon: "w-3.5 h-3.5" },
+  lg: { addBtn: "text-base px-5 py-3 font-medium", stepperBtn: "w-10 h-10", stepperText: "text-base", icon: "w-4 h-4" },
 };
+
+const PlusIcon = ({ className = "" }: { className?: string }) => (
+  <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round">
+    <path d="M12 5v14M5 12h14" />
+  </svg>
+);
+
+const MinusIcon = ({ className = "" }: { className?: string }) => (
+  <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round">
+    <path d="M5 12h14" />
+  </svg>
+);
 
 export default function AddToCartButton({
   kind,
@@ -15,28 +27,39 @@ export default function AddToCartButton({
   slug: string;
   size?: "sm" | "lg";
 }) {
-  const { add, lines } = useCart();
+  const { add, decrement, lines } = useCart();
   const line = lines.find((l) => l.kind === kind && l.slug === slug);
-  const sizeClasses = SIZES[size];
+  const s = SIZES[size];
 
   if (line) {
     return (
-      <button
-        onClick={() => add(kind, slug)}
-        title="Already in your cart - click to add another"
-        className={`${sizeClasses} rounded-md transition flex items-center gap-1.5 bg-brand-light text-brand-dark border border-brand hover:bg-white`}
-      >
-        <span aria-hidden>✓</span> In Cart{line.qty > 1 ? ` (${line.qty})` : ""}
-      </button>
+      <div className={`inline-flex items-center rounded-md border border-brand bg-brand-light overflow-hidden shrink-0 ${s.stepperText}`}>
+        <button
+          onClick={() => decrement(kind, slug)}
+          aria-label="Decrease quantity"
+          className={`${s.stepperBtn} flex items-center justify-center text-brand-dark hover:bg-white transition`}
+        >
+          <MinusIcon className={s.icon} />
+        </button>
+        <span className="min-w-[1.5rem] text-center font-semibold text-brand-dark tabular-nums">{line.qty}</span>
+        <button
+          onClick={() => add(kind, slug)}
+          aria-label="Increase quantity"
+          className={`${s.stepperBtn} flex items-center justify-center text-brand-dark hover:bg-white transition`}
+        >
+          <PlusIcon className={s.icon} />
+        </button>
+      </div>
     );
   }
 
   return (
     <button
       onClick={() => add(kind, slug)}
-      className={`${sizeClasses} rounded-md transition bg-brand text-white hover:bg-brand-dark`}
+      className={`${s.addBtn} rounded-md transition bg-brand text-white hover:bg-brand-dark inline-flex items-center gap-1 shrink-0`}
     >
-      Add to cart
+      <PlusIcon className={s.icon} />
+      Add
     </button>
   );
 }

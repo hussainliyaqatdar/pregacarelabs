@@ -31,7 +31,7 @@ export default function CartDrawer() {
         role="dialog"
         aria-modal="true"
         aria-label="Your cart"
-        className="relative w-full sm:w-[420px] h-full bg-white shadow-xl flex flex-col animate-[cart-drawer-in_0.2s_ease-out]"
+        className="relative w-full sm:w-[420px] h-dvh bg-white shadow-xl flex flex-col animate-[cart-drawer-in_0.2s_ease-out]"
       >
         <div className="flex items-center justify-between px-4 py-3 border-b shrink-0">
           <h2 className="text-lg font-bold text-gray-900">Your cart</h2>
