@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 flex flex-col gap-2">
         <p className="font-medium text-gray-700">{BUSINESS_NAME}</p>
         <p>Home sample collection across {SERVICE_AREAS.join(", ")} - and beyond, on request.</p>
-        <p>NABL-accredited testing, in partnership with Fortis Hospitals and Agilus Diagnostics.</p>
+        <p>NABL-accredited testing, in partnership with Fortis Hospitals and Agilus Diagnostics (formerly SRL Diagnostics).</p>
         <p>
           Call to book: <a href={`tel:${BOOKING_PHONE_TEL}`} className="text-brand hover:underline">{BOOKING_PHONE}</a> &middot; {SUPPORT_EMAIL}
         </p>

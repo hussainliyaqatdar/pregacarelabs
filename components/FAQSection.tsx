@@ -1,0 +1,78 @@
+import { BUSINESS_NAME } from "@/lib/site-config";
+
+const FAQS = [
+  {
+    q: "Can I get an NIPT test done at home in Bangalore?",
+    a: `Yes. NIPT (Non-Invasive Prenatal Testing) is available for home collection anywhere we cover in Bangalore - our phlebotomist visits you, so there's no need to search for "NIPT test near me" and travel to a lab. Results are shared via WhatsApp once ready.`,
+  },
+  {
+    q: "Where can I book a Double Marker test near me?",
+    a: `You can book it right here for home collection - no need to visit a center. The Double Marker test is a routine week 11-13 pregnancy screen, and ${BUSINESS_NAME} sends a phlebotomist to your doorstep across Bangalore.`,
+  },
+  {
+    q: "Is a pregnancy blood test at home as reliable as visiting a lab?",
+    a: `Yes. Every sample we collect at home is processed in the same NABL-accredited labs (Agilus Diagnostics, formerly SRL) that walk-in patients use - the only difference is convenience. This applies to routine pregnancy blood tests as well as specialised ones like NIPT.`,
+  },
+  {
+    q: "What pregnancy tests are recommended in each trimester, and can they be done at home?",
+    a: "Yes - we offer trimester-wise home collection: First Trimester panels (week 12) including Double Marker, Second/Third Trimester panels (week 28) for gestational diabetes and anaemia, plus NIPT, Quadruple Marker, TORCH, and the Glucose Tolerance Test as needed through your pregnancy.",
+  },
+  {
+    q: "Can my husband book a home blood test for his pregnant wife?",
+    a: `Absolutely. Many of our bookings are made by husbands or family members on behalf of a pregnant wife or daughter-in-law - just enter her details and address at checkout, and we'll take care of the rest with a comfortable, home sample collection.`,
+  },
+  {
+    q: "Do you offer the Glucose Tolerance Test (GTT) for gestational diabetes at home?",
+    a: "Yes. Our Oral Glucose Tolerance Test - Gestational is available for home collection, typically recommended between weeks 24-28 to screen for gestational diabetes.",
+  },
+  {
+    q: "Is home sample collection safe for pregnant women?",
+    a: "Yes. Our phlebotomists are trained professionals who follow standard hygiene and safety protocols for every visit, using a fully equipped, professional collection kit - the same standards you'd expect at a lab, brought to your home for your comfort and safety.",
+  },
+  {
+    q: "How much do NIPT and Double Marker tests cost in Bangalore?",
+    a: "Pricing varies by test - you can see the exact price for NIPT, Double Marker, Quadruple Marker, and every other pregnancy test on its product page before you book, with no hidden charges and no advance payment.",
+  },
+  {
+    q: `Is ${BUSINESS_NAME} affiliated with Agilus Diagnostics?`,
+    a: `Yes. ${BUSINESS_NAME} is a home-collection partner for Agilus Diagnostics (formerly known as SRL Diagnostics), and works in partnership with Fortis Hospitals. Every sample we collect is processed in Agilus' NABL-accredited labs.`,
+  },
+  {
+    q: "Which areas in Bangalore do you cover for home sample collection?",
+    a: "We currently collect across JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road - and we'll gladly try to reach other parts of Bangalore too, just ask at checkout or by phone.",
+  },
+  {
+    q: "Do I need to pay in advance to book a test?",
+    a: "No. You only pay after your sample has been collected - there's no advance payment required to confirm a booking.",
+  },
+];
+
+export default function FAQSection() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: FAQS.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+
+  return (
+    <section className="bg-white border rounded-xl p-6 md:p-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <h2 className="text-xl font-bold text-gray-900 mb-4">Frequently asked questions</h2>
+      <div className="flex flex-col divide-y">
+        {FAQS.map((f) => (
+          <details key={f.q} className="group py-3">
+            <summary className="flex items-center justify-between cursor-pointer list-none font-medium text-gray-900 gap-4">
+              <span>{f.q}</span>
+              <span className="text-brand transition-transform group-open:rotate-45 text-xl leading-none shrink-0" aria-hidden="true">+</span>
+            </summary>
+            <p className="text-sm text-gray-600 mt-2">{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+  );
+}

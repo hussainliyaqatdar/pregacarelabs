@@ -6,11 +6,13 @@ body {
   background-color: #fafafa;
 }
 
-/* Hero: illustration shows first on mobile, then text/search/booking options;
-   on desktop the illustration sits to the right, spanning the full column. */
+/* Hero: on mobile the search bar leads (better usability - users can search
+   immediately without scrolling past the image), then illustration/text/
+   booking options; on desktop the illustration sits to the right, spanning
+   the full column. */
 .hero-grid {
   display: grid;
-  grid-template-areas: "illus" "text" "search" "moreways";
+  grid-template-areas: "search" "illus" "text" "moreways";
   grid-template-columns: 1fr;
   gap: 2rem;
 }
@@ -25,3 +27,32 @@ body {
 .hero-text { grid-area: text; }
 .hero-search { grid-area: search; }
 .hero-moreways { grid-area: moreways; }
+
+/* Reviews carousel: a continuously-scrolling marquee. The track holds the
+   review list twice back-to-back; scrolling exactly -50% loops seamlessly. */
+.reviews-marquee-mask {
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+  mask-image: linear-gradient(to right, transparent, black 3%, black 97%, transparent);
+}
+.reviews-marquee-track {
+  display: flex;
+  gap: 1rem;
+  width: max-content;
+  animation: reviews-marquee 40s linear infinite;
+}
+.reviews-marquee-mask:hover .reviews-marquee-track {
+  animation-play-state: paused;
+}
+@keyframes reviews-marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reviews-marquee-track {
+    animation: none;
+  }
+  .reviews-marquee-mask {
+    overflow-x: auto;
+  }
+}

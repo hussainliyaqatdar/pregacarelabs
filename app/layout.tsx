@@ -3,33 +3,69 @@ import type { Metadata } from "next";
 import { CartProvider } from "@/lib/cart-context";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { BUSINESS_NAME, SITE_URL, BOOKING_PHONE, SERVICE_AREAS } from "@/lib/site-config";
+import { BUSINESS_NAME, SITE_URL, BOOKING_PHONE, SERVICE_AREAS, GMB_RATING, GMB_PROFILE_URL } from "@/lib/site-config";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: `${BUSINESS_NAME} - At-Home Blood Test Collection in Bangalore`,
+    default: `Pregnancy Test & NIPT At Home in Bangalore | ${BUSINESS_NAME}`,
     template: `%s | ${BUSINESS_NAME}`,
   },
-  description: `Book NABL-accredited blood tests and health checkup packages with home sample collection across ${SERVICE_AREAS.join(", ")}, Bangalore. Partnered with Fortis Hospitals and Agilus Diagnostics. Home collection within 60 minutes, reports within 6 hours.`,
+  description: `Book NIPT, Double Marker & pregnancy blood tests for home collection in Bangalore - plus full body checkups and routine blood work. NABL-accredited, official Agilus Diagnostics (formerly SRL) partner. Pay only after your sample is collected.`,
+  keywords: [
+    "pregnancy test near me",
+    "pregnancy test at home",
+    "pregnancy tests home collection",
+    "pregnancy blood test at home Bangalore",
+    "NIPT test near me",
+    "NIPT test at home",
+    "NIPT test home collection Bangalore",
+    "Double Marker test near me",
+    "Double Marker test at home",
+    "Quadruple Marker test at home",
+    "Triple Marker test at home Bangalore",
+    "TORCH test at home",
+    "prenatal blood test at home Bangalore",
+    "antenatal test home collection",
+    "gestational diabetes test at home",
+    "glucose tolerance test at home Bangalore",
+    "book pregnancy test for wife",
+    "home blood test Bangalore",
+    "Agilus Diagnostics",
+    "SRL Diagnostics",
+    "Agilus Diagnostics near me",
+    "SRL Diagnostics Bangalore",
+    "full body checkup at home Bangalore",
+  ],
   openGraph: {
     type: "website",
     siteName: BUSINESS_NAME,
-    title: `${BUSINESS_NAME} - At-Home Blood Test Collection in Bangalore`,
-    description: `NABL-accredited home sample collection across Bangalore. Partnered with Fortis Hospitals and Agilus Diagnostics.`,
+    title: `${BUSINESS_NAME} - Pregnancy Tests & Blood Test Collection At Home in Bangalore`,
+    description: `Book NIPT, Double Marker, Quadruple Marker and other pregnancy tests for home collection - plus full body checkups and routine blood work - across Bangalore. Official partner of Agilus Diagnostics (formerly SRL) and Fortis Hospitals. Pay only after your sample is collected.`,
   },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const orgJsonLd = {
     "@context": "https://schema.org",
-    "@type": "MedicalOrganization",
+    "@type": "MedicalBusiness",
     name: BUSINESS_NAME,
     telephone: BOOKING_PHONE,
     areaServed: SERVICE_AREAS.map((a) => ({ "@type": "Place", name: `${a}, Bangalore` })),
     url: SITE_URL,
     medicalSpecialty: "Pathology",
-    parentOrganization: [{ "@type": "MedicalOrganization", name: "Agilus Diagnostics" }, { "@type": "Hospital", name: "Fortis Hospitals" }],
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "8, 19th Cross, 20th Main Rd, near Mohammedi Masjid",
+      addressLocality: "Bengaluru",
+      addressRegion: "Karnataka",
+      postalCode: "560078",
+      addressCountry: "IN",
+    },
+    geo: { "@type": "GeoCoordinates", latitude: 12.9026322, longitude: 77.5882842 },
+    aggregateRating: { "@type": "AggregateRating", ratingValue: GMB_RATING.value, reviewCount: GMB_RATING.count },
+    sameAs: [GMB_PROFILE_URL],
+    parentOrganization: [{ "@type": "MedicalOrganization", name: "Agilus Diagnostics", alternateName: "SRL Diagnostics" }, { "@type": "Hospital", name: "Fortis Hospitals" }],
   };
 
   return (

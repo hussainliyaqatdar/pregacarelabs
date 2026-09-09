@@ -1,0 +1,29 @@
+// Nested-hearts mark: a smaller heart cradled inside a larger one, reading as
+// "caring for two" (mother + baby) - warm and immediately legible at small
+// sizes (favicon, app icon) while staying on-brand (teal + coral).
+export function LogoMark({ className = "w-9 h-9" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 100 92" className={className} role="img" aria-label="Prega Care Labs logo" xmlns="http://www.w3.org/2000/svg">
+      <path
+        d="M50 90 C22 70 2 50 2 27 C2 11 14 0 29 0 C39 0 47 6 50 15 C53 6 61 0 71 0 C86 0 98 11 98 27 C98 50 78 70 50 90 Z"
+        fill="#0F6E6E"
+      />
+      <path
+        d="M50 70 C33 57 21 44 21 29 C21 19 28 12 37 12 C43 12 48 15 50 21 C52 15 57 12 63 12 C72 12 79 19 79 29 C79 44 67 57 50 70 Z"
+        fill="#FF7A45"
+      />
+    </svg>
+  );
+}
+
+export default function Logo({ className = "" }: { className?: string }) {
+  return (
+    <span className={`inline-flex items-center gap-2 ${className}`}>
+      <LogoMark />
+      <span className="leading-tight">
+        <span className="block font-bold text-lg text-brand-dark tracking-tight">Prega Care</span>
+        <span className="block text-[10px] font-semibold text-brand-accent uppercase tracking-widest -mt-1">Labs</span>
+      </span>
+    </span>
+  );
+}

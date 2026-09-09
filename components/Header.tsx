@@ -2,8 +2,9 @@
 import Link from "next/link";
 import { useState } from "react";
 import { useCart } from "@/lib/cart-context";
-import { BUSINESS_NAME, BOOKING_PHONE, BOOKING_PHONE_TEL } from "@/lib/site-config";
+import { BOOKING_PHONE, BOOKING_PHONE_TEL } from "@/lib/site-config";
 import { getPackageCategories } from "@/lib/catalog";
+import Logo from "./Logo";
 
 const PACKAGE_CATEGORIES = getPackageCategories();
 
@@ -14,8 +15,8 @@ export default function Header() {
   return (
     <header className="bg-white border-b sticky top-0 z-30">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
-        <Link href="/" className="font-bold text-lg text-brand-dark shrink-0">
-          {BUSINESS_NAME}
+        <Link href="/" className="shrink-0">
+          <Logo />
         </Link>
 
         <div className="flex items-center gap-6 ml-auto">

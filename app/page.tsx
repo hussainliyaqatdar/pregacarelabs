@@ -1,10 +1,12 @@
 import Link from "next/link";
 import SearchBar from "@/components/SearchBar";
 import TrustMarkers from "@/components/TrustMarkers";
+import ReviewsCarousel from "@/components/ReviewsCarousel";
 import TestCard from "@/components/TestCard";
 import PackageCard from "@/components/PackageCard";
 import HeroPhoto from "@/components/HeroPhoto";
 import MoreWaysToBook from "@/components/MoreWaysToBook";
+import FAQSection from "@/components/FAQSection";
 import { allTests, allPackages } from "@/lib/catalog";
 import { SERVICE_AREAS } from "@/lib/site-config";
 
@@ -38,6 +40,8 @@ export default function Home() {
       </section>
 
       <TrustMarkers />
+
+      <ReviewsCarousel />
 
       <section>
         <div className="flex items-center justify-between mb-4">
@@ -102,6 +106,8 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <FAQSection />
     </div>
   );
 }

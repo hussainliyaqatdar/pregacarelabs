@@ -51,6 +51,10 @@ export default function PackagePage({ params }: { params: { slug: string } }) {
         <h1 className="text-2xl md:text-3xl font-bold text-gray-900">{pkg.name}</h1>
         <p className="text-gray-700 leading-relaxed">{pkg.description}</p>
 
+        <div className="flex flex-wrap gap-4 text-sm text-gray-600">
+          <span><strong>Reports in:</strong> {pkg.eta}</span>
+        </div>
+
         <div className="flex items-center justify-between border-t pt-4 mt-2">
           <PriceTag mrp={pkg.mrp} price={pkg.price} size="lg" />
           <AddToCartButton kind="package" slug={pkg.slug} size="lg" />
