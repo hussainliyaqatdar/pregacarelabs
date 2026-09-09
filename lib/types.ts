@@ -12,6 +12,7 @@ export type TestItem = {
   category: string;
   sampleType: string;
   description: string;
+  eta: string;
 };
 
 export type PackageConstituent = {
@@ -32,6 +33,7 @@ export type PackageItem = {
   description: string;
   constituents: PackageConstituent[];
   needsContent: boolean;
+  eta: string;
 };
 
 export type CartLine = {

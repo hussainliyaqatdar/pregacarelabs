@@ -56,6 +56,7 @@ export default function TestPage({ params }: { params: { slug: string } }) {
         <div className="flex flex-wrap gap-4 text-sm text-gray-600">
           <span><strong>Sample:</strong> {test.sampleType}</span>
           <span><strong>Test code:</strong> {test.code}</span>
+          <span><strong>Reports in:</strong> {test.eta}</span>
         </div>
 
         <div className="flex items-center justify-between border-t pt-4 mt-2">

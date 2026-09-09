@@ -4,6 +4,7 @@ const { smartTitleCase, slugify } = require("./text-utils");
 const { fallbackDescription, cleanName } = require("./fallback-descriptions");
 const curatedDescriptions = require("./test-descriptions");
 const packagesContent = require("./packages-content");
+const { estimateEta, DEFAULT_ETA } = require("./eta");
 
 const rawTests = require("./raw/tests-raw.json");
 // "Thyroid Panel (T3, T4, TSH)" (PKG-TP) removed at the business's request -
@@ -75,6 +76,7 @@ const tests = rawTests.map((row) => {
     category: categorize(rawName),
     sampleType: "Blood",
     description,
+    eta: estimateEta(rawName).label,
   };
 });
 
@@ -152,6 +154,13 @@ const packages = rawPackages.map((row) => {
   const price = Number(row["Package Price (Rs.)"]) || 0;
   const mrp = content?.mrp && content.mrp > price ? content.mrp : null;
 
+  // A package's report is only complete once its slowest constituent test
+  // is done, so its ETA is the widest range among everything it includes.
+  const constituentEtas = (content?.constituents || []).map((cName) => estimateEta(cName));
+  const packageEta = constituentEtas.length
+    ? constituentEtas.reduce((slowest, e) => (e.weight > slowest.weight ? e : slowest), constituentEtas[0])
+    : DEFAULT_ETA;
+
   return {
     id: row.Code,
     slug: slugify(name),
@@ -164,6 +173,7 @@ const packages = rawPackages.map((row) => {
     description: content?.description || `A curated ${row.Category.toLowerCase()} test package. Full details coming soon - please call us for the complete list of included tests.`,
     constituents,
     needsContent: !content,
+    eta: packageEta.label,
   };
 });
 

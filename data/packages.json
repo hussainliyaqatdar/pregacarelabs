@@ -41,7 +41,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-FBCE",
@@ -95,7 +96,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-FBCA",
@@ -159,7 +161,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-AHC",
@@ -172,7 +175,8 @@
     "tagline": "Heart Health",
     "description": "A curated heart health test package. Full details coming soon - please call us for the complete list of included tests.",
     "constituents": [],
-    "needsContent": true
+    "needsContent": true,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-DB",
@@ -201,7 +205,8 @@
         "price": 80
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "6-12 hours"
   },
   {
     "id": "PKG-IB",
@@ -230,7 +235,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-VC",
@@ -254,7 +260,8 @@
         "price": 1350
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-FIP",
@@ -288,7 +295,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-PSP",
@@ -347,7 +355,8 @@
         "price": 1200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-FTA",
@@ -411,7 +420,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-STT",
@@ -450,7 +460,8 @@
         "price": 200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-PCOS",
@@ -514,7 +525,8 @@
         "price": 500
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-MENO",
@@ -548,7 +560,8 @@
         "price": 580
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-FIW",
@@ -597,7 +610,8 @@
         "price": 500
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-TORCH",
@@ -631,7 +645,8 @@
         "price": 1400
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-DMP",
@@ -685,7 +700,8 @@
         "price": 580
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-IRP",
@@ -729,7 +745,8 @@
         "price": 255
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-CES",
@@ -788,7 +805,8 @@
         "price": 1750
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-AWP",
@@ -822,7 +840,8 @@
         "price": 1200
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-LDP",
@@ -861,7 +880,8 @@
         "price": 465
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-HIVM",
@@ -895,7 +915,8 @@
         "price": 900
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-HLH",
@@ -939,7 +960,8 @@
         "price": 500
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-ASK",
@@ -978,7 +1000,8 @@
         "price": 255
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-AUP",
@@ -1012,7 +1035,8 @@
         "price": 180
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   },
   {
     "id": "PKG-STI",
@@ -1046,6 +1070,7 @@
         "price": 400
       }
     ],
-    "needsContent": false
+    "needsContent": false,
+    "eta": "12-24 hours"
   }
 ]
