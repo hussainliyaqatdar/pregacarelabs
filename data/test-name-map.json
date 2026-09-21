@@ -1,0 +1,5612 @@
+{
+  "TSH 3rd Gen Ultrasensitive, Serum": {
+    "name": "TSH Test (Thyroid Stimulating Hormone)",
+    "labName": "TSH 3rd Gen Ultrasensitive, Serum",
+    "aliases": [
+      "TSH",
+      "Thyroid Stimulating Hormone",
+      "Thyroid Test"
+    ],
+    "slugs": [
+      "tsh-3rd-gen-ultrasensitive-serum"
+    ]
+  },
+  "Thyroid Panel – TSH, Serum": {
+    "name": "Thyroid Function Test (TFT)",
+    "labName": "Thyroid Panel – TSH, Serum",
+    "aliases": [
+      "TFT",
+      "Thyroid Profile",
+      "Thyroid Test",
+      "TSH Panel"
+    ],
+    "slugs": [
+      "thyroid-panel-tsh-serum"
+    ]
+  },
+  "Thyroid Panel II (FT3, FT4, TSH), Serum": {
+    "name": "Complete Thyroid Profile (T3, T4, TSH)",
+    "labName": "Thyroid Panel II (FT3, FT4, TSH), Serum",
+    "aliases": [
+      "Thyroid Profile",
+      "TFT",
+      "Thyroid Panel",
+      "Free T3 Free T4 TSH"
+    ],
+    "slugs": [
+      "thyroid-panel-ii-ft3-ft4-tsh-serum"
+    ]
+  },
+  "Free Thyroxine (FT4), Serum": {
+    "name": "Free T4 Test (Thyroxine)",
+    "labName": "Free Thyroxine (FT4), Serum",
+    "aliases": [
+      "FT4",
+      "Free Thyroxine",
+      "T4"
+    ],
+    "slugs": [
+      "free-thyroxine-ft4-serum"
+    ]
+  },
+  "Free Triiodothyronine (FT3), Serum": {
+    "name": "Free T3 Test (Triiodothyronine)",
+    "labName": "Free Triiodothyronine (FT3), Serum",
+    "aliases": [
+      "FT3",
+      "Free Triiodothyronine",
+      "T3"
+    ],
+    "slugs": [
+      "free-triiodothyronine-ft3-serum"
+    ]
+  },
+  "Glycosylated Hemoglobin (HbA1c)": {
+    "name": "HbA1c Test (3-Month Average Blood Sugar)",
+    "labName": "Glycosylated Hemoglobin (HbA1c)",
+    "aliases": [
+      "HbA1c",
+      "A1C",
+      "Glycosylated Hemoglobin",
+      "Glycated Hemoglobin",
+      "Diabetes Test"
+    ],
+    "slugs": [
+      "glycosylated-hemoglobin-hba1c"
+    ]
+  },
+  "Insulin, Fasting Serum": {
+    "name": "Fasting Insulin Test",
+    "labName": "Insulin, Fasting Serum",
+    "aliases": [
+      "Insulin Fasting",
+      "Insulin Level"
+    ],
+    "slugs": [
+      "insulin-fasting-serum"
+    ]
+  },
+  "CBC with ESR (CBC+PS+ESR)": {
+    "name": "Complete Blood Count with ESR (CBC + ESR)",
+    "labName": "CBC with ESR (CBC+PS+ESR)",
+    "aliases": [
+      "CBC ESR",
+      "CBC with ESR",
+      "Hemogram with ESR",
+      "Full Blood Count with ESR"
+    ],
+    "slugs": [
+      "cbc-with-esr-cbcpsesr"
+    ]
+  },
+  "CBC-5, EDTA Whole Blood": {
+    "name": "Complete Blood Count (CBC)",
+    "labName": "CBC-5, EDTA Whole Blood",
+    "aliases": [
+      "CBC",
+      "Hemogram",
+      "Full Blood Count",
+      "FBC",
+      "Blood Count",
+      "CBC 5 Part"
+    ],
+    "slugs": [
+      "cbc-5-edta-whole-blood"
+    ]
+  },
+  "Hemoglobin by Cyanmethaemoglobin": {
+    "name": "Hemoglobin (Hb) Test",
+    "labName": "Hemoglobin by Cyanmethaemoglobin",
+    "aliases": [
+      "Hb",
+      "Hemoglobin",
+      "Haemoglobin",
+      "Hgb",
+      "Anaemia Test"
+    ],
+    "slugs": [
+      "hemoglobin-by-cyanmethaemoglobin"
+    ]
+  },
+  "Hemoglobin Variant Analysis, Blood": {
+    "name": "Hemoglobin Variant Analysis (Thalassemia Screening)",
+    "labName": "Hemoglobin Variant Analysis, Blood",
+    "aliases": [
+      "Hb Electrophoresis",
+      "Hemoglobin Electrophoresis",
+      "Thalassemia Test"
+    ],
+    "slugs": [
+      "hemoglobin-variant-analysis-blood"
+    ]
+  },
+  "Serum Iron and TIBC Studies": {
+    "name": "Iron Studies (Iron & TIBC)",
+    "labName": "Serum Iron and TIBC Studies",
+    "aliases": [
+      "Iron Profile",
+      "Iron Test",
+      "TIBC",
+      "Iron Deficiency Test"
+    ],
+    "slugs": [
+      "serum-iron-and-tibc-studies"
+    ]
+  },
+  "ABO Group & Rh Type, EDTA Whole Blood": {
+    "name": "Blood Group Test (ABO & Rh)",
+    "labName": "ABO Group & Rh Type, EDTA Whole Blood",
+    "aliases": [
+      "Blood Group",
+      "Blood Type",
+      "Blood Grouping",
+      "ABO Rh"
+    ],
+    "slugs": [
+      "abo-group-rh-type-edta-whole-blood"
+    ]
+  },
+  "Platelet Count, EDTA Whole Blood": {
+    "name": "Platelet Count Test",
+    "labName": "Platelet Count, EDTA Whole Blood",
+    "aliases": [
+      "Platelets",
+      "Platelet Test",
+      "PLT"
+    ],
+    "slugs": [
+      "platelet-count-edta-whole-blood"
+    ]
+  },
+  "Erythrocyte Sedimentation Rate (ESR)": {
+    "name": "ESR Test (Erythrocyte Sedimentation Rate)",
+    "labName": "Erythrocyte Sedimentation Rate (ESR)",
+    "aliases": [
+      "ESR",
+      "Sed Rate"
+    ],
+    "slugs": [
+      "erythrocyte-sedimentation-rate-esr"
+    ]
+  },
+  "Liver Function Profile, Serum": {
+    "name": "Liver Function Test (LFT)",
+    "labName": "Liver Function Profile, Serum",
+    "aliases": [
+      "LFT",
+      "Liver Panel",
+      "Liver Profile",
+      "Liver Test"
+    ],
+    "slugs": [
+      "liver-function-profile-serum"
+    ]
+  },
+  "Bilirubin (Total, Direct, Indirect), Serum": {
+    "name": "Bilirubin Test (Total, Direct & Indirect)",
+    "labName": "Bilirubin (Total, Direct, Indirect), Serum",
+    "aliases": [
+      "Jaundice Test",
+      "Bilirubin"
+    ],
+    "slugs": [
+      "bilirubin-total-direct-indirect-serum"
+    ]
+  },
+  "Alanine Aminotransferase (ALT/SGPT), Serum": {
+    "name": "SGPT / ALT Test (Liver Enzyme)",
+    "labName": "Alanine Aminotransferase (ALT/SGPT), Serum",
+    "aliases": [
+      "ALT",
+      "SGPT",
+      "Alanine Aminotransferase",
+      "Alanine Transaminase"
+    ],
+    "slugs": [
+      "alanine-aminotransferase-alt-sgpt-serum"
+    ]
+  },
+  "Aspartate Aminotransferase (AST/SGOT), Serum": {
+    "name": "SGOT / AST Test (Liver Enzyme)",
+    "labName": "Aspartate Aminotransferase (AST/SGOT), Serum",
+    "aliases": [
+      "AST",
+      "SGOT",
+      "Aspartate Aminotransferase"
+    ],
+    "slugs": [
+      "aspartate-aminotransferase-ast-sgot-serum"
+    ]
+  },
+  "Bilirubin, Direct, Serum": {
+    "name": "Direct Bilirubin Test",
+    "labName": "Bilirubin, Direct, Serum",
+    "aliases": [
+      "Bilirubin"
+    ],
+    "slugs": [
+      "bilirubin-direct-serum"
+    ]
+  },
+  "Kidney Function Test": {
+    "name": "Kidney Function Test (KFT)",
+    "labName": "Kidney Function Test",
+    "aliases": [
+      "KFT",
+      "RFT",
+      "Renal Function Test",
+      "Kidney Profile",
+      "Kidney Panel"
+    ],
+    "slugs": [
+      "kidney-function-test"
+    ]
+  },
+  "Culture, Urine with Susceptibility": {
+    "name": "Urine Culture & Sensitivity Test",
+    "labName": "Culture, Urine with Susceptibility",
+    "aliases": [
+      "Urine Culture",
+      "Urine C/S",
+      "UTI Test",
+      "Urine Infection Test"
+    ],
+    "slugs": [
+      "culture-urine-with-susceptibility"
+    ]
+  },
+  "Electrolytes (Na/K/Cl), Serum": {
+    "name": "Electrolytes Test (Sodium, Potassium, Chloride)",
+    "labName": "Electrolytes (Na/K/Cl), Serum",
+    "aliases": [
+      "Electrolytes",
+      "Na K Cl",
+      "Serum Electrolytes"
+    ],
+    "slugs": [
+      "electrolytes-na-k-cl-serum"
+    ]
+  },
+  "Blood Urea Nitrogen (BUN), Serum": {
+    "name": "Blood Urea Nitrogen (BUN) Test",
+    "labName": "Blood Urea Nitrogen (BUN), Serum",
+    "aliases": [
+      "BUN",
+      "Urea Nitrogen"
+    ],
+    "slugs": [
+      "blood-urea-nitrogen-bun-serum"
+    ]
+  },
+  "Urinalysis": {
+    "name": "Urine Routine Test (Urinalysis)",
+    "labName": "Urinalysis",
+    "aliases": [
+      "Urine Routine",
+      "Urine R/M",
+      "Urine Routine and Microscopy",
+      "Complete Urine Examination",
+      "CUE",
+      "Urine Test"
+    ],
+    "slugs": [
+      "urinalysis"
+    ]
+  },
+  "Calcium, Serum": {
+    "name": "Calcium Test",
+    "labName": "Calcium, Serum",
+    "aliases": [
+      "Calcium"
+    ],
+    "slugs": [
+      "calcium-serum"
+    ]
+  },
+  "Creatinine, Serum": {
+    "name": "Serum Creatinine Test",
+    "labName": "Creatinine, Serum",
+    "aliases": [
+      "Creatinine",
+      "Kidney Test"
+    ],
+    "slugs": [
+      "creatinine-serum"
+    ]
+  },
+  "Lipid Profile, Serum": {
+    "name": "Lipid Profile (Cholesterol Test)",
+    "labName": "Lipid Profile, Serum",
+    "aliases": [
+      "Lipid Profile",
+      "Cholesterol Test",
+      "Lipid Panel",
+      "Cholesterol Panel"
+    ],
+    "slugs": [
+      "lipid-profile-serum"
+    ]
+  },
+  "Homocysteine, Serum/Plasma": {
+    "name": "Homocysteine Test",
+    "labName": "Homocysteine, Serum/Plasma",
+    "aliases": [
+      "Homocysteine",
+      "Heart Risk Test"
+    ],
+    "slugs": [
+      "homocysteine-serum-plasma"
+    ]
+  },
+  "Triglycerides, Serum": {
+    "name": "Triglycerides Test",
+    "labName": "Triglycerides, Serum",
+    "aliases": [
+      "TG",
+      "Triglyceride"
+    ],
+    "slugs": [
+      "triglycerides-serum"
+    ]
+  },
+  "Cholesterol, Serum": {
+    "name": "Total Cholesterol Test",
+    "labName": "Cholesterol, Serum",
+    "aliases": [
+      "Cholesterol"
+    ],
+    "slugs": [
+      "cholesterol-serum"
+    ]
+  },
+  "LH, FSH, Prolactin, Serum": {
+    "name": "Fertility Hormone Panel (LH, FSH, Prolactin)",
+    "labName": "LH, FSH, Prolactin, Serum",
+    "aliases": [
+      "LH FSH Prolactin",
+      "Hormone Profile",
+      "Infertility Hormones"
+    ],
+    "slugs": [
+      "lh-fsh-prolactin-serum"
+    ]
+  },
+  "AMH / MIS, Serum": {
+    "name": "AMH / MIS Test (Ovarian Reserve)",
+    "labName": "AMH / MIS, Serum",
+    "aliases": [
+      "AMH",
+      "Anti Mullerian Hormone",
+      "Ovarian Reserve Test",
+      "Egg Reserve",
+      "Fertility Test"
+    ],
+    "slugs": [
+      "amh-mis-serum"
+    ]
+  },
+  "Luteinizing Hormone (LH), Serum": {
+    "name": "LH Test (Luteinizing Hormone)",
+    "labName": "Luteinizing Hormone (LH), Serum",
+    "aliases": [
+      "LH",
+      "Ovulation Hormone"
+    ],
+    "slugs": [
+      "luteinizing-hormone-lh-serum"
+    ]
+  },
+  "Prolactin, Serum": {
+    "name": "Prolactin Test",
+    "labName": "Prolactin, Serum",
+    "aliases": [
+      "PRL"
+    ],
+    "slugs": [
+      "prolactin-serum"
+    ]
+  },
+  "Follicle Stimulating Hormone (FSH), Serum": {
+    "name": "FSH Test (Follicle Stimulating Hormone)",
+    "labName": "Follicle Stimulating Hormone (FSH), Serum",
+    "aliases": [
+      "FSH"
+    ],
+    "slugs": [
+      "follicle-stimulating-hormone-fsh-serum"
+    ]
+  },
+  "Estradiol (E2), Serum": {
+    "name": "Estradiol Test (E2)",
+    "labName": "Estradiol (E2), Serum",
+    "aliases": [
+      "E2",
+      "Oestradiol",
+      "Estrogen Test"
+    ],
+    "slugs": [
+      "estradiol-e2-serum"
+    ]
+  },
+  "Testosterone, Total, Serum": {
+    "name": "Total Testosterone Test",
+    "labName": "Testosterone, Total, Serum",
+    "aliases": [
+      "Testosterone"
+    ],
+    "slugs": [
+      "testosterone-total-serum"
+    ]
+  },
+  "HCG, Serum": {
+    "name": "Pregnancy Blood Test (Beta hCG)",
+    "labName": "HCG, Serum",
+    "aliases": [
+      "hCG",
+      "Beta hCG",
+      "Pregnancy Test",
+      "Preg Test"
+    ],
+    "slugs": [
+      "hcg-serum"
+    ]
+  },
+  "Double Marker Test, Serum": {
+    "name": "Double Marker Test (First Trimester Screening)",
+    "labName": "Double Marker Test, Serum",
+    "aliases": [
+      "Double Marker",
+      "Dual Marker",
+      "First Trimester Screening",
+      "Down Syndrome Screening",
+      "Combined Screening"
+    ],
+    "slugs": [
+      "double-marker-test-serum"
+    ]
+  },
+  "Quadruple Marker Test, Serum": {
+    "name": "Quadruple Marker Test (Second Trimester Screening)",
+    "labName": "Quadruple Marker Test, Serum",
+    "aliases": [
+      "Quad Marker",
+      "Quadruple Marker",
+      "Second Trimester Screening",
+      "Down Syndrome Screening"
+    ],
+    "slugs": [
+      "quadruple-marker-test-serum"
+    ]
+  },
+  "TORCH IgG & IgM Evaluation, Serum": {
+    "name": "TORCH Test (IgG & IgM) - Pregnancy Infection Screen",
+    "labName": "TORCH IgG & IgM Evaluation, Serum",
+    "aliases": [
+      "TORCH",
+      "TORCH Profile",
+      "TORCH Panel",
+      "Toxoplasma Rubella CMV Herpes"
+    ],
+    "slugs": [
+      "torch-igg-igm-evaluation-serum"
+    ]
+  },
+  "TORCH IgM [5 Parameters]": {
+    "name": "TORCH IgM Test (5 Parameters)",
+    "labName": "TORCH IgM [5 Parameters]",
+    "aliases": [
+      "TORCH",
+      "TORCH Panel"
+    ],
+    "slugs": [
+      "torch-igm-5-parameters"
+    ]
+  },
+  "TORCH IgG Evaluation, Serum": {
+    "name": "TORCH IgG Test",
+    "labName": "TORCH IgG Evaluation, Serum",
+    "aliases": [
+      "TORCH",
+      "TORCH Panel"
+    ],
+    "slugs": [
+      "torch-igg-evaluation-serum"
+    ]
+  },
+  "HCV Antibodies, Serum": {
+    "name": "Hepatitis C Test (HCV Antibodies)",
+    "labName": "HCV Antibodies, Serum",
+    "aliases": [
+      "HCV",
+      "Hepatitis C",
+      "Hep C"
+    ],
+    "slugs": [
+      "hcv-antibodies-serum"
+    ]
+  },
+  "HIV Antibodies, Serum": {
+    "name": "HIV Test (HIV 1 & 2 Antibodies)",
+    "labName": "HIV Antibodies, Serum",
+    "aliases": [
+      "HIV",
+      "AIDS Test",
+      "HIV 1 2"
+    ],
+    "slugs": [
+      "hiv-antibodies-serum"
+    ]
+  },
+  "Hepatitis B Surface Antigen (HBsAg), Serum": {
+    "name": "Hepatitis B Test (HBsAg)",
+    "labName": "Hepatitis B Surface Antigen (HBsAg), Serum",
+    "aliases": [
+      "HBsAg",
+      "Hepatitis B",
+      "Hep B",
+      "Australia Antigen"
+    ],
+    "slugs": [
+      "hepatitis-b-surface-antigen-hbsag-serum"
+    ]
+  },
+  "Lymphocyte Subset Enumeration, Blood": {
+    "name": "Lymphocyte Subset Enumeration",
+    "labName": "Lymphocyte Subset Enumeration, Blood",
+    "aliases": [],
+    "slugs": [
+      "lymphocyte-subset-enumeration-blood"
+    ]
+  },
+  "Widal Test, Serum": {
+    "name": "Widal Test (Typhoid Fever)",
+    "labName": "Widal Test, Serum",
+    "aliases": [
+      "Widal",
+      "Typhoid Test",
+      "Typhoid Fever Test"
+    ],
+    "slugs": [
+      "widal-test-serum"
+    ]
+  },
+  "Stool: Ova & Parasite": {
+    "name": "Stool Test for Worms & Parasites (Ova & Parasite)",
+    "labName": "Stool: Ova & Parasite",
+    "aliases": [
+      "Stool Routine",
+      "Stool Ova and Cyst",
+      "Stool Test",
+      "Worms Test"
+    ],
+    "slugs": [
+      "stool-ova-parasite"
+    ]
+  },
+  "Blood Lympho Culture": {
+    "name": "Blood Lympho Culture",
+    "labName": "Blood Lympho Culture",
+    "aliases": [],
+    "slugs": [
+      "blood-lympho-culture"
+    ]
+  },
+  "C-Reactive Protein (CRP), Serum (Quantitative)": {
+    "name": "CRP Test (C-Reactive Protein)",
+    "labName": "C-Reactive Protein (CRP), Serum (Quantitative)",
+    "aliases": [
+      "CRP",
+      "Inflammation Test",
+      "C Reactive Protein"
+    ],
+    "slugs": [
+      "c-reactive-protein-crp-serum-quantitative"
+    ]
+  },
+  "Mycoreal": {
+    "name": "Mycoreal",
+    "labName": "Mycoreal",
+    "aliases": [],
+    "slugs": [
+      "mycoreal"
+    ]
+  },
+  "Vitamin D Total (25-Hydroxyvitamin D), Serum": {
+    "name": "Vitamin D Test (25-OH)",
+    "labName": "Vitamin D Total (25-Hydroxyvitamin D), Serum",
+    "aliases": [
+      "Vitamin D",
+      "Vit D",
+      "25 Hydroxy Vitamin D",
+      "Vitamin D3",
+      "25 OH Vitamin D"
+    ],
+    "slugs": [
+      "vitamin-d-total-25-hydroxyvitamin-d-serum"
+    ]
+  },
+  "Vitamin B12 (Cyanocobalamine), Serum": {
+    "name": "Vitamin B12 Test",
+    "labName": "Vitamin B12 (Cyanocobalamine), Serum",
+    "aliases": [
+      "B12",
+      "Cobalamin",
+      "Cyanocobalamin"
+    ],
+    "slugs": [
+      "vitamin-b12-cyanocobalamine-serum"
+    ]
+  },
+  "Rheumatoid Factor, Serum": {
+    "name": "Rheumatoid Factor Test (RA Factor)",
+    "labName": "Rheumatoid Factor, Serum",
+    "aliases": [
+      "RF",
+      "RA Factor",
+      "RA Test",
+      "Arthritis Test"
+    ],
+    "slugs": [
+      "rheumatoid-factor-serum"
+    ]
+  },
+  "Anti Nuclear Antibody (ANA), IFA, Serum": {
+    "name": "ANA Test (Antinuclear Antibody)",
+    "labName": "Anti Nuclear Antibody (ANA), IFA, Serum",
+    "aliases": [
+      "ANA",
+      "ANA IFA",
+      "Lupus Test",
+      "Autoimmune Test"
+    ],
+    "slugs": [
+      "anti-nuclear-antibody-ana-ifa-serum"
+    ]
+  },
+  "Total IgE, Serum": {
+    "name": "Total IgE Test (Allergy Marker)",
+    "labName": "Total IgE, Serum",
+    "aliases": [
+      "IgE",
+      "Allergy Test"
+    ],
+    "slugs": [
+      "total-ige-serum"
+    ]
+  },
+  "Uric Acid, Serum": {
+    "name": "Uric Acid Test",
+    "labName": "Uric Acid, Serum",
+    "aliases": [
+      "Gout Test",
+      "Uric Acid"
+    ],
+    "slugs": [
+      "uric-acid-serum"
+    ]
+  },
+  "Prothrombin Time (PT/INR), Citrate Plasma": {
+    "name": "PT/INR Test (Blood Clotting Time)",
+    "labName": "Prothrombin Time (PT/INR), Citrate Plasma",
+    "aliases": [
+      "PT",
+      "INR",
+      "Prothrombin Time",
+      "Clotting Test",
+      "Blood Thinner Test"
+    ],
+    "slugs": [
+      "prothrombin-time-pt-inr-citrate-plasma"
+    ]
+  },
+  "Activated Partial Thromboplastin Time (APTT)": {
+    "name": "APTT Test (Blood Clotting)",
+    "labName": "Activated Partial Thromboplastin Time (APTT)",
+    "aliases": [
+      "APTT",
+      "aPTT",
+      "PTT"
+    ],
+    "slugs": [
+      "activated-partial-thromboplastin-time-aptt"
+    ]
+  },
+  "Prostate Specific Antigen (PSA), Serum": {
+    "name": "PSA Test (Prostate Screening)",
+    "labName": "Prostate Specific Antigen (PSA), Serum",
+    "aliases": [
+      "PSA",
+      "Prostate Test",
+      "Prostate Specific Antigen"
+    ],
+    "slugs": [
+      "prostate-specific-antigen-psa-serum"
+    ]
+  },
+  "CA 125 (Ovarian Cancer Monitor), Serum": {
+    "name": "CA 125 Test (Ovarian Cancer Marker)",
+    "labName": "CA 125 (Ovarian Cancer Monitor), Serum",
+    "aliases": [
+      "CA125",
+      "Ovarian Cancer Marker"
+    ],
+    "slugs": [
+      "ca-125-ovarian-cancer-monitor-serum"
+    ]
+  },
+  "Alpha-Fetoprotein (AFP), Serum": {
+    "name": "AFP Test (Alpha-Fetoprotein)",
+    "labName": "Alpha-Fetoprotein (AFP), Serum",
+    "aliases": [
+      "AFP",
+      "Liver Cancer Marker"
+    ],
+    "slugs": [
+      "alpha-fetoprotein-afp-serum"
+    ]
+  },
+  "Small Tissue Biopsy": {
+    "name": "Biopsy - Small Tissue (Histopathology)",
+    "labName": "Small Tissue Biopsy",
+    "aliases": [
+      "Biopsy",
+      "HPE",
+      "Histopathology"
+    ],
+    "slugs": [
+      "small-tissue-biopsy"
+    ]
+  },
+  "1, 25 DIHYDROXY VITAMIN D, SERUM": {
+    "name": "Active Vitamin D Test (1,25-Dihydroxy)",
+    "labName": "1, 25 Dihydroxy Vitamin D, Serum",
+    "aliases": [
+      "1 25 Dihydroxy Vitamin D",
+      "Calcitriol"
+    ],
+    "slugs": [
+      "1-25-dihydroxy-vitamin-d-serum"
+    ]
+  },
+  "17-A-HYDROXYPROGESTERONE, SERUM": {
+    "name": "17-OH Progesterone Test (17-OHP)",
+    "labName": "17-a-Hydroxyprogesterone, Serum",
+    "aliases": [
+      "17 OHP",
+      "17-Hydroxyprogesterone"
+    ],
+    "slugs": [
+      "17-a-hydroxyprogesterone-serum"
+    ]
+  },
+  "25 HYDROXY VITAMIN D TOTAL (VITAMIN D2+VITAMIN D3)": {
+    "name": "Vitamin D Total Test (D2 + D3)",
+    "labName": "25 Hydroxy Vitamin D Total (vitamin D2+vitamin D3)",
+    "aliases": [
+      "Vitamin D",
+      "Vit D",
+      "25 OH Vitamin D"
+    ],
+    "slugs": [
+      "25-hydroxy-vitamin-d-total-vitamin-d2vitamin-d3"
+    ]
+  },
+  "ABPA": {
+    "name": "Abpa",
+    "labName": "Abpa",
+    "aliases": [],
+    "slugs": [
+      "abpa"
+    ]
+  },
+  "ABPA MINI": {
+    "name": "Abpa Mini",
+    "labName": "Abpa Mini",
+    "aliases": [],
+    "slugs": [
+      "abpa-mini"
+    ]
+  },
+  "ABPA SCREEN (TOTAL IGE, SPECIFIC IGE AF)": {
+    "name": "Abpa Screen (total IgE, Specific IgE Af)",
+    "labName": "Abpa Screen (total IGE, Specific IGE Af)",
+    "aliases": [],
+    "slugs": [
+      "abpa-screen-total-ige-specific-ige-af"
+    ]
+  },
+  "ABS EOSINOPHIL COUNT, EDTA WHOLE BLOOD": {
+    "name": "Absolute Eosinophil Count",
+    "labName": "Abs Eosinophil Count, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "abs-eosinophil-count-edta-whole-blood"
+    ]
+  },
+  "ABS TO EXTRACTABLE NUCLEAR ANTIGEN(ANA BLOT),SERUM": {
+    "name": "Antibodies to Extractable Nuclear Antigen(ana Blot)",
+    "labName": "Abs to Extractable Nuclear Antigen(ana Blot),Serum",
+    "aliases": [],
+    "slugs": [
+      "abs-to-extractable-nuclear-antigen-ana-blot-serum"
+    ]
+  },
+  "ABSOLUTE BASOPHIL COUNT": {
+    "name": "Absolute Basophil Count",
+    "labName": "Absolute Basophil Count",
+    "aliases": [],
+    "slugs": [
+      "absolute-basophil-count"
+    ]
+  },
+  "ABSOLUTE LYMPHOCYTE COUNT": {
+    "name": "Absolute Lymphocyte Count",
+    "labName": "Absolute Lymphocyte Count",
+    "aliases": [],
+    "slugs": [
+      "absolute-lymphocyte-count"
+    ]
+  },
+  "ABSOLUTE MONOCYTE COUNT": {
+    "name": "Absolute Monocyte Count",
+    "labName": "Absolute Monocyte Count",
+    "aliases": [],
+    "slugs": [
+      "absolute-monocyte-count"
+    ]
+  },
+  "ACHR-ACETYL CHOLINE RECEPTOR ANTIBODIES, SERUM": {
+    "name": "Achr-Acetyl Choline Receptor Antibodies",
+    "labName": "Achr-Acetyl Choline Receptor Antibodies, Serum",
+    "aliases": [],
+    "slugs": [
+      "achr-acetyl-choline-receptor-antibodies-serum"
+    ]
+  },
+  "ACID FAST BACILLI SMEAR": {
+    "name": "TB Smear Test (AFB)",
+    "labName": "Acid Fast Bacilli Smear",
+    "aliases": [
+      "AFB",
+      "Sputum AFB",
+      "TB Test"
+    ],
+    "slugs": [
+      "acid-fast-bacilli-smear"
+    ]
+  },
+  "ACUTE LEUKEMIA DIAGNOSTIC & PROGNOSTIC PANEL": {
+    "name": "Acute Leukemia Diagnostic & Prognostic Panel",
+    "labName": "Acute Leukemia Diagnostic & Prognostic Panel",
+    "aliases": [],
+    "slugs": [
+      "acute-leukemia-diagnostic-prognostic-panel"
+    ]
+  },
+  "ACUTE LEUKEMIA PANEL": {
+    "name": "Acute Leukemia Panel",
+    "labName": "Acute Leukemia Panel",
+    "aliases": [],
+    "slugs": [
+      "acute-leukemia-panel",
+      "acute-leukemia-panel-1"
+    ]
+  },
+  "ADENOSINE DEAMINASE": {
+    "name": "ADA Test (Adenosine Deaminase)",
+    "labName": "Adenosine Deaminase",
+    "aliases": [
+      "ADA",
+      "TB Marker"
+    ],
+    "slugs": [
+      "adenosine-deaminase"
+    ]
+  },
+  "ADRENOCORTICOTROPIC HORMONE, PLASMA": {
+    "name": "ACTH Test (Adrenocorticotropic Hormone)",
+    "labName": "Adrenocorticotropic Hormone, Plasma",
+    "aliases": [
+      "ACTH"
+    ],
+    "slugs": [
+      "adrenocorticotropic-hormone-plasma"
+    ]
+  },
+  "AFB BACTEC CULTURE": {
+    "name": "AFB Bactec Culture",
+    "labName": "AFB Bactec Culture",
+    "aliases": [],
+    "slugs": [
+      "afb-bactec-culture"
+    ]
+  },
+  "AFB CULTURE": {
+    "name": "TB Culture Test (AFB Culture)",
+    "labName": "AFB Culture",
+    "aliases": [
+      "AFB",
+      "TB Culture",
+      "TB Test"
+    ],
+    "slugs": [
+      "afb-culture"
+    ]
+  },
+  "AFB SMEARS - 3 SAMPLES": {
+    "name": "AFB Smears - 3 Samples",
+    "labName": "AFB Smears - 3 Samples",
+    "aliases": [],
+    "slugs": [
+      "afb-smears-3-samples"
+    ]
+  },
+  "AIH PLUS": {
+    "name": "AIH Plus",
+    "labName": "AIH Plus",
+    "aliases": [],
+    "slugs": [
+      "aih-plus"
+    ]
+  },
+  "ALBUMIN QUANTITATIVE , 12 HRS URINE": {
+    "name": "Albumin Quantitative, 12 Hr Urine",
+    "labName": "Albumin Quantitative , 12 Hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "albumin-quantitative-12-hrs-urine"
+    ]
+  },
+  "ALBUMIN QUANTITATIVE , 24 HRS URINE": {
+    "name": "Albumin Quantitative, 24 Hr Urine",
+    "labName": "Albumin Quantitative , 24 Hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "albumin-quantitative-24-hrs-urine"
+    ]
+  },
+  "ALBUMIN, BODY FLUID": {
+    "name": "Albumin, Body Fluid",
+    "labName": "Albumin, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "albumin-body-fluid"
+    ]
+  },
+  "ALBUMIN, FLUID": {
+    "name": "Albumin, Fluid",
+    "labName": "Albumin, Fluid",
+    "aliases": [],
+    "slugs": [
+      "albumin-fluid"
+    ]
+  },
+  "ALBUMIN, SERUM": {
+    "name": "Albumin Test",
+    "labName": "Albumin, Serum",
+    "aliases": [],
+    "slugs": [
+      "albumin-serum"
+    ]
+  },
+  "ALBUMIN, SPINAL FLUID": {
+    "name": "Albumin, Spinal Fluid",
+    "labName": "Albumin, Spinal Fluid",
+    "aliases": [],
+    "slugs": [
+      "albumin-spinal-fluid"
+    ]
+  },
+  "ALBUMIN/CREATININE RATIO, RANDOM, URINE": {
+    "name": "Urine Albumin-Creatinine Ratio (ACR)",
+    "labName": "Albumin/Creatinine Ratio, Random, Urine",
+    "aliases": [
+      "ACR",
+      "UACR",
+      "Microalbumin Creatinine Ratio"
+    ],
+    "slugs": [
+      "albumin-creatinine-ratio-random-urine"
+    ]
+  },
+  "ALBUMIN+GLOBULIN+A/G RATIO, SERUM": {
+    "name": "Albumin+globulin+a/G Ratio",
+    "labName": "Albumin+globulin+a/G Ratio, Serum",
+    "aliases": [],
+    "slugs": [
+      "albuminglobulina-g-ratio-serum"
+    ]
+  },
+  "ALCIAN BLUE": {
+    "name": "Alcian Blue",
+    "labName": "Alcian Blue",
+    "aliases": [],
+    "slugs": [
+      "alcian-blue"
+    ]
+  },
+  "ALKALINE PHOSPHATASE, SERUM": {
+    "name": "Alkaline Phosphatase Test (ALP)",
+    "labName": "Alkaline Phosphatase, Serum",
+    "aliases": [
+      "ALP",
+      "Alk Phos"
+    ],
+    "slugs": [
+      "alkaline-phosphatase-serum"
+    ]
+  },
+  "ALLERGEN - ASPERGILLUS FUMIGATUS, SERUM": {
+    "name": "Allergen - Aspergillus Fumigatus",
+    "labName": "Allergen - Aspergillus Fumigatus, Serum",
+    "aliases": [],
+    "slugs": [
+      "allergen-aspergillus-fumigatus-serum"
+    ]
+  },
+  "ALLERGY PANEL 2 (29 ALLERGENS)": {
+    "name": "Allergy Panel 2 (29 Allergens)",
+    "labName": "Allergy Panel 2 (29 Allergens)",
+    "aliases": [],
+    "slugs": [
+      "allergy-panel-2-29-allergens"
+    ]
+  },
+  "ALLERGY SCREEN ADULT": {
+    "name": "Allergy Screen Adult",
+    "labName": "Allergy Screen Adult",
+    "aliases": [],
+    "slugs": [
+      "allergy-screen-adult"
+    ]
+  },
+  "AMBRY CANCER NEXT EXPANDED - 84 GENES": {
+    "name": "Ambry Cancer Next Expanded - 84 Genes",
+    "labName": "Ambry Cancer Next Expanded - 84 Genes",
+    "aliases": [],
+    "slugs": [
+      "ambry-cancer-next-expanded-84-genes"
+    ]
+  },
+  "AMH PLUS WITH TESTOSTERONE FREE AND TOTAL": {
+    "name": "AMH Plus with Testosterone Free and Total",
+    "labName": "AMH Plus with Testosterone Free and Total",
+    "aliases": [],
+    "slugs": [
+      "amh-plus-with-testosterone-free-and-total"
+    ]
+  },
+  "AMYLASE BODY FLUID": {
+    "name": "Amylase Body Fluid",
+    "labName": "Amylase Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "amylase-body-fluid"
+    ]
+  },
+  "AMYLASE, 24HRS URINE": {
+    "name": "Amylase, 24 Hr Urine",
+    "labName": "Amylase, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "amylase-24hrs-urine"
+    ]
+  },
+  "AMYLASE, FLUID": {
+    "name": "Amylase, Fluid",
+    "labName": "Amylase, Fluid",
+    "aliases": [],
+    "slugs": [
+      "amylase-fluid"
+    ]
+  },
+  "AMYLASE, SERUM": {
+    "name": "Amylase Test (Pancreas)",
+    "labName": "Amylase, Serum",
+    "aliases": [
+      "Amylase",
+      "Pancreatitis Test"
+    ],
+    "slugs": [
+      "amylase-serum"
+    ]
+  },
+  "ANA POSITIVE REFLEX TO ENA / ANA BLOT": {
+    "name": "ANA Positive Reflex to Ena / ANA Blot",
+    "labName": "ANA Positive Reflex to Ena / ANA Blot",
+    "aliases": [],
+    "slugs": [
+      "ana-positive-reflex-to-ena-ana-blot"
+    ]
+  },
+  "ANCA POSITIVE REFLEX MPO, PR3 ANTIBODIES": {
+    "name": "Anca Positive Reflex Mpo, Pr3 Antibodies",
+    "labName": "Anca Positive Reflex Mpo, Pr3 Antibodies",
+    "aliases": [],
+    "slugs": [
+      "anca-positive-reflex-mpo-pr3-antibodies"
+    ]
+  },
+  "ANEMIA PROFILE I": {
+    "name": "Anemia Profile I",
+    "labName": "Anemia Profile I",
+    "aliases": [],
+    "slugs": [
+      "anemia-profile-i"
+    ]
+  },
+  "ANEMIA PROFILE II": {
+    "name": "Anemia Profile II",
+    "labName": "Anemia Profile Ii",
+    "aliases": [],
+    "slugs": [
+      "anemia-profile-ii"
+    ]
+  },
+  "ANEMIA SCREEN": {
+    "name": "Anemia Screen",
+    "labName": "Anemia Screen",
+    "aliases": [],
+    "slugs": [
+      "anemia-screen"
+    ]
+  },
+  "ANGIOTENSIN CONVERTING ENZYME, SERUM": {
+    "name": "Angiotensin Converting Enzyme Test",
+    "labName": "Angiotensin Converting Enzyme, Serum",
+    "aliases": [],
+    "slugs": [
+      "angiotensin-converting-enzyme-serum"
+    ]
+  },
+  "ANTE-NATAL PANEL": {
+    "name": "Antenatal Panel (Pregnancy Checkup)",
+    "labName": "Ante-Natal Panel",
+    "aliases": [
+      "ANC Panel",
+      "Antenatal Profile",
+      "Pregnancy Panel"
+    ],
+    "slugs": [
+      "ante-natal-panel"
+    ]
+  },
+  "ANTENATAL PANEL ADVANCE": {
+    "name": "Advanced Antenatal Panel (Pregnancy Checkup)",
+    "labName": "Antenatal Panel Advance",
+    "aliases": [
+      "ANC Panel",
+      "Antenatal Profile",
+      "Pregnancy Panel"
+    ],
+    "slugs": [
+      "antenatal-panel-advance"
+    ]
+  },
+  "ANTENATAL SCREEN": {
+    "name": "Antenatal Screening Panel (Pregnancy Checkup)",
+    "labName": "Antenatal Screen",
+    "aliases": [
+      "ANC Panel",
+      "Antenatal Profile",
+      "Pregnancy Panel"
+    ],
+    "slugs": [
+      "antenatal-screen"
+    ]
+  },
+  "ANTI - CCP ANTIBODIES, SERUM": {
+    "name": "Anti-CCP Test (Rheumatoid Arthritis)",
+    "labName": "Anti - Ccp Antibodies, Serum",
+    "aliases": [
+      "Anti CCP",
+      "CCP",
+      "Arthritis Test"
+    ],
+    "slugs": [
+      "anti-ccp-antibodies-serum"
+    ]
+  },
+  "ANTI CARDIOLIPIN ANTIBODIES IGM, SERUM": {
+    "name": "Anti Cardiolipin Antibodies IgM",
+    "labName": "Anti Cardiolipin Antibodies IGM, Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-cardiolipin-antibodies-igm-serum"
+    ]
+  },
+  "ANTI MITOCHONDRIAL ANTIBODY, SERUM": {
+    "name": "Anti Mitochondrial Antibody Test",
+    "labName": "Anti Mitochondrial Antibody, Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-mitochondrial-antibody-serum"
+    ]
+  },
+  "ANTI MULLERIAN HORMONE": {
+    "name": "AMH Test (Ovarian Reserve)",
+    "labName": "Anti Mullerian Hormone",
+    "aliases": [
+      "AMH",
+      "Anti Mullerian Hormone",
+      "Ovarian Reserve Test",
+      "Egg Reserve",
+      "Fertility Test"
+    ],
+    "slugs": [
+      "anti-mullerian-hormone"
+    ]
+  },
+  "ANTI NEUTROPHIL CYTOPLASMIC ANTIBODY, SERUM": {
+    "name": "Anti Neutrophil Cytoplasmic Antibody",
+    "labName": "Anti Neutrophil Cytoplasmic Antibody, Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-neutrophil-cytoplasmic-antibody-serum"
+    ]
+  },
+  "ANTI PHOSPHOLIPID IGG ANTIBODIES": {
+    "name": "Anti Phospholipid IgG Antibodies",
+    "labName": "Anti Phospholipid IGG Antibodies",
+    "aliases": [],
+    "slugs": [
+      "anti-phospholipid-igg-antibodies"
+    ]
+  },
+  "ANTI SMOOTH MUSCLE ANTIBODY, SERUM": {
+    "name": "Anti Smooth Muscle Antibody",
+    "labName": "Anti Smooth Muscle Antibody, Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-smooth-muscle-antibody-serum"
+    ]
+  },
+  "ANTI ß2 GLYCOPROTEIN 1 IGG, SERUM": {
+    "name": "ANTI ß2 GLYCOPROTEIN 1 IgG",
+    "labName": "ANTI ß2 GLYCOPROTEIN 1 IGG, SERUM",
+    "aliases": [],
+    "slugs": [
+      "anti-2-glycoprotein-1-igg-serum"
+    ]
+  },
+  "ANTI ß2 GLYCOPROTEIN 1 IGM, SERUM": {
+    "name": "ANTI ß2 GLYCOPROTEIN 1 IgM",
+    "labName": "ANTI ß2 GLYCOPROTEIN 1 IGM, SERUM",
+    "aliases": [],
+    "slugs": [
+      "anti-2-glycoprotein-1-igm-serum"
+    ]
+  },
+  "ANTI-AQUAPORIN-4(NMO)–MOG PANEL, SERUM/CSF": {
+    "name": "Anti-Aquaporin-4(nmo)–mog Panel, Serum/CSF",
+    "labName": "Anti-Aquaporin-4(nmo)–mog Panel, Serum/CSF",
+    "aliases": [],
+    "slugs": [
+      "anti-aquaporin-4-nmo-mog-panel-serum-csf"
+    ]
+  },
+  "ANTI-PHOSPHOLIPASE A2 RECEPTOR (PLA2R) IGG,SERUM": {
+    "name": "Anti-Phospholipase A2 Receptor (pla2r) IgG",
+    "labName": "Anti-Phospholipase A2 Receptor (pla2r) IGG,Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-phospholipase-a2-receptor-pla2r-igg-serum"
+    ]
+  },
+  "ANTIPHOSPHOLIPID EVAL": {
+    "name": "Antiphospholipid Eval",
+    "labName": "Antiphospholipid Eval",
+    "aliases": [],
+    "slugs": [
+      "antiphospholipid-eval"
+    ]
+  },
+  "ANTI-PHOSPHOLIPID IGM ANTIBODY, SERUM": {
+    "name": "Anti-Phospholipid IgM Antibody Test",
+    "labName": "Anti-Phospholipid IGM Antibody, Serum",
+    "aliases": [],
+    "slugs": [
+      "anti-phospholipid-igm-antibody-serum"
+    ]
+  },
+  "ANTISTREPTOLYSIN - O, SERUM QUANTITATIVE": {
+    "name": "ASO Test - Quantitative (Antistreptolysin O)",
+    "labName": "Antistreptolysin - O, Serum Quantitative",
+    "aliases": [
+      "ASO",
+      "ASLO",
+      "ASO Titre"
+    ],
+    "slugs": [
+      "antistreptolysin-o-serum-quantitative"
+    ]
+  },
+  "ANTISTREPTOLYSIN O, SERUM": {
+    "name": "ASO Test (Antistreptolysin O)",
+    "labName": "Antistreptolysin O, Serum",
+    "aliases": [
+      "ASO",
+      "ASLO",
+      "ASO Titre"
+    ],
+    "slugs": [
+      "antistreptolysin-o-serum"
+    ]
+  },
+  "ANTI-THYROGLOBULIN ANTIBODIES, SERUM": {
+    "name": "Anti-Thyroglobulin Test (Anti-TG)",
+    "labName": "Anti-Thyroglobulin Antibodies, Serum",
+    "aliases": [
+      "Anti TG",
+      "Thyroglobulin Antibodies"
+    ],
+    "slugs": [
+      "anti-thyroglobulin-antibodies-serum"
+    ]
+  },
+  "ANTI-THYROID PEROXIDASE ANTIBODIES, SERUM": {
+    "name": "Anti-TPO Test (Thyroid Antibodies)",
+    "labName": "Anti-Thyroid Peroxidase Antibodies, Serum",
+    "aliases": [
+      "Anti TPO",
+      "TPO Antibodies",
+      "Thyroid Peroxidase Antibodies"
+    ],
+    "slugs": [
+      "anti-thyroid-peroxidase-antibodies-serum"
+    ]
+  },
+  "APLA TOTAL": {
+    "name": "Apla Total",
+    "labName": "Apla Total",
+    "aliases": [],
+    "slugs": [
+      "apla-total"
+    ]
+  },
+  "ASCITIC FLUID, ROUTINE": {
+    "name": "Ascitic Fluid, Routine",
+    "labName": "Ascitic Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "ascitic-fluid-routine"
+    ]
+  },
+  "ASPERGILLUS. FUMIGATUS-SPECIFIC IGG": {
+    "name": "Aspergillus. Fumigatus-Specific IgG",
+    "labName": "Aspergillus. Fumigatus-Specific IGG",
+    "aliases": [],
+    "slugs": [
+      "aspergillus-fumigatus-specific-igg"
+    ]
+  },
+  "AUTOIMMUNE ENCEPHALITIS PANEL, SERUM/CSF": {
+    "name": "Autoimmune Encephalitis Panel, Serum/CSF",
+    "labName": "Autoimmune Encephalitis Panel, Serum/CSF",
+    "aliases": [],
+    "slugs": [
+      "autoimmune-encephalitis-panel-serum-csf"
+    ]
+  },
+  "AUTOIMMUNE HEPATITIS PANEL 1": {
+    "name": "Autoimmune Hepatitis Panel 1",
+    "labName": "Autoimmune Hepatitis Panel 1",
+    "aliases": [],
+    "slugs": [
+      "autoimmune-hepatitis-panel-1"
+    ]
+  },
+  "AUTOIMMUNE HEPATITIS TOTAL (ANA, SMA, AMA, LKM-1)": {
+    "name": "Autoimmune Hepatitis Total (ANA, Sma, Ama, Lkm-1)",
+    "labName": "Autoimmune Hepatitis Total (ANA, Sma, Ama, Lkm-1)",
+    "aliases": [],
+    "slugs": [
+      "autoimmune-hepatitis-total-ana-sma-ama-lkm-1"
+    ]
+  },
+  "B12 PLUS": {
+    "name": "B12 Plus",
+    "labName": "B12 Plus",
+    "aliases": [],
+    "slugs": [
+      "b12-plus"
+    ]
+  },
+  "BACTEC BLOOD CULTURE": {
+    "name": "Bactec Blood Culture",
+    "labName": "Bactec Blood Culture",
+    "aliases": [],
+    "slugs": [
+      "bactec-blood-culture"
+    ]
+  },
+  "B-ALL MINIMAL RESIDUAL DISEASE (MRD) ANALYSIS": {
+    "name": "B-All Minimal Residual Disease (mrd) Analysis",
+    "labName": "B-All Minimal Residual Disease (mrd) Analysis",
+    "aliases": [],
+    "slugs": [
+      "b-all-minimal-residual-disease-mrd-analysis"
+    ]
+  },
+  "BCR-ABL 1  KINASE DOMAIN MUTATION ANALYSIS, EDTA": {
+    "name": "Bcr-Abl 1 Kinase Domain Mutation Analysis, EDTA",
+    "labName": "Bcr-Abl 1  Kinase Domain Mutation Analysis, EDTA",
+    "aliases": [],
+    "slugs": [
+      "bcr-abl-1-kinase-domain-mutation-analysis-edta"
+    ]
+  },
+  "BCR-ABL QUANTITATIVE (IS)": {
+    "name": "Bcr-Abl Quantitative (is)",
+    "labName": "Bcr-Abl Quantitative (is)",
+    "aliases": [],
+    "slugs": [
+      "bcr-abl-quantitative-is"
+    ]
+  },
+  "BD GLUCAN": {
+    "name": "Bd Glucan",
+    "labName": "Bd Glucan",
+    "aliases": [],
+    "slugs": [
+      "bd-glucan"
+    ]
+  },
+  "BETASCREEN": {
+    "name": "Betascreen",
+    "labName": "Betascreen",
+    "aliases": [],
+    "slugs": [
+      "betascreen"
+    ]
+  },
+  "BICARBONATE, SERUM": {
+    "name": "Bicarbonate Test",
+    "labName": "Bicarbonate, Serum",
+    "aliases": [
+      "Bicarbonate",
+      "HCO3"
+    ],
+    "slugs": [
+      "bicarbonate-serum"
+    ]
+  },
+  "BILIRUBIN BODY FLUID": {
+    "name": "Bilirubin Body Fluid",
+    "labName": "Bilirubin Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "bilirubin-body-fluid"
+    ]
+  },
+  "BILIRUBIN, TOTAL, SERUM": {
+    "name": "Total Bilirubin Test",
+    "labName": "Bilirubin, Total, Serum",
+    "aliases": [
+      "Jaundice Test",
+      "Bilirubin"
+    ],
+    "slugs": [
+      "bilirubin-total-serum"
+    ]
+  },
+  "BIOFIRE COMPREHENSIVE GI PANEL": {
+    "name": "Biofire Comprehensive Gi Panel",
+    "labName": "Biofire Comprehensive Gi Panel",
+    "aliases": [],
+    "slugs": [
+      "biofire-comprehensive-gi-panel"
+    ]
+  },
+  "BIOFIRE COMPREHENSIVE MENINGITIS/ ENCEPHALITIS": {
+    "name": "Biofire Comprehensive Meningitis/ Encephalitis",
+    "labName": "Biofire Comprehensive Meningitis/ Encephalitis",
+    "aliases": [],
+    "slugs": [
+      "biofire-comprehensive-meningitis-encephalitis"
+    ]
+  },
+  "BIOFIRE COMPREHENSIVE RESPIRATORY PANEL": {
+    "name": "Biofire Comprehensive Respiratory Panel",
+    "labName": "Biofire Comprehensive Respiratory Panel",
+    "aliases": [],
+    "slugs": [
+      "biofire-comprehensive-respiratory-panel"
+    ]
+  },
+  "BIOFIRE PNEUMONIA PLUS PANEL": {
+    "name": "Biofire Pneumonia Plus Panel",
+    "labName": "Biofire Pneumonia Plus Panel",
+    "aliases": [],
+    "slugs": [
+      "biofire-pneumonia-plus-panel"
+    ]
+  },
+  "BK VIRUS  DNA QUANTITATIVE": {
+    "name": "Bk Virus DNA Quantitative",
+    "labName": "Bk Virus  DNA Quantitative",
+    "aliases": [],
+    "slugs": [
+      "bk-virus-dna-quantitative"
+    ]
+  },
+  "BLEEDING TIME": {
+    "name": "Bleeding Time Test (BT)",
+    "labName": "Bleeding Time",
+    "aliases": [
+      "BT"
+    ],
+    "slugs": [
+      "bleeding-time"
+    ]
+  },
+  "BLEEDING TIME & CLOTTING TIME, EDTA WHOLE BLOOD": {
+    "name": "Bleeding & Clotting Time (BT + CT)",
+    "labName": "Bleeding Time & Clotting Time, EDTA Whole Blood",
+    "aliases": [
+      "BT CT"
+    ],
+    "slugs": [
+      "bleeding-time-clotting-time-edta-whole-blood"
+    ]
+  },
+  "BLOOD COAGULATION PROFILE": {
+    "name": "Blood Coagulation Profile (Clotting Tests)",
+    "labName": "Blood Coagulation Profile",
+    "aliases": [
+      "Coagulation Profile",
+      "Coag Profile",
+      "PT APTT"
+    ],
+    "slugs": [
+      "blood-coagulation-profile"
+    ]
+  },
+  "BLOOD CULTURE - BACTEC PLUS": {
+    "name": "Blood Culture - Bactec Plus",
+    "labName": "Blood Culture - Bactec Plus",
+    "aliases": [],
+    "slugs": [
+      "blood-culture-bactec-plus"
+    ]
+  },
+  "BLOOD CULTURE - BACTEC PLUS ANAEROBIC": {
+    "name": "Blood Culture - Bactec Plus Anaerobic",
+    "labName": "Blood Culture - Bactec Plus Anaerobic",
+    "aliases": [],
+    "slugs": [
+      "blood-culture-bactec-plus-anaerobic"
+    ]
+  },
+  "BLOOD CULTURE & SUSCEPTIBILITY": {
+    "name": "Blood Culture & Sensitivity (Bacterial Infection)",
+    "labName": "Blood Culture & Susceptibility",
+    "aliases": [
+      "Blood Culture",
+      "Blood C/S"
+    ],
+    "slugs": [
+      "blood-culture-susceptibility"
+    ]
+  },
+  "BLOOD CULTURE: YEAST - BACTEC": {
+    "name": "Blood Culture: Yeast - Bactec",
+    "labName": "Blood Culture: Yeast - Bactec",
+    "aliases": [],
+    "slugs": [
+      "blood-culture-yeast-bactec"
+    ]
+  },
+  "BLOOD GLUCOSE- FASTING & POST PRANDIAL": {
+    "name": "Fasting & Post-Meal Blood Sugar (FBS + PPBS)",
+    "labName": "Blood Glucose- Fasting & Post Prandial",
+    "aliases": [
+      "FBS PPBS",
+      "Sugar Fasting and PP"
+    ],
+    "slugs": [
+      "blood-glucose-fasting-post-prandial"
+    ]
+  },
+  "BLOOD PRESSURE": {
+    "name": "Blood Pressure",
+    "labName": "Blood Pressure",
+    "aliases": [],
+    "slugs": [
+      "blood-pressure"
+    ]
+  },
+  "BLOOD UREA NITROGEN, RANDOM URINE": {
+    "name": "Blood Urea Nitrogen, Random Urine",
+    "labName": "Blood Urea Nitrogen, Random Urine",
+    "aliases": [],
+    "slugs": [
+      "blood-urea-nitrogen-random-urine"
+    ]
+  },
+  "BOH PANEL": {
+    "name": "Boh Panel",
+    "labName": "Boh Panel",
+    "aliases": [],
+    "slugs": [
+      "boh-panel"
+    ]
+  },
+  "BOH TOTAL": {
+    "name": "Boh Total",
+    "labName": "Boh Total",
+    "aliases": [],
+    "slugs": [
+      "boh-total"
+    ]
+  },
+  "BONE HISTOPATHOLOGY": {
+    "name": "Bone Histopathology",
+    "labName": "Bone Histopathology",
+    "aliases": [],
+    "slugs": [
+      "bone-histopathology"
+    ]
+  },
+  "BONE MARROW ASPIRATE SMEAR ANALYSIS": {
+    "name": "Bone Marrow Aspirate Smear Analysis",
+    "labName": "Bone Marrow Aspirate Smear Analysis",
+    "aliases": [],
+    "slugs": [
+      "bone-marrow-aspirate-smear-analysis"
+    ]
+  },
+  "BONE MARROW ASPIRATION & SMEAR STUDY": {
+    "name": "Bone Marrow Aspiration & Smear Study",
+    "labName": "Bone Marrow Aspiration & Smear Study",
+    "aliases": [],
+    "slugs": [
+      "bone-marrow-aspiration-smear-study"
+    ]
+  },
+  "BONE MARROW COMPREHENSIVE(BIOPSY AND ASPIRATE)": {
+    "name": "Bone Marrow Comprehensive(biopsy and Aspirate)",
+    "labName": "Bone Marrow Comprehensive(biopsy and Aspirate)",
+    "aliases": [],
+    "slugs": [
+      "bone-marrow-comprehensive-biopsy-and-aspirate"
+    ]
+  },
+  "BRCA -NEXT, EDTA WHOLE BLOOD": {
+    "name": "Brca -Next",
+    "labName": "Brca -Next, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "brca-next-edta-whole-blood"
+    ]
+  },
+  "BREAST CA PANEL": {
+    "name": "Breast CA Panel",
+    "labName": "Breast CA Panel",
+    "aliases": [],
+    "slugs": [
+      "breast-ca-panel"
+    ]
+  },
+  "BREAST EVALUATION PANEL": {
+    "name": "Breast Evaluation Panel",
+    "labName": "Breast Evaluation Panel",
+    "aliases": [],
+    "slugs": [
+      "breast-evaluation-panel"
+    ]
+  },
+  "BRONCHOALVEOLAR FLUID ANALYSIS": {
+    "name": "Bronchoalveolar Fluid Analysis",
+    "labName": "Bronchoalveolar Fluid Analysis",
+    "aliases": [],
+    "slugs": [
+      "bronchoalveolar-fluid-analysis"
+    ]
+  },
+  "BRUCELLA IGG & IGM, SERUM": {
+    "name": "Brucella Test (IgG & IgM)",
+    "labName": "Brucella IGG & IGM, Serum",
+    "aliases": [
+      "Brucella",
+      "Brucellosis Test"
+    ],
+    "slugs": [
+      "brucella-igg-igm-serum"
+    ]
+  },
+  "C DIFFICILE TOXIN A/B": {
+    "name": "C Difficile Toxin a/B",
+    "labName": "C Difficile Toxin a/B",
+    "aliases": [],
+    "slugs": [
+      "c-difficile-toxin-a-b"
+    ]
+  },
+  "C PEPTIDE, SERUM": {
+    "name": "C-Peptide Test",
+    "labName": "C Peptide, Serum",
+    "aliases": [
+      "C Peptide",
+      "Insulin Production Test"
+    ],
+    "slugs": [
+      "c-peptide-serum"
+    ]
+  },
+  "C1 ESTERASE INHIBITOR,SERUM": {
+    "name": "C1 Esterase Inhibitor Test",
+    "labName": "C1 Esterase Inhibitor,Serum",
+    "aliases": [],
+    "slugs": [
+      "c1-esterase-inhibitor-serum"
+    ]
+  },
+  "CA 15-3, SERUM": {
+    "name": "CA 15-3 Test (Breast Cancer Marker)",
+    "labName": "CA 15-3, Serum",
+    "aliases": [
+      "CA153",
+      "Breast Cancer Marker"
+    ],
+    "slugs": [
+      "ca-15-3-serum"
+    ]
+  },
+  "CA 19-9, SERUM": {
+    "name": "CA 19-9 Test (Pancreatic Cancer Marker)",
+    "labName": "CA 19-9, Serum",
+    "aliases": [
+      "CA199",
+      "Pancreatic Cancer Marker"
+    ],
+    "slugs": [
+      "ca-19-9-serum"
+    ]
+  },
+  "CALCIUM, 24HRS URINE": {
+    "name": "Calcium, 24 Hr Urine",
+    "labName": "Calcium, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "calcium-24hrs-urine"
+    ]
+  },
+  "CALCIUM, IONIZED": {
+    "name": "Calcium, Ionized",
+    "labName": "Calcium, Ionized",
+    "aliases": [],
+    "slugs": [
+      "calcium-ionized"
+    ]
+  },
+  "CALCULUS ANALYSIS BY AUTOMATED FTIR": {
+    "name": "Kidney Stone Analysis (FTIR)",
+    "labName": "Calculus Analysis By Automated Ftir",
+    "aliases": [
+      "Stone Analysis",
+      "Calculus Analysis",
+      "Kidney Stone Test"
+    ],
+    "slugs": [
+      "calculus-analysis-by-automated-ftir"
+    ]
+  },
+  "CARCINO EMBRYONIC ANTIGEN, SERUM": {
+    "name": "CEA Test (Carcinoembryonic Antigen)",
+    "labName": "Carcino Embryonic Antigen, Serum",
+    "aliases": [
+      "CEA",
+      "Cancer Marker"
+    ],
+    "slugs": [
+      "carcino-embryonic-antigen-serum"
+    ]
+  },
+  "CARDIAC ENZYME PANEL, SERUM": {
+    "name": "Cardiac Enzyme Panel (Heart Enzymes)",
+    "labName": "Cardiac Enzyme Panel, Serum",
+    "aliases": [
+      "Cardiac Markers",
+      "Heart Attack Panel"
+    ],
+    "slugs": [
+      "cardiac-enzyme-panel-serum"
+    ]
+  },
+  "CARDIOLIPIN ANTIBODIES, SERUM": {
+    "name": "Cardiolipin Antibodies",
+    "labName": "Cardiolipin Antibodies, Serum",
+    "aliases": [],
+    "slugs": [
+      "cardiolipin-antibodies-serum"
+    ]
+  },
+  "CBC WITH PS": {
+    "name": "Complete Blood Count with Blood Smear (CBC + PS)",
+    "labName": "CBC with Ps",
+    "aliases": [
+      "CBC PS",
+      "CBC with Peripheral Smear",
+      "Peripheral Smear"
+    ],
+    "slugs": [
+      "cbc-with-ps"
+    ]
+  },
+  "CDC-CROSSMATCH": {
+    "name": "Cdc-Crossmatch",
+    "labName": "Cdc-Crossmatch",
+    "aliases": [],
+    "slugs": [
+      "cdc-crossmatch"
+    ]
+  },
+  "CEREBROSPINAL FLUID, ROUTINE": {
+    "name": "Cerebrospinal Fluid, Routine",
+    "labName": "Cerebrospinal Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "cerebrospinal-fluid-routine"
+    ]
+  },
+  "CERULOPLASMIN, SERUM": {
+    "name": "Ceruloplasmin Test",
+    "labName": "Ceruloplasmin, Serum",
+    "aliases": [],
+    "slugs": [
+      "ceruloplasmin-serum"
+    ]
+  },
+  "CHIKUNGUNYA IGM ANTIBODIES RAPID, SERUM": {
+    "name": "Chikungunya Rapid Test (IgM)",
+    "labName": "Chikungunya IGM Antibodies Rapid, Serum",
+    "aliases": [
+      "Chikungunya"
+    ],
+    "slugs": [
+      "chikungunya-igm-antibodies-rapid-serum"
+    ]
+  },
+  "CHLORIDE, 24HRS URINE": {
+    "name": "Chloride, 24 Hr Urine",
+    "labName": "Chloride, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "chloride-24hrs-urine"
+    ]
+  },
+  "CHLORIDE, RANDOM, URINE": {
+    "name": "Chloride, Random, Urine",
+    "labName": "Chloride, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "chloride-random-urine"
+    ]
+  },
+  "CHLORIDE, SERUM": {
+    "name": "Chloride Test",
+    "labName": "Chloride, Serum",
+    "aliases": [
+      "Chloride"
+    ],
+    "slugs": [
+      "chloride-serum"
+    ]
+  },
+  "CHOLESTEROL, BODY FLUID": {
+    "name": "Cholesterol, Body Fluid",
+    "labName": "Cholesterol, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "cholesterol-body-fluid"
+    ]
+  },
+  "CHROMOGRANIN A, SERUM/EDTA PLASMA": {
+    "name": "Chromogranin a Test",
+    "labName": "Chromogranin a, Serum/EDTA Plasma",
+    "aliases": [],
+    "slugs": [
+      "chromogranin-a-serum-edta-plasma"
+    ]
+  },
+  "CHROMOSOMAL MICROARRAY POC": {
+    "name": "Chromosomal Microarray Poc",
+    "labName": "Chromosomal Microarray Poc",
+    "aliases": [],
+    "slugs": [
+      "chromosomal-microarray-poc"
+    ]
+  },
+  "CHROMOSOME ANALYSIS: HEMATOLOGICAL DISORDERS": {
+    "name": "Chromosome Analysis: Hematological Disorders",
+    "labName": "Chromosome Analysis: Hematological Disorders",
+    "aliases": [],
+    "slugs": [
+      "chromosome-analysis-hematological-disorders"
+    ]
+  },
+  "CHRONIC LYMPHOPROLIFERATIVE DISORDERS": {
+    "name": "Chronic Lymphoproliferative Disorders",
+    "labName": "Chronic Lymphoproliferative Disorders",
+    "aliases": [],
+    "slugs": [
+      "chronic-lymphoproliferative-disorders"
+    ]
+  },
+  "CLASS I ANTIBODY DETECTION (PRA%)": {
+    "name": "Class I Antibody Detection (pra%)",
+    "labName": "Class I Antibody Detection (pra%)",
+    "aliases": [],
+    "slugs": [
+      "class-i-antibody-detection-pra"
+    ]
+  },
+  "CLASS II ANTIBODY DETECTION (PRA %)": {
+    "name": "Class II Antibody Detection (pra %)",
+    "labName": "Class Ii Antibody Detection (pra %)",
+    "aliases": [],
+    "slugs": [
+      "class-ii-antibody-detection-pra"
+    ]
+  },
+  "CLINICAL EXOME ANALYSIS": {
+    "name": "Clinical Exome Analysis",
+    "labName": "Clinical Exome Analysis",
+    "aliases": [],
+    "slugs": [
+      "clinical-exome-analysis"
+    ]
+  },
+  "CLOTTING TIME, BLOOD": {
+    "name": "Clotting Time Test (CT)",
+    "labName": "Clotting Time, Blood",
+    "aliases": [
+      "CT",
+      "Coagulation Time"
+    ],
+    "slugs": [
+      "clotting-time-blood"
+    ]
+  },
+  "CMV VIRAL LOAD REAL TIME PCR": {
+    "name": "CMV Viral Load Test (PCR)",
+    "labName": "CMV Viral Load Real Time PCR",
+    "aliases": [
+      "CMV",
+      "Viral Load"
+    ],
+    "slugs": [
+      "cmv-viral-load-real-time-pcr"
+    ]
+  },
+  "COLORECTAL CANCER PANEL, BLOCKS": {
+    "name": "Colorectal Cancer Panel, Blocks",
+    "labName": "Colorectal Cancer Panel, Blocks",
+    "aliases": [],
+    "slugs": [
+      "colorectal-cancer-panel-blocks"
+    ]
+  },
+  "COMPLEMENT C3, SERUM": {
+    "name": "Complement C3 Test",
+    "labName": "Complement C3, Serum",
+    "aliases": [],
+    "slugs": [
+      "complement-c3-serum"
+    ]
+  },
+  "COMPLEMENT C4, SERUM": {
+    "name": "Complement C4 Test",
+    "labName": "Complement C4, Serum",
+    "aliases": [],
+    "slugs": [
+      "complement-c4-serum"
+    ]
+  },
+  "COMPREHENSIVE ALLERGY - INFANCY,(22 ALLERGENS)": {
+    "name": "Comprehensive Allergy - Infancy, (22 Allergens)",
+    "labName": "Comprehensive Allergy - Infancy,(22 Allergens)",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-allergy-infancy-22-allergens"
+    ]
+  },
+  "COMPREHENSIVE ALLERGY PANELS-ADULTS(30 ALLERGENS)": {
+    "name": "Comprehensive Allergy Panels-Adults(30 Allergens)",
+    "labName": "Comprehensive Allergy Panels-Adults(30 Allergens)",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-allergy-panels-adults-30-allergens"
+    ]
+  },
+  "COMPREHENSIVE ANA PROFILE(ANA, ENA BLOT)": {
+    "name": "Comprehensive ANA Profile(ana, Ena Blot)",
+    "labName": "Comprehensive ANA Profile(ana, Ena Blot)",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-ana-profile-ana-ena-blot"
+    ]
+  },
+  "COMPREHENSIVE HEREDITARY CANCER PANEL (154 GENES)": {
+    "name": "Comprehensive Hereditary Cancer Panel (154 Genes)",
+    "labName": "Comprehensive Hereditary Cancer Panel (154 Genes)",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-hereditary-cancer-panel-154-genes"
+    ]
+  },
+  "COMPREHENSIVE MYELOMA PROTEIN PANEL": {
+    "name": "Comprehensive Myeloma Protein Panel",
+    "labName": "Comprehensive Myeloma Protein Panel",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-myeloma-protein-panel"
+    ]
+  },
+  "COMPREHENSIVE NSCLC PANEL 1": {
+    "name": "Comprehensive Nsclc Panel 1",
+    "labName": "Comprehensive Nsclc Panel 1",
+    "aliases": [],
+    "slugs": [
+      "comprehensive-nsclc-panel-1"
+    ]
+  },
+  "CONGO RED": {
+    "name": "Congo Red",
+    "labName": "Congo Red",
+    "aliases": [],
+    "slugs": [
+      "congo-red"
+    ]
+  },
+  "COOMBS TEST, DIRECT, EDTA WHOLE BLOOD": {
+    "name": "Direct Coombs Test (DCT)",
+    "labName": "Coombs Test, Direct, EDTA Whole Blood",
+    "aliases": [
+      "DCT",
+      "Direct Antiglobulin Test",
+      "DAT"
+    ],
+    "slugs": [
+      "coombs-test-direct-edta-whole-blood"
+    ]
+  },
+  "COPPER, 24 HRS URINE": {
+    "name": "Copper, 24 Hr Urine",
+    "labName": "Copper, 24 Hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "copper-24-hrs-urine"
+    ]
+  },
+  "COPPER, SERUM": {
+    "name": "Copper Test",
+    "labName": "Copper, Serum",
+    "aliases": [],
+    "slugs": [
+      "copper-serum"
+    ]
+  },
+  "CORTISOL, SERUM": {
+    "name": "Cortisol Test (Stress Hormone)",
+    "labName": "Cortisol, Serum",
+    "aliases": [
+      "Cortisol"
+    ],
+    "slugs": [
+      "cortisol-serum"
+    ]
+  },
+  "COUPLE KARYOTYPING (PBLC)": {
+    "name": "Couple Karyotyping (Chromosome Test)",
+    "labName": "Couple Karyotyping (pblc)",
+    "aliases": [
+      "Karyotype",
+      "Chromosome Test",
+      "Infertility Genetic Test"
+    ],
+    "slugs": [
+      "couple-karyotyping-pblc"
+    ]
+  },
+  "CREATINE KINASE - MB, SERUM": {
+    "name": "CK-MB Test (Heart Enzyme)",
+    "labName": "Creatine Kinase - Mb, Serum",
+    "aliases": [
+      "CK MB",
+      "CKMB",
+      "Cardiac Enzyme"
+    ],
+    "slugs": [
+      "creatine-kinase-mb-serum"
+    ]
+  },
+  "CREATINE KINASE (CPK), SERUM": {
+    "name": "CPK Test (Creatine Kinase)",
+    "labName": "Creatine Kinase (CPK), Serum",
+    "aliases": [
+      "CPK",
+      "CK",
+      "Creatine Phosphokinase"
+    ],
+    "slugs": [
+      "creatine-kinase-cpk-serum"
+    ]
+  },
+  "CREATININE CLEARANCE, SERUM AND URINE": {
+    "name": "Creatinine Clearance Test",
+    "labName": "Creatinine Clearance, Serum and Urine",
+    "aliases": [
+      "Creatinine Clearance"
+    ],
+    "slugs": [
+      "creatinine-clearance-serum-and-urine"
+    ]
+  },
+  "CREATININE EGFR": {
+    "name": "Creatinine with eGFR (Kidney Filtration Rate)",
+    "labName": "Creatinine Egfr",
+    "aliases": [
+      "eGFR",
+      "GFR"
+    ],
+    "slugs": [
+      "creatinine-egfr"
+    ]
+  },
+  "CREATININE, 24HRS URINE": {
+    "name": "Creatinine, 24 Hr Urine",
+    "labName": "Creatinine, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "creatinine-24hrs-urine"
+    ]
+  },
+  "CREATININE, BODY FLUID": {
+    "name": "Creatinine, Body Fluid",
+    "labName": "Creatinine, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "creatinine-body-fluid"
+    ]
+  },
+  "CREATININE, FLUID": {
+    "name": "Creatinine, Fluid",
+    "labName": "Creatinine, Fluid",
+    "aliases": [],
+    "slugs": [
+      "creatinine-fluid"
+    ]
+  },
+  "CREATININE, RANDOM, URINE": {
+    "name": "Creatinine, Random, Urine",
+    "labName": "Creatinine, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "creatinine-random-urine"
+    ]
+  },
+  "CRP, SEMI-QUANTITATIVE, SERUM": {
+    "name": "CRP Test (Semi-Quantitative)",
+    "labName": "CRP, Semi-Quantitative, Serum",
+    "aliases": [
+      "CRP",
+      "Inflammation Test"
+    ],
+    "slugs": [
+      "crp-semi-quantitative-serum"
+    ]
+  },
+  "CSF CULTURE & SUSCEPTIBILITY": {
+    "name": "CSF Culture & Susceptibility",
+    "labName": "CSF Culture & Susceptibility",
+    "aliases": [],
+    "slugs": [
+      "csf-culture-susceptibility"
+    ]
+  },
+  "CULTURE , SPUTUM SUSCEPTIBILITY": {
+    "name": "Culture, Sputum Susceptibility",
+    "labName": "Culture , Sputum Susceptibility",
+    "aliases": [],
+    "slugs": [
+      "culture-sputum-susceptibility"
+    ]
+  },
+  "CULTURE AEROBIC & SUSCEPTIBILITY": {
+    "name": "Culture Aerobic & Susceptibility",
+    "labName": "Culture Aerobic & Susceptibility",
+    "aliases": [],
+    "slugs": [
+      "culture-aerobic-susceptibility"
+    ]
+  },
+  "CULTURE STOOL, AEROBIC AND SUSCEPTIBILITY": {
+    "name": "Culture Stool, Aerobic and Susceptibility",
+    "labName": "Culture Stool, Aerobic and Susceptibility",
+    "aliases": [],
+    "slugs": [
+      "culture-stool-aerobic-and-susceptibility"
+    ]
+  },
+  "CULTURE, BODY FLUID - BACTEC PLUS AEROBIC": {
+    "name": "Culture, Body Fluid - Bactec Plus Aerobic",
+    "labName": "Culture, Body Fluid - Bactec Plus Aerobic",
+    "aliases": [],
+    "slugs": [
+      "culture-body-fluid-bactec-plus-aerobic"
+    ]
+  },
+  "CULTURE, BODY FLUID + SUSCEPTIBILITY": {
+    "name": "Culture, Body Fluid + Susceptibility",
+    "labName": "Culture, Body Fluid + Susceptibility",
+    "aliases": [],
+    "slugs": [
+      "culture-body-fluid-susceptibility"
+    ]
+  },
+  "CULTURE,BLOOD AND SUSCEPTIBILITY": {
+    "name": "Blood Culture & Sensitivity Test",
+    "labName": "Culture,Blood and Susceptibility",
+    "aliases": [
+      "Blood Culture",
+      "Blood C/S"
+    ],
+    "slugs": [
+      "culture-blood-and-susceptibility"
+    ]
+  },
+  "CULTURE; BETA STREP": {
+    "name": "Culture; Beta Strep",
+    "labName": "Culture; Beta Strep",
+    "aliases": [],
+    "slugs": [
+      "culture-beta-strep"
+    ]
+  },
+  "CUSTOM IHC PANEL": {
+    "name": "Custom Ihc Panel",
+    "labName": "Custom Ihc Panel",
+    "aliases": [],
+    "slugs": [
+      "custom-ihc-panel"
+    ]
+  },
+  "CYTOLOGY FOR MALIGNANT CELLS": {
+    "name": "Cytology for Malignant Cells",
+    "labName": "Cytology for Malignant Cells",
+    "aliases": [],
+    "slugs": [
+      "cytology-for-malignant-cells"
+    ]
+  },
+  "CYTOMEGALOVIRUS IGG & IGM, SERUM": {
+    "name": "CMV Test (IgG & IgM)",
+    "labName": "Cytomegalovirus IGG & IGM, Serum",
+    "aliases": [
+      "CMV",
+      "Cytomegalovirus"
+    ],
+    "slugs": [
+      "cytomegalovirus-igg-igm-serum"
+    ]
+  },
+  "DCP-DECARBOXY PROTHROMBIN PIVKA-II, SERUM": {
+    "name": "Dcp-Decarboxy Prothrombin Pivka-II Test",
+    "labName": "Dcp-Decarboxy Prothrombin Pivka-Ii, Serum",
+    "aliases": [],
+    "slugs": [
+      "dcp-decarboxy-prothrombin-pivka-ii-serum"
+    ]
+  },
+  "D-DIMER, CITRATE PLASMA": {
+    "name": "D-Dimer Test",
+    "labName": "D-Dimer, Citrate Plasma",
+    "aliases": [
+      "D Dimer",
+      "Blood Clot Test"
+    ],
+    "slugs": [
+      "d-dimer-citrate-plasma"
+    ]
+  },
+  "DEHYDROEPIANDROSTERONE-S, SERUM": {
+    "name": "DHEA-S Test",
+    "labName": "Dehydroepiandrosterone-S, Serum",
+    "aliases": [
+      "DHEAS",
+      "DHEA Sulphate"
+    ],
+    "slugs": [
+      "dehydroepiandrosterone-s-serum"
+    ]
+  },
+  "DENGUE DUO RAPID SCREENING TEST": {
+    "name": "Dengue Rapid Test (NS1 + Antibodies)",
+    "labName": "Dengue Duo Rapid Screening Test",
+    "aliases": [
+      "Dengue",
+      "Dengue Test",
+      "Dengue Fever Test",
+      "Dengue Duo"
+    ],
+    "slugs": [
+      "dengue-duo-rapid-screening-test"
+    ]
+  },
+  "DENGUE DUO RAPID SCREENING TEST, SERUM": {
+    "name": "Dengue Rapid Test - Serum (NS1 + Antibodies)",
+    "labName": "Dengue Duo Rapid Screening Test, Serum",
+    "aliases": [
+      "Dengue",
+      "Dengue Test",
+      "Dengue Fever Test",
+      "Dengue Duo"
+    ],
+    "slugs": [
+      "dengue-duo-rapid-screening-test-serum"
+    ]
+  },
+  "DENGUE NS1 ANTIGEN TEST, SERUM": {
+    "name": "Dengue NS1 Antigen Test",
+    "labName": "Dengue Ns1 Antigen Test, Serum",
+    "aliases": [
+      "Dengue NS1",
+      "Dengue Test",
+      "Dengue Fever Test"
+    ],
+    "slugs": [
+      "dengue-ns1-antigen-test-serum"
+    ]
+  },
+  "DIABETA SCREEN": {
+    "name": "Diabeta Screen",
+    "labName": "Diabeta Screen",
+    "aliases": [],
+    "slugs": [
+      "diabeta-screen"
+    ]
+  },
+  "DIABETES CHAMPION PACKAGE": {
+    "name": "Diabetes Champion Package",
+    "labName": "Diabetes Champion Package",
+    "aliases": [],
+    "slugs": [
+      "diabetes-champion-package"
+    ]
+  },
+  "DIABETES MONITOR": {
+    "name": "Diabetes Monitor",
+    "labName": "Diabetes Monitor",
+    "aliases": [],
+    "slugs": [
+      "diabetes-monitor"
+    ]
+  },
+  "DIHYDROPYRIMIDINE DEHYDROGENASE GENE MUTATION - SE": {
+    "name": "Dihydropyrimidine Dehydrogenase Gene Mutation - Se",
+    "labName": "Dihydropyrimidine Dehydrogenase Gene Mutation - Se",
+    "aliases": [],
+    "slugs": [
+      "dihydropyrimidine-dehydrogenase-gene-mutation-se"
+    ]
+  },
+  "DIRECT LDL CHOLESTEROL, SERUM": {
+    "name": "LDL Cholesterol Test (Bad Cholesterol)",
+    "labName": "Direct LDL Cholesterol, Serum",
+    "aliases": [
+      "LDL",
+      "Bad Cholesterol",
+      "Direct LDL"
+    ],
+    "slugs": [
+      "direct-ldl-cholesterol-serum"
+    ]
+  },
+  "DOUBLE STRANDED DNA, IFA, SERUM": {
+    "name": "Anti-dsDNA Test (Lupus)",
+    "labName": "Double Stranded DNA, IFA, Serum",
+    "aliases": [
+      "dsDNA",
+      "Anti ds DNA",
+      "Lupus Test"
+    ],
+    "slugs": [
+      "double-stranded-dna-ifa-serum"
+    ]
+  },
+  "DSA (DONOR SPECIFIC IGG ANTIBODIES TO CLASS I&II)": {
+    "name": "Dsa (donor Specific IgG Antibodies to Class I&ii)",
+    "labName": "Dsa (donor Specific IGG Antibodies to Class I&ii)",
+    "aliases": [],
+    "slugs": [
+      "dsa-donor-specific-igg-antibodies-to-class-iii"
+    ]
+  },
+  "DUAL MARKER (FMF) BY TRF METHOD,SERUM": {
+    "name": "Dual Marker Test - FMF (First Trimester Screening)",
+    "labName": "Dual Marker (fmf) By Trf Method,Serum",
+    "aliases": [
+      "Dual Marker",
+      "Double Marker",
+      "FMF"
+    ],
+    "slugs": [
+      "dual-marker-fmf-by-trf-method-serum"
+    ]
+  },
+  "EBER": {
+    "name": "Eber",
+    "labName": "Eber",
+    "aliases": [],
+    "slugs": [
+      "eber"
+    ]
+  },
+  "ECZEMA": {
+    "name": "Eczema",
+    "labName": "Eczema",
+    "aliases": [],
+    "slugs": [
+      "eczema"
+    ]
+  },
+  "EFTS (1ST TRIMESTER QUAD) WITH PREECLAMPSIA, SERUM": {
+    "name": "First Trimester Screening with Preeclampsia Risk (EFTS)",
+    "labName": "Efts (1st Trimester Quad) with Preeclampsia, Serum",
+    "aliases": [
+      "EFTS",
+      "Preeclampsia Test",
+      "First Trimester Screening"
+    ],
+    "slugs": [
+      "efts-1st-trimester-quad-with-preeclampsia-serum"
+    ]
+  },
+  "EGFR MUTATION DETECTION, TISSUE/BLOCK": {
+    "name": "Egfr Mutation Detection, Tissue/Block",
+    "labName": "Egfr Mutation Detection, Tissue/Block",
+    "aliases": [],
+    "slugs": [
+      "egfr-mutation-detection-tissue-block"
+    ]
+  },
+  "ELECTROLYTES (NA/K/CL), 24HRS URINE": {
+    "name": "Electrolytes (na/K/Cl), 24 Hr Urine",
+    "labName": "Electrolytes (na/K/Cl), 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "electrolytes-na-k-cl-24hrs-urine"
+    ]
+  },
+  "ELECTROLYTES, RANDOM, URINE": {
+    "name": "Electrolytes, Random, Urine",
+    "labName": "Electrolytes, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "electrolytes-random-urine"
+    ]
+  },
+  "ENTEROQUICK": {
+    "name": "Enteroquick",
+    "labName": "Enteroquick",
+    "aliases": [],
+    "slugs": [
+      "enteroquick"
+    ]
+  },
+  "ERYTHROPOIETIN, SERUM": {
+    "name": "EPO Test (Erythropoietin)",
+    "labName": "Erythropoietin, Serum",
+    "aliases": [
+      "EPO"
+    ],
+    "slugs": [
+      "erythropoietin-serum"
+    ]
+  },
+  "EVEROLIMUS, EDTA/HEPARIN WHOLE BLOOD": {
+    "name": "Everolimus, EDTA/Heparin Whole Blood",
+    "labName": "Everolimus, EDTA/Heparin Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "everolimus-edta-heparin-whole-blood"
+    ]
+  },
+  "EYE CULTURE ISO, ID & SENSITIVITY": {
+    "name": "Eye Culture Iso, Id & Sensitivity",
+    "labName": "Eye Culture Iso, Id & Sensitivity",
+    "aliases": [],
+    "slugs": [
+      "eye-culture-iso-id-sensitivity"
+    ]
+  },
+  "FACTOR V MUTATION DETECTION, EDTA BLOOD": {
+    "name": "Factor V Mutation Test",
+    "labName": "Factor V Mutation Detection, EDTA Blood",
+    "aliases": [
+      "Factor V Leiden",
+      "Clotting Gene Test"
+    ],
+    "slugs": [
+      "factor-v-mutation-detection-edta-blood"
+    ]
+  },
+  "FATTY LIVER INDEX,SERUM": {
+    "name": "Fatty Liver Test (Fatty Liver Index)",
+    "labName": "Fatty Liver Index,Serum",
+    "aliases": [
+      "FLI",
+      "Fatty Liver"
+    ],
+    "slugs": [
+      "fatty-liver-index-serum"
+    ]
+  },
+  "FECAL CALPROTECTIN, STOOL": {
+    "name": "Stool Calprotectin Test (Gut Inflammation)",
+    "labName": "Fecal Calprotectin, Stool",
+    "aliases": [
+      "Calprotectin",
+      "IBD Test"
+    ],
+    "slugs": [
+      "fecal-calprotectin-stool"
+    ]
+  },
+  "FERRITIN, SERUM": {
+    "name": "Ferritin Test (Iron Stores)",
+    "labName": "Ferritin, Serum",
+    "aliases": [
+      "Ferritin",
+      "Iron Storage Test"
+    ],
+    "slugs": [
+      "ferritin-serum"
+    ]
+  },
+  "FIBRINOGEN DEGRADATION PRODUCTS (FDP), PLASMA": {
+    "name": "Fibrinogen Degradation Products (fdp)",
+    "labName": "Fibrinogen Degradation Products (fdp), Plasma",
+    "aliases": [],
+    "slugs": [
+      "fibrinogen-degradation-products-fdp-plasma"
+    ]
+  },
+  "FIBRINOGEN, CITRATE PLASMA": {
+    "name": "Fibrinogen Test (Clotting Factor)",
+    "labName": "Fibrinogen, Citrate Plasma",
+    "aliases": [
+      "Fibrinogen"
+    ],
+    "slugs": [
+      "fibrinogen-citrate-plasma"
+    ]
+  },
+  "FINE NEEDLE ASPIRATION (CYTOLOGY SMEARS), SMEARS": {
+    "name": "Fine Needle Aspiration (cytology Smears), Smears",
+    "labName": "Fine Needle Aspiration (cytology Smears), Smears",
+    "aliases": [],
+    "slugs": [
+      "fine-needle-aspiration-cytology-smears-smears"
+    ]
+  },
+  "FINE NEEDLE ASPIRATION CYTOLOGY, SMEARS": {
+    "name": "FNAC Test (Fine Needle Aspiration Cytology)",
+    "labName": "Fine Needle Aspiration Cytology, Smears",
+    "aliases": [
+      "FNAC",
+      "FNA",
+      "Lump Test"
+    ],
+    "slugs": [
+      "fine-needle-aspiration-cytology-smears"
+    ]
+  },
+  "FITE FARACO STAIN FOR ACID FAST BACILLI": {
+    "name": "Fite Faraco Stain for Acid Fast Bacilli",
+    "labName": "Fite Faraco Stain for Acid Fast Bacilli",
+    "aliases": [],
+    "slugs": [
+      "fite-faraco-stain-for-acid-fast-bacilli"
+    ]
+  },
+  "FLEXI ALLERGY PANEL (ANY 10 ALLERGENS)": {
+    "name": "Flexi Allergy Panel (any 10 Allergens)",
+    "labName": "Flexi Allergy Panel (any 10 Allergens)",
+    "aliases": [],
+    "slugs": [
+      "flexi-allergy-panel-any-10-allergens"
+    ]
+  },
+  "FLEXI ALLERGY PANEL (ANY 5 ALLERGENS)": {
+    "name": "Flexi Allergy Panel (any 5 Allergens)",
+    "labName": "Flexi Allergy Panel (any 5 Allergens)",
+    "aliases": [],
+    "slugs": [
+      "flexi-allergy-panel-any-5-allergens"
+    ]
+  },
+  "FLOWCYTOMETRY CROSSMATCHING": {
+    "name": "Flowcytometry Crossmatching",
+    "labName": "Flowcytometry Crossmatching",
+    "aliases": [],
+    "slugs": [
+      "flowcytometry-crossmatching"
+    ]
+  },
+  "FLU REAL TIME PCR": {
+    "name": "Flu PCR Test (Influenza)",
+    "labName": "Flu Real Time PCR",
+    "aliases": [
+      "Influenza",
+      "Flu Test"
+    ],
+    "slugs": [
+      "flu-real-time-pcr"
+    ]
+  },
+  "FLUID, ROUTINE": {
+    "name": "Fluid, Routine",
+    "labName": "Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "fluid-routine"
+    ]
+  },
+  "FOLIC ACID, SERUM": {
+    "name": "Folic Acid Test (Vitamin B9)",
+    "labName": "Folic Acid, Serum",
+    "aliases": [
+      "Folate",
+      "Vitamin B9",
+      "Folic Acid"
+    ],
+    "slugs": [
+      "folic-acid-serum"
+    ]
+  },
+  "FOOD INTOLERANCE TEST": {
+    "name": "Food Intolerance Test",
+    "labName": "Food Intolerance Test",
+    "aliases": [],
+    "slugs": [
+      "food-intolerance-test"
+    ]
+  },
+  "FREE TESTOSTERONE, SERUM": {
+    "name": "Free Testosterone Test",
+    "labName": "Free Testosterone, Serum",
+    "aliases": [
+      "Testosterone"
+    ],
+    "slugs": [
+      "free-testosterone-serum"
+    ]
+  },
+  "FROZEN SECTION": {
+    "name": "Frozen Section",
+    "labName": "Frozen Section",
+    "aliases": [],
+    "slugs": [
+      "frozen-section"
+    ]
+  },
+  "FSH & LH EVALUATION, SERUM": {
+    "name": "FSH & LH Test (Fertility Hormones)",
+    "labName": "FSH & LH Evaluation, Serum",
+    "aliases": [
+      "FSH LH",
+      "Fertility Hormones"
+    ],
+    "slugs": [
+      "fsh-lh-evaluation-serum"
+    ]
+  },
+  "FUNGAL STAIN": {
+    "name": "Fungal Stain",
+    "labName": "Fungal Stain",
+    "aliases": [],
+    "slugs": [
+      "fungal-stain"
+    ]
+  },
+  "FUNGUS CULTURE & STAIN": {
+    "name": "Fungus Culture & Stain",
+    "labName": "Fungus Culture & Stain",
+    "aliases": [],
+    "slugs": [
+      "fungus-culture-stain"
+    ]
+  },
+  "G-6-PD, QUANTITATIVE, BLOOD": {
+    "name": "G6PD Test (Enzyme Deficiency)",
+    "labName": "G-6-Pd, Quantitative, Blood",
+    "aliases": [
+      "G6PD",
+      "G-6-PD"
+    ],
+    "slugs": [
+      "g-6-pd-quantitative-blood"
+    ]
+  },
+  "GALACTOMANNAN, BRONCHOALVEOLAR LAVAGE FLUID (BAL)": {
+    "name": "Galactomannan, Bronchoalveolar Lavage Fluid (bal)",
+    "labName": "Galactomannan, Bronchoalveolar Lavage Fluid (bal)",
+    "aliases": [],
+    "slugs": [
+      "galactomannan-bronchoalveolar-lavage-fluid-bal"
+    ]
+  },
+  "GALACTOMANNAN, SERUM": {
+    "name": "Galactomannan Test",
+    "labName": "Galactomannan, Serum",
+    "aliases": [],
+    "slugs": [
+      "galactomannan-serum"
+    ]
+  },
+  "GAMMA GLUTAMYL TRANSFERASE, SERUM": {
+    "name": "GGT Test (Liver Enzyme)",
+    "labName": "Gamma Glutamyl Transferase, Serum",
+    "aliases": [
+      "GGT",
+      "Gamma GT",
+      "GGTP"
+    ],
+    "slugs": [
+      "gamma-glutamyl-transferase-serum"
+    ]
+  },
+  "GESTATIONAL GLUCOSE TOLERANCE (GTT) -3, PLASMA": {
+    "name": "Pregnancy Diabetes Test - 3 Hour (Gestational GTT)",
+    "labName": "Gestational Glucose Tolerance (GTT) -3, Plasma",
+    "aliases": [
+      "GTT",
+      "OGTT",
+      "GDM Test",
+      "Gestational Diabetes Test",
+      "Glucose Tolerance Test"
+    ],
+    "slugs": [
+      "gestational-glucose-tolerance-gtt-3-plasma"
+    ]
+  },
+  "GLOBULIN": {
+    "name": "Globulin",
+    "labName": "Globulin",
+    "aliases": [],
+    "slugs": [
+      "globulin"
+    ]
+  },
+  "GLUCOSE CHALLENGE TEST": {
+    "name": "Glucose Challenge Test (GCT)",
+    "labName": "Glucose Challenge Test",
+    "aliases": [
+      "GCT",
+      "50g Glucose Test",
+      "Pregnancy Sugar Screening"
+    ],
+    "slugs": [
+      "glucose-challenge-test"
+    ]
+  },
+  "GLUCOSE FASTING,FLUORIDE PLASMA": {
+    "name": "Fasting Blood Sugar (FBS)",
+    "labName": "Glucose Fasting,Fluoride Plasma",
+    "aliases": [
+      "FBS",
+      "Fasting Glucose",
+      "Fasting Sugar",
+      "Sugar Test"
+    ],
+    "slugs": [
+      "glucose-fasting-fluoride-plasma"
+    ]
+  },
+  "GLUCOSE RANDOM, PLASMA": {
+    "name": "Random Blood Sugar (RBS)",
+    "labName": "Glucose Random, Plasma",
+    "aliases": [
+      "RBS",
+      "Random Glucose",
+      "Random Sugar"
+    ],
+    "slugs": [
+      "glucose-random-plasma"
+    ]
+  },
+  "GLUCOSE TOLERANCE TEST (GTT-2),PLASMA": {
+    "name": "Glucose Tolerance Test (GTT) - 2 Hour",
+    "labName": "Glucose Tolerance Test (GTT-2),Plasma",
+    "aliases": [
+      "GTT",
+      "OGTT",
+      "Sugar Tolerance Test"
+    ],
+    "slugs": [
+      "glucose-tolerance-test-gtt-2-plasma"
+    ]
+  },
+  "GLUCOSE TOLERANCE TEST, PLASMA FLUORIDE": {
+    "name": "Glucose Tolerance Test (GTT)",
+    "labName": "Glucose Tolerance Test, Plasma Fluoride",
+    "aliases": [
+      "GTT",
+      "OGTT",
+      "Sugar Tolerance Test"
+    ],
+    "slugs": [
+      "glucose-tolerance-test-plasma-fluoride"
+    ]
+  },
+  "GLUCOSE, BODY FLUID": {
+    "name": "Glucose, Body Fluid",
+    "labName": "Glucose, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "glucose-body-fluid"
+    ]
+  },
+  "GLUCOSE, FLUID": {
+    "name": "Glucose, Fluid",
+    "labName": "Glucose, Fluid",
+    "aliases": [],
+    "slugs": [
+      "glucose-fluid"
+    ]
+  },
+  "GLUCOSE, POST-PRANDIAL, PLASMA": {
+    "name": "Post-Meal Blood Sugar (PPBS)",
+    "labName": "Glucose, Post-Prandial, Plasma",
+    "aliases": [
+      "PPBS",
+      "PP Sugar",
+      "Post Prandial Glucose",
+      "Postprandial Blood Sugar"
+    ],
+    "slugs": [
+      "glucose-post-prandial-plasma"
+    ]
+  },
+  "GLUCOSE, SPINAL FLUID": {
+    "name": "Glucose, Spinal Fluid",
+    "labName": "Glucose, Spinal Fluid",
+    "aliases": [],
+    "slugs": [
+      "glucose-spinal-fluid"
+    ]
+  },
+  "GLUCOSE, URINE": {
+    "name": "Urine Glucose Test (Urine Sugar)",
+    "labName": "Glucose, Urine",
+    "aliases": [
+      "Urine Sugar",
+      "Urine Glucose"
+    ],
+    "slugs": [
+      "glucose-urine"
+    ]
+  },
+  "GLUTAMIC ACID DECARBOXYLASE ANTIBODY": {
+    "name": "GAD Antibody Test (Type 1 Diabetes)",
+    "labName": "Glutamic Acid Decarboxylase Antibody",
+    "aliases": [
+      "GAD",
+      "Anti GAD",
+      "GAD65"
+    ],
+    "slugs": [
+      "glutamic-acid-decarboxylase-antibody"
+    ]
+  },
+  "GOMORIS METHANMINE SILVER STAIN (GMS)": {
+    "name": "Gomoris Methanmine Silver Stain (gms)",
+    "labName": "Gomoris Methanmine Silver Stain (gms)",
+    "aliases": [],
+    "slugs": [
+      "gomoris-methanmine-silver-stain-gms"
+    ]
+  },
+  "GOMORIS RETICULIN STAIN (RETIC)": {
+    "name": "Gomoris Reticulin Stain (retic)",
+    "labName": "Gomoris Reticulin Stain (retic)",
+    "aliases": [],
+    "slugs": [
+      "gomoris-reticulin-stain-retic"
+    ]
+  },
+  "GONOCOCCAL SMEAR": {
+    "name": "Gonococcal Smear",
+    "labName": "Gonococcal Smear",
+    "aliases": [],
+    "slugs": [
+      "gonococcal-smear"
+    ]
+  },
+  "GRAM STAIN": {
+    "name": "Gram Stain",
+    "labName": "Gram Stain",
+    "aliases": [],
+    "slugs": [
+      "gram-stain"
+    ]
+  },
+  "GYNAECOLOGICAL CHECK UP": {
+    "name": "Gynaecological Check Up",
+    "labName": "Gynaecological Check Up",
+    "aliases": [],
+    "slugs": [
+      "gynaecological-check-up"
+    ]
+  },
+  "H & E SLIDES RETURN": {
+    "name": "H & E Slides Return",
+    "labName": "H & E Slides Return",
+    "aliases": [],
+    "slugs": [
+      "h-e-slides-return"
+    ]
+  },
+  "H S TROPONIN I, SERUM": {
+    "name": "Troponin I Test (High Sensitivity)",
+    "labName": "H S Troponin I, Serum",
+    "aliases": [
+      "Troponin",
+      "hs-Troponin I",
+      "Heart Attack Test"
+    ],
+    "slugs": [
+      "h-s-troponin-i-serum"
+    ]
+  },
+  "H1N1 /SWINE FLU BY PCR": {
+    "name": "Swine Flu Test (H1N1 PCR)",
+    "labName": "H1n1 /Swine Flu By PCR",
+    "aliases": [
+      "H1N1",
+      "Swine Flu"
+    ],
+    "slugs": [
+      "h1n1-swine-flu-by-pcr"
+    ]
+  },
+  "HAPTOGLOBIN, SERUM": {
+    "name": "Haptoglobin Test",
+    "labName": "Haptoglobin, Serum",
+    "aliases": [],
+    "slugs": [
+      "haptoglobin-serum"
+    ]
+  },
+  "HB, TLC & DLC, EDTA WHOLE BLOOD": {
+    "name": "HB, Tlc & Dlc",
+    "labName": "HB, Tlc & Dlc, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "hb-tlc-dlc-edta-whole-blood"
+    ]
+  },
+  "HB, TLC, DLC & ESR, EDTA WHOLE BLOOD": {
+    "name": "HB, Tlc, Dlc & ESR",
+    "labName": "HB, Tlc, Dlc & ESR, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "hb-tlc-dlc-esr-edta-whole-blood"
+    ]
+  },
+  "HBV SCREEN": {
+    "name": "HBV Screen",
+    "labName": "Hbv Screen",
+    "aliases": [],
+    "slugs": [
+      "hbv-screen"
+    ]
+  },
+  "HBV VIRAL LOAD BY REAL TIME PCR": {
+    "name": "Hepatitis B Viral Load Test (PCR)",
+    "labName": "Hbv Viral Load By Real Time PCR",
+    "aliases": [
+      "HBV DNA",
+      "Hep B Viral Load"
+    ],
+    "slugs": [
+      "hbv-viral-load-by-real-time-pcr"
+    ]
+  },
+  "HCV VIRAL LOAD BY REAL TIME PCR": {
+    "name": "Hepatitis C Viral Load Test (PCR)",
+    "labName": "HCV Viral Load By Real Time PCR",
+    "aliases": [
+      "HCV RNA",
+      "Hep C Viral Load"
+    ],
+    "slugs": [
+      "hcv-viral-load-by-real-time-pcr"
+    ]
+  },
+  "HDL CHOLESTEROL, SERUM": {
+    "name": "HDL Cholesterol Test (Good Cholesterol)",
+    "labName": "HDL Cholesterol, Serum",
+    "aliases": [
+      "HDL",
+      "Good Cholesterol"
+    ],
+    "slugs": [
+      "hdl-cholesterol-serum"
+    ]
+  },
+  "HELICOBACTER PYLORI ANTIGEN DETECTION": {
+    "name": "H. Pylori Test (Antigen)",
+    "labName": "Helicobacter Pylori Antigen Detection",
+    "aliases": [
+      "H Pylori",
+      "Helicobacter Pylori",
+      "Stomach Infection Test",
+      "Ulcer Bacteria Test"
+    ],
+    "slugs": [
+      "helicobacter-pylori-antigen-detection"
+    ]
+  },
+  "HEMOGLOBIN & HEMATOCRIT, EDTA WHOLE BLOOD": {
+    "name": "Hemoglobin & Hematocrit Test",
+    "labName": "Hemoglobin & Hematocrit, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "hemoglobin-hematocrit-edta-whole-blood"
+    ]
+  },
+  "HEMOGLOBIN VARIANT ANALYSIS - EDTA WHOLE BLOOD": {
+    "name": "Hemoglobin Variant Analysis - Whole Blood (Thalassemia Screening)",
+    "labName": "Hemoglobin Variant Analysis - EDTA Whole Blood",
+    "aliases": [
+      "Hb Electrophoresis",
+      "Hemoglobin Electrophoresis",
+      "Thalassemia Test"
+    ],
+    "slugs": [
+      "hemoglobin-variant-analysis-edta-whole-blood"
+    ]
+  },
+  "HEP SCREEN": {
+    "name": "HEP Screen",
+    "labName": "HEP Screen",
+    "aliases": [],
+    "slugs": [
+      "hep-screen"
+    ]
+  },
+  "HEPATITIS A IGM, SERUM": {
+    "name": "Hepatitis A Test (IgM)",
+    "labName": "Hepatitis a IGM, Serum",
+    "aliases": [
+      "Hepatitis A",
+      "Hep A"
+    ],
+    "slugs": [
+      "hepatitis-a-igm-serum"
+    ]
+  },
+  "HEPATITIS B AND TETANUS VACCINATION TRAINEES": {
+    "name": "Hepatitis B and Tetanus Vaccination Trainees",
+    "labName": "Hepatitis B and Tetanus Vaccination Trainees",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-b-and-tetanus-vaccination-trainees"
+    ]
+  },
+  "HEPATITIS B CORE ANTIBODIES (TOTAL), SERUM": {
+    "name": "Hepatitis B Core Antibodies (total)",
+    "labName": "Hepatitis B Core Antibodies (total), Serum",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-b-core-antibodies-total-serum"
+    ]
+  },
+  "HEPATITIS B CORE IGM, SERUM": {
+    "name": "Hepatitis B Core IgM",
+    "labName": "Hepatitis B Core IGM, Serum",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-b-core-igm-serum"
+    ]
+  },
+  "HEPATITIS B E ANTIGEN, SERUM": {
+    "name": "Hepatitis B E Antigen",
+    "labName": "Hepatitis B E Antigen, Serum",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-b-e-antigen-serum"
+    ]
+  },
+  "HEPATITIS B SURFACE ABS (QUANT), SERUM": {
+    "name": "Hepatitis B Immunity Test (Anti-HBs)",
+    "labName": "Hepatitis B Surface Abs (quant), Serum",
+    "aliases": [
+      "Anti HBs",
+      "HBsAb",
+      "Hep B Antibody"
+    ],
+    "slugs": [
+      "hepatitis-b-surface-abs-quant-serum"
+    ]
+  },
+  "HEPATITIS B SURFACE ANTIGEN, SERUM": {
+    "name": "Hepatitis B Surface Antigen Test (HBsAg)",
+    "labName": "Hepatitis B Surface Antigen, Serum",
+    "aliases": [
+      "HBsAg",
+      "Hepatitis B",
+      "Hep B"
+    ],
+    "slugs": [
+      "hepatitis-b-surface-antigen-serum"
+    ]
+  },
+  "HEPATITIS B VIRUS DNA QUANTITATIVE": {
+    "name": "Hepatitis B Virus DNA Quantitative",
+    "labName": "Hepatitis B Virus DNA Quantitative",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-b-virus-dna-quantitative"
+    ]
+  },
+  "HEPATITIS C ANTIBODIES, SERUM": {
+    "name": "Hepatitis C Test (Anti-HCV)",
+    "labName": "Hepatitis C Antibodies, Serum",
+    "aliases": [
+      "HCV",
+      "Hepatitis C",
+      "Hep C"
+    ],
+    "slugs": [
+      "hepatitis-c-antibodies-serum"
+    ]
+  },
+  "HEPATITIS C VIRUS RNA GENOTYPING": {
+    "name": "Hepatitis C Virus RNA Genotyping",
+    "labName": "Hepatitis C Virus RNA Genotyping",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-c-virus-rna-genotyping"
+    ]
+  },
+  "HEPATITIS C VIRUS RNA QUANTITATIVE": {
+    "name": "Hepatitis C Virus RNA Quantitative",
+    "labName": "Hepatitis C Virus RNA Quantitative",
+    "aliases": [],
+    "slugs": [
+      "hepatitis-c-virus-rna-quantitative"
+    ]
+  },
+  "HEPATITIS E IGM, SERUM": {
+    "name": "Hepatitis E Test (IgM)",
+    "labName": "Hepatitis E IGM, Serum",
+    "aliases": [
+      "Hepatitis E",
+      "Hep E"
+    ],
+    "slugs": [
+      "hepatitis-e-igm-serum"
+    ]
+  },
+  "HER 2/ NEU": {
+    "name": "Her 2/ Neu",
+    "labName": "Her 2/ Neu",
+    "aliases": [],
+    "slugs": [
+      "her-2-neu"
+    ]
+  },
+  "HERPES SIMPLEX VIRUS 1&2 IGG & IGM, SERUM": {
+    "name": "Herpes (HSV 1 & 2) Test (IgG & IgM)",
+    "labName": "Herpes Simplex Virus 1&2 IGG & IGM, Serum",
+    "aliases": [
+      "HSV",
+      "Herpes Test"
+    ],
+    "slugs": [
+      "herpes-simplex-virus-12-igg-igm-serum"
+    ]
+  },
+  "HERPES SIMPLEX VIRUS DNA DETECTOR": {
+    "name": "Herpes Simplex Virus DNA Detector",
+    "labName": "Herpes Simplex Virus DNA Detector",
+    "aliases": [],
+    "slugs": [
+      "herpes-simplex-virus-dna-detector"
+    ]
+  },
+  "HIGH SENSITIVITY C-REACTIVE PROTEIN, SERUM": {
+    "name": "hs-CRP Test (Heart Risk & Inflammation)",
+    "labName": "High Sensitivity C-Reactive Protein, Serum",
+    "aliases": [
+      "hsCRP",
+      "High Sensitivity CRP",
+      "Cardiac CRP"
+    ],
+    "slugs": [
+      "high-sensitivity-c-reactive-protein-serum"
+    ]
+  },
+  "HIV ABS, WESTERN BLOT, SERUM": {
+    "name": "HIV Antibodies, Western Blot",
+    "labName": "HIV Abs, Western Blot, Serum",
+    "aliases": [],
+    "slugs": [
+      "hiv-abs-western-blot-serum"
+    ]
+  },
+  "HIV MONITOR (VIRAL LOAD, CD4 / CD8), BLOOD": {
+    "name": "HIV Monitor (viral Load, CD4 / Cd8)",
+    "labName": "HIV Monitor (viral Load, CD4 / Cd8), Blood",
+    "aliases": [],
+    "slugs": [
+      "hiv-monitor-viral-load-cd4-cd8-blood"
+    ]
+  },
+  "HIV SCREENING 4TH GEN ASSAY, SERUM": {
+    "name": "HIV Test - 4th Generation (Antigen + Antibody)",
+    "labName": "HIV Screening 4th Gen Assay, Serum",
+    "aliases": [
+      "HIV",
+      "AIDS Test",
+      "HIV Combo"
+    ],
+    "slugs": [
+      "hiv-screening-4th-gen-assay-serum"
+    ]
+  },
+  "HIV VIRAL LOAD BY REAL TIME PCR": {
+    "name": "HIV Viral Load Test (PCR)",
+    "labName": "HIV Viral Load By Real Time PCR",
+    "aliases": [
+      "HIV RNA",
+      "Viral Load"
+    ],
+    "slugs": [
+      "hiv-viral-load-by-real-time-pcr"
+    ]
+  },
+  "HIV-1 MONITOR": {
+    "name": "HIV-1 Monitor",
+    "labName": "HIV-1 Monitor",
+    "aliases": [],
+    "slugs": [
+      "hiv-1-monitor"
+    ]
+  },
+  "HLA - A B DR LOCI TYPING PCR DUO": {
+    "name": "HLA - a B Dr Loci Typing PCR Duo",
+    "labName": "HLA - a B Dr Loci Typing PCR Duo",
+    "aliases": [],
+    "slugs": [
+      "hla-a-b-dr-loci-typing-pcr-duo"
+    ]
+  },
+  "HLA –A B C DR DQ DP LOCI TYPING": {
+    "name": "HLA –a B C Dr Dq Dp Loci Typing",
+    "labName": "HLA –a B C Dr Dq Dp Loci Typing",
+    "aliases": [],
+    "slugs": [
+      "hla-a-b-c-dr-dq-dp-loci-typing"
+    ]
+  },
+  "HLA –A B C DR DQ LOCI TYPING BY HISTOSPOT": {
+    "name": "HLA –a B C Dr Dq Loci Typing By Histospot",
+    "labName": "HLA –a B C Dr Dq Loci Typing By Histospot",
+    "aliases": [],
+    "slugs": [
+      "hla-a-b-c-dr-dq-loci-typing-by-histospot"
+    ]
+  },
+  "HLA –A B C DRB1 DQB1 DPB1 HR LOCI TYPING": {
+    "name": "HLA –a B C Drb1 Dqb1 Dpb1 Hr Loci Typing",
+    "labName": "HLA –a B C Drb1 Dqb1 Dpb1 Hr Loci Typing",
+    "aliases": [],
+    "slugs": [
+      "hla-a-b-c-drb1-dqb1-dpb1-hr-loci-typing"
+    ]
+  },
+  "HLA A, B, DR LOCI TYPING PCR": {
+    "name": "HLA a, B, Dr Loci Typing PCR",
+    "labName": "HLA a, B, Dr Loci Typing PCR",
+    "aliases": [],
+    "slugs": [
+      "hla-a-b-dr-loci-typing-pcr"
+    ]
+  },
+  "HLA B27 BY PCR": {
+    "name": "HLA-B27 Test (PCR)",
+    "labName": "HLA B27 By PCR",
+    "aliases": [
+      "HLA B27",
+      "B27",
+      "Ankylosing Spondylitis Test"
+    ],
+    "slugs": [
+      "hla-b27-by-pcr"
+    ]
+  },
+  "HLA DUO ABDR & CDC & FLOWCYTOMETRY CROSSMATCHING": {
+    "name": "HLA Duo Abdr & Cdc & Flowcytometry Crossmatching",
+    "labName": "HLA Duo Abdr & Cdc & Flowcytometry Crossmatching",
+    "aliases": [],
+    "slugs": [
+      "hla-duo-abdr-cdc-flowcytometry-crossmatching"
+    ]
+  },
+  "HLA PLUS": {
+    "name": "HLA Plus",
+    "labName": "HLA Plus",
+    "aliases": [],
+    "slugs": [
+      "hla-plus"
+    ]
+  },
+  "HLA-B27, FLOW CYTOMETRY, BLOOD": {
+    "name": "HLA-B27 Test (Flow Cytometry)",
+    "labName": "HLA-B27, Flow Cytometry, Blood",
+    "aliases": [
+      "HLA B27",
+      "B27",
+      "Ankylosing Spondylitis Test"
+    ],
+    "slugs": [
+      "hla-b27-flow-cytometry-blood"
+    ]
+  },
+  "HOMEOSTATIC MODEL ASSESSMENT (HOMA) 2, SERUM": {
+    "name": "Insulin Resistance Test (HOMA-IR)",
+    "labName": "Homeostatic Model Assessment (homa) 2, Serum",
+    "aliases": [
+      "HOMA",
+      "HOMA2",
+      "Insulin Resistance"
+    ],
+    "slugs": [
+      "homeostatic-model-assessment-homa-2-serum"
+    ]
+  },
+  "HP - SKIN BIOPSY": {
+    "name": "Hp - Skin Biopsy",
+    "labName": "Hp - Skin Biopsy",
+    "aliases": [],
+    "slugs": [
+      "hp-skin-biopsy"
+    ]
+  },
+  "HPV DNA DETECTOR": {
+    "name": "HPV DNA Test (Cervical Cancer Screening)",
+    "labName": "HPV DNA Detector",
+    "aliases": [
+      "HPV",
+      "HPV Test"
+    ],
+    "slugs": [
+      "hpv-dna-detector"
+    ]
+  },
+  "HYPERSENSITIVITY PNEUMONITIS PANEL, SERUM": {
+    "name": "Hypersensitivity Pneumonitis Panel",
+    "labName": "Hypersensitivity Pneumonitis Panel, Serum",
+    "aliases": [],
+    "slugs": [
+      "hypersensitivity-pneumonitis-panel-serum"
+    ]
+  },
+  "HYPERTENSION PROFILE": {
+    "name": "Hypertension Profile",
+    "labName": "Hypertension Profile",
+    "aliases": [],
+    "slugs": [
+      "hypertension-profile"
+    ]
+  },
+  "IGG4, SERUM": {
+    "name": "IgG4 Test",
+    "labName": "Igg4, Serum",
+    "aliases": [],
+    "slugs": [
+      "igg4-serum"
+    ]
+  },
+  "ILD TOTAL (RH,ANA REF,ANTI CCP,CRP,ACE,HP PANEL)": {
+    "name": "Ild Total (rh, ANA Ref, Anti Ccp, CRP, Ace, Hp Panel)",
+    "labName": "Ild Total (rh,ANA Ref,Anti Ccp,CRP,Ace,Hp Panel)",
+    "aliases": [],
+    "slugs": [
+      "ild-total-rh-ana-ref-anti-ccp-crp-ace-hp-panel"
+    ]
+  },
+  "IMMATURE PLATELET FRACTION": {
+    "name": "Immature Platelet Fraction",
+    "labName": "Immature Platelet Fraction",
+    "aliases": [],
+    "slugs": [
+      "immature-platelet-fraction"
+    ]
+  },
+  "IMMUNOFIXATION EP, SERUM": {
+    "name": "Immunofixation Ep Test",
+    "labName": "Immunofixation Ep, Serum",
+    "aliases": [],
+    "slugs": [
+      "immunofixation-ep-serum"
+    ]
+  },
+  "IMMUNOGLOBULIN, SERUM": {
+    "name": "Immunoglobulin Test",
+    "labName": "Immunoglobulin, Serum",
+    "aliases": [],
+    "slugs": [
+      "immunoglobulin-serum"
+    ]
+  },
+  "INDIRECT COOMBS TEST": {
+    "name": "Indirect Coombs Test (ICT)",
+    "labName": "Indirect Coombs Test",
+    "aliases": [
+      "ICT",
+      "Indirect Antiglobulin Test"
+    ],
+    "slugs": [
+      "indirect-coombs-test"
+    ]
+  },
+  "INHIBIN B, SERUM": {
+    "name": "Inhibin B Test",
+    "labName": "Inhibin B, Serum",
+    "aliases": [],
+    "slugs": [
+      "inhibin-b-serum"
+    ]
+  },
+  "INSULIN LIKE GROWTH FACTOR - I, SERUM": {
+    "name": "IGF-1 Test (Growth Hormone Marker)",
+    "labName": "Insulin Like Growth Factor - I, Serum",
+    "aliases": [
+      "IGF1",
+      "IGF 1",
+      "Somatomedin C"
+    ],
+    "slugs": [
+      "insulin-like-growth-factor-i-serum"
+    ]
+  },
+  "INSULIN, SERUM (POST-PRANDIAL)": {
+    "name": "Post-Meal Insulin Test",
+    "labName": "Insulin, Serum (post-Prandial)",
+    "aliases": [
+      "PP Insulin",
+      "Insulin Post Prandial"
+    ],
+    "slugs": [
+      "insulin-serum-post-prandial"
+    ]
+  },
+  "IRON, SERUM": {
+    "name": "Serum Iron Test",
+    "labName": "Iron, Serum",
+    "aliases": [
+      "Iron",
+      "Iron Level"
+    ],
+    "slugs": [
+      "iron-serum"
+    ]
+  },
+  "JAK2 V617F MUTATION DETECTION, EDTA": {
+    "name": "Jak2 V617f Mutation Detection, EDTA",
+    "labName": "Jak2 V617f Mutation Detection, EDTA",
+    "aliases": [],
+    "slugs": [
+      "jak2-v617f-mutation-detection-edta"
+    ]
+  },
+  "JONES PERIODIC ACID SILVER METHANAMINE STAIN TECH": {
+    "name": "Jones Periodic Acid Silver Methanamine Stain Tech",
+    "labName": "Jones Periodic Acid Silver Methanamine Stain Tech",
+    "aliases": [],
+    "slugs": [
+      "jones-periodic-acid-silver-methanamine-stain-tech"
+    ]
+  },
+  "KIDNEY PANEL - II": {
+    "name": "Kidney Panel - II",
+    "labName": "Kidney Panel - Ii",
+    "aliases": [],
+    "slugs": [
+      "kidney-panel-ii"
+    ]
+  },
+  "KIDNEY SCREEN": {
+    "name": "Kidney Screen",
+    "labName": "Kidney Screen",
+    "aliases": [],
+    "slugs": [
+      "kidney-screen"
+    ]
+  },
+  "KINSHIP ANALYSIS": {
+    "name": "Kinship Analysis",
+    "labName": "Kinship Analysis",
+    "aliases": [],
+    "slugs": [
+      "kinship-analysis"
+    ]
+  },
+  "Lactate Dehydrogenase (LDH), Body Fluid": {
+    "name": "Lactate Dehydrogenase (LDH), Body Fluid",
+    "labName": "Lactate Dehydrogenase (LDH), Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "lactate-dehydrogenase-ldh-body-fluid"
+    ]
+  },
+  "LACTATE DEHYDROGENASE (LDH), SPINAL FLUID": {
+    "name": "Lactate Dehydrogenase (LDH), Spinal Fluid",
+    "labName": "Lactate Dehydrogenase (LDH), Spinal Fluid",
+    "aliases": [],
+    "slugs": [
+      "lactate-dehydrogenase-ldh-spinal-fluid"
+    ]
+  },
+  "LACTATE DEHYDROGENASE, FLUID": {
+    "name": "Lactate Dehydrogenase, Fluid",
+    "labName": "Lactate Dehydrogenase, Fluid",
+    "aliases": [],
+    "slugs": [
+      "lactate-dehydrogenase-fluid"
+    ]
+  },
+  "LACTATE DEHYDROGENASE, SERUM": {
+    "name": "LDH Test (Lactate Dehydrogenase)",
+    "labName": "Lactate Dehydrogenase, Serum",
+    "aliases": [
+      "LDH"
+    ],
+    "slugs": [
+      "lactate-dehydrogenase-serum"
+    ]
+  },
+  "LARGE SPECIMEN, TISSUE": {
+    "name": "Large Specimen, Tissue",
+    "labName": "Large Specimen, Tissue",
+    "aliases": [],
+    "slugs": [
+      "large-specimen-tissue"
+    ]
+  },
+  "LE CELL EXAMINATION, BLOOD": {
+    "name": "Le Cell Examination",
+    "labName": "Le Cell Examination, Blood",
+    "aliases": [],
+    "slugs": [
+      "le-cell-examination-blood"
+    ]
+  },
+  "LEPRA SMEAR": {
+    "name": "Lepra Smear",
+    "labName": "Lepra Smear",
+    "aliases": [],
+    "slugs": [
+      "lepra-smear"
+    ]
+  },
+  "LEPTOSPIRA IGM, SERUM": {
+    "name": "Leptospirosis Test (IgM)",
+    "labName": "Leptospira IGM, Serum",
+    "aliases": [
+      "Leptospira",
+      "Rat Fever"
+    ],
+    "slugs": [
+      "leptospira-igm-serum"
+    ]
+  },
+  "LEUKEMIA / LYMPHOMA FLOW CYTOMETRY PANEL": {
+    "name": "Leukemia / Lymphoma Flow Cytometry Panel",
+    "labName": "Leukemia / Lymphoma Flow Cytometry Panel",
+    "aliases": [],
+    "slugs": [
+      "leukemia-lymphoma-flow-cytometry-panel"
+    ]
+  },
+  "LIPASE, FLUID": {
+    "name": "Lipase, Fluid",
+    "labName": "Lipase, Fluid",
+    "aliases": [],
+    "slugs": [
+      "lipase-fluid"
+    ]
+  },
+  "LIPASE, SERUM": {
+    "name": "Lipase Test (Pancreas)",
+    "labName": "Lipase, Serum",
+    "aliases": [
+      "Lipase",
+      "Pancreatitis Test"
+    ],
+    "slugs": [
+      "lipase-serum"
+    ]
+  },
+  "LIPID PROFILE - NON FASTING, SERUM": {
+    "name": "Lipid Profile - Non-Fasting (Cholesterol Test)",
+    "labName": "Lipid Profile - Non Fasting, Serum",
+    "aliases": [
+      "Lipid Profile",
+      "Cholesterol Test",
+      "Lipid Panel"
+    ],
+    "slugs": [
+      "lipid-profile-non-fasting-serum"
+    ]
+  },
+  "LIPID SCREEN": {
+    "name": "Lipid Screen",
+    "labName": "Lipid Screen",
+    "aliases": [],
+    "slugs": [
+      "lipid-screen"
+    ]
+  },
+  "LIPOPROTEIN (A), SERUM": {
+    "name": "Lipoprotein(a) Test (Lp(a))",
+    "labName": "Lipoprotein (a), Serum",
+    "aliases": [
+      "Lp(a)",
+      "Lipoprotein A"
+    ],
+    "slugs": [
+      "lipoprotein-a-serum"
+    ]
+  },
+  "LIQUID-BASED CYTOLOGY": {
+    "name": "Liquid-Based Cytology (Cervical Cancer Screening)",
+    "labName": "Liquid-Based Cytology",
+    "aliases": [
+      "LBC",
+      "Pap Test",
+      "Cervical Screening"
+    ],
+    "slugs": [
+      "liquid-based-cytology"
+    ]
+  },
+  "LIQUIPREP CYTOLOGY": {
+    "name": "Liquiprep Cytology",
+    "labName": "Liquiprep Cytology",
+    "aliases": [],
+    "slugs": [
+      "liquiprep-cytology"
+    ]
+  },
+  "LIVER & KIDNEY PROFILE": {
+    "name": "Liver & Kidney Profile",
+    "labName": "Liver & Kidney Profile",
+    "aliases": [],
+    "slugs": [
+      "liver-kidney-profile"
+    ]
+  },
+  "LIVER FUNCTION TEST (WITHOUT GGT)": {
+    "name": "Liver Function Test (LFT) - Without GGT",
+    "labName": "Liver Function Test (without Ggt)",
+    "aliases": [
+      "LFT",
+      "Liver Test"
+    ],
+    "slugs": [
+      "liver-function-test-without-ggt"
+    ]
+  },
+  "LIVER SCREEN": {
+    "name": "Liver Screen",
+    "labName": "Liver Screen",
+    "aliases": [],
+    "slugs": [
+      "liver-screen"
+    ]
+  },
+  "LIVER SCREENING PANEL": {
+    "name": "Liver Screening Panel",
+    "labName": "Liver Screening Panel",
+    "aliases": [],
+    "slugs": [
+      "liver-screening-panel"
+    ]
+  },
+  "LIVER-KIDNEY-MICRO ABS, SERUM": {
+    "name": "Liver-Kidney-Micro Antibodies",
+    "labName": "Liver-Kidney-Micro Abs, Serum",
+    "aliases": [],
+    "slugs": [
+      "liver-kidney-micro-abs-serum"
+    ]
+  },
+  "LUPUS ANTICOAGULANT": {
+    "name": "Lupus Anticoagulant",
+    "labName": "Lupus Anticoagulant",
+    "aliases": [],
+    "slugs": [
+      "lupus-anticoagulant"
+    ]
+  },
+  "LUXOL FAST BLUE STAIN FOR MYELIN (LFB)": {
+    "name": "Luxol Fast Blue Stain for Myelin (lfb)",
+    "labName": "Luxol Fast Blue Stain for Myelin (lfb)",
+    "aliases": [],
+    "slugs": [
+      "luxol-fast-blue-stain-for-myelin-lfb"
+    ]
+  },
+  "LYMPHOCYTE SUBSET(CD4% & ABSOLUTE COUNT), BLOOD": {
+    "name": "CD4 Count Test (HIV Immune Status)",
+    "labName": "Lymphocyte Subset(cd4% & Absolute Count), Blood",
+    "aliases": [
+      "CD4",
+      "CD4 Count",
+      "CD4 Absolute"
+    ],
+    "slugs": [
+      "lymphocyte-subset-cd4-absolute-count-blood"
+    ]
+  },
+  "MAGNESIUM, 24HRS URINE": {
+    "name": "Magnesium, 24 Hr Urine",
+    "labName": "Magnesium, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "magnesium-24hrs-urine"
+    ]
+  },
+  "MAGNESIUM, RANDOM, URINE": {
+    "name": "Magnesium, Random, Urine",
+    "labName": "Magnesium, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "magnesium-random-urine"
+    ]
+  },
+  "MAGNESIUM, SERUM": {
+    "name": "Magnesium Test",
+    "labName": "Magnesium, Serum",
+    "aliases": [
+      "Magnesium"
+    ],
+    "slugs": [
+      "magnesium-serum"
+    ]
+  },
+  "MAGNESIUM/CREATININE RATIO, RANDOM, URINE": {
+    "name": "Magnesium/Creatinine Ratio, Random, Urine",
+    "labName": "Magnesium/Creatinine Ratio, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "magnesium-creatinine-ratio-random-urine"
+    ]
+  },
+  "MALARIA ANTIGEN DETECTION, WHOLE BLOOD": {
+    "name": "Malaria Rapid Test (Antigen)",
+    "labName": "Malaria Antigen Detection, Whole Blood",
+    "aliases": [
+      "Malaria",
+      "Malaria Test",
+      "MP Antigen"
+    ],
+    "slugs": [
+      "malaria-antigen-detection-whole-blood"
+    ]
+  },
+  "MALARIAL PARASITE (M.P), EDTA WHOLE BLOOD/SMEAR": {
+    "name": "Malaria Parasite Test (MP Smear)",
+    "labName": "Malarial Parasite (m.p), EDTA Whole Blood/Smear",
+    "aliases": [
+      "MP",
+      "Malaria Test",
+      "Malaria Smear"
+    ],
+    "slugs": [
+      "malarial-parasite-mp-edta-whole-blood-smear"
+    ]
+  },
+  "MASSON FONTANA SILVER STAINING TECHNIQUE, MELANIN": {
+    "name": "Masson Fontana Silver Staining Technique, Melanin",
+    "labName": "Masson Fontana Silver Staining Technique, Melanin",
+    "aliases": [],
+    "slugs": [
+      "masson-fontana-silver-staining-technique-melanin"
+    ]
+  },
+  "MASSON TRICHOME STAIN (MT)": {
+    "name": "Masson Trichome Stain (mt)",
+    "labName": "Masson Trichome Stain (mt)",
+    "aliases": [],
+    "slugs": [
+      "masson-trichome-stain-mt"
+    ]
+  },
+  "MEDIUM BIOPSY SPECIMEN, TISSUE": {
+    "name": "Medium Biopsy Specimen, Tissue",
+    "labName": "Medium Biopsy Specimen, Tissue",
+    "aliases": [],
+    "slugs": [
+      "medium-biopsy-specimen-tissue"
+    ]
+  },
+  "MELANIN BLEACH TECHNIQUE": {
+    "name": "Melanin Bleach Technique",
+    "labName": "Melanin Bleach Technique",
+    "aliases": [],
+    "slugs": [
+      "melanin-bleach-technique"
+    ]
+  },
+  "METANEPHRINE FREE (PLASMA)": {
+    "name": "Metanephrine Free (plasma)",
+    "labName": "Metanephrine Free (plasma)",
+    "aliases": [],
+    "slugs": [
+      "metanephrine-free-plasma"
+    ]
+  },
+  "METANEPHRINES, 24HRS URINE": {
+    "name": "Metanephrines, 24 Hr Urine",
+    "labName": "Metanephrines, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "metanephrines-24hrs-urine"
+    ]
+  },
+  "METHOTREXATE, SERUM": {
+    "name": "Methotrexate Test",
+    "labName": "Methotrexate, Serum",
+    "aliases": [],
+    "slugs": [
+      "methotrexate-serum"
+    ]
+  },
+  "MICROALBUMIN, URINE": {
+    "name": "Urine Microalbumin Test (Kidney & Diabetes Screen)",
+    "labName": "Microalbumin, Urine",
+    "aliases": [
+      "Microalbumin",
+      "Urine Albumin",
+      "MAU"
+    ],
+    "slugs": [
+      "microalbumin-urine"
+    ]
+  },
+  "MICROBIOLOGY STAIN / ALBERT STAIN": {
+    "name": "Microbiology Stain / Albert Stain",
+    "labName": "Microbiology Stain / Albert Stain",
+    "aliases": [],
+    "slugs": [
+      "microbiology-stain-albert-stain"
+    ]
+  },
+  "MICROFILARIA DETECTION, BLOOD": {
+    "name": "Microfilaria Detection",
+    "labName": "Microfilaria Detection, Blood",
+    "aliases": [],
+    "slugs": [
+      "microfilaria-detection-blood"
+    ]
+  },
+  "MINI HCP": {
+    "name": "Mini Hcp",
+    "labName": "Mini Hcp",
+    "aliases": [],
+    "slugs": [
+      "mini-hcp"
+    ]
+  },
+  "MINIMAL RESIDUAL DISEASE (MRD) BY FLOW CYTOMETRY": {
+    "name": "Minimal Residual Disease (mrd) By Flow Cytometry",
+    "labName": "Minimal Residual Disease (mrd) By Flow Cytometry",
+    "aliases": [],
+    "slugs": [
+      "minimal-residual-disease-mrd-by-flow-cytometry"
+    ]
+  },
+  "MPN REFLEX PANEL": {
+    "name": "Mpn Reflex Panel",
+    "labName": "Mpn Reflex Panel",
+    "aliases": [],
+    "slugs": [
+      "mpn-reflex-panel"
+    ]
+  },
+  "MTHFR GENE MUTATION": {
+    "name": "MTHFR Gene Mutation Test",
+    "labName": "Mthfr Gene Mutation",
+    "aliases": [
+      "MTHFR"
+    ],
+    "slugs": [
+      "mthfr-gene-mutation"
+    ]
+  },
+  "MUCICARMINE STAIN": {
+    "name": "Mucicarmine Stain",
+    "labName": "Mucicarmine Stain",
+    "aliases": [],
+    "slugs": [
+      "mucicarmine-stain"
+    ]
+  },
+  "MULTIPLE MYELOMA PANEL FISH": {
+    "name": "Multiple Myeloma Panel Fish",
+    "labName": "Multiple Myeloma Panel Fish",
+    "aliases": [],
+    "slugs": [
+      "multiple-myeloma-panel-fish"
+    ]
+  },
+  "MUSK ANTIBODY (SERUM)": {
+    "name": "Musk Antibody (serum)",
+    "labName": "Musk Antibody (serum)",
+    "aliases": [],
+    "slugs": [
+      "musk-antibody-serum"
+    ]
+  },
+  "MYASTHENIA GRAVIS PANEL": {
+    "name": "Myasthenia Gravis Panel",
+    "labName": "Myasthenia Gravis Panel",
+    "aliases": [],
+    "slugs": [
+      "myasthenia-gravis-panel"
+    ]
+  },
+  "MYCO3PLEX": {
+    "name": "Myco3plex",
+    "labName": "Myco3plex",
+    "aliases": [],
+    "slugs": [
+      "myco3plex"
+    ]
+  },
+  "MYCOBACTERIUM CULTURE - BACTEC EXTRA PULMONARY": {
+    "name": "Mycobacterium Culture - Bactec Extra Pulmonary",
+    "labName": "Mycobacterium Culture - Bactec Extra Pulmonary",
+    "aliases": [],
+    "slugs": [
+      "mycobacterium-culture-bactec-extra-pulmonary"
+    ]
+  },
+  "MYELODYSPLASTIC SYNDROME EVALUATION (FISH)": {
+    "name": "Myelodysplastic Syndrome Evaluation (fish)",
+    "labName": "Myelodysplastic Syndrome Evaluation (fish)",
+    "aliases": [],
+    "slugs": [
+      "myelodysplastic-syndrome-evaluation-fish"
+    ]
+  },
+  "MYELOID PROFILER NEXT PANEL": {
+    "name": "Myeloid Profiler Next Panel",
+    "labName": "Myeloid Profiler Next Panel",
+    "aliases": [],
+    "slugs": [
+      "myeloid-profiler-next-panel"
+    ]
+  },
+  "MYOSITIS PROFILE (11 ANTIGENS),SERUM": {
+    "name": "Myositis Profile (11 Antigens)",
+    "labName": "Myositis Profile (11 Antigens),Serum",
+    "aliases": [],
+    "slugs": [
+      "myositis-profile-11-antigens-serum"
+    ]
+  },
+  "MYOSITIS PROFILE (16 ANTIGENS),SERUM": {
+    "name": "Myositis Profile (16 Antigens)",
+    "labName": "Myositis Profile (16 Antigens),Serum",
+    "aliases": [],
+    "slugs": [
+      "myositis-profile-16-antigens-serum"
+    ]
+  },
+  "NASAL EOSINOPHILS": {
+    "name": "Nasal Eosinophils",
+    "labName": "Nasal Eosinophils",
+    "aliases": [],
+    "slugs": [
+      "nasal-eosinophils"
+    ]
+  },
+  "NATIVE KIDNEY BIOPSY": {
+    "name": "Native Kidney Biopsy",
+    "labName": "Native Kidney Biopsy",
+    "aliases": [],
+    "slugs": [
+      "native-kidney-biopsy"
+    ]
+  },
+  "NEUROTROPIC VIRUS PANEL": {
+    "name": "Neurotropic Virus Panel",
+    "labName": "Neurotropic Virus Panel",
+    "aliases": [],
+    "slugs": [
+      "neurotropic-virus-panel"
+    ]
+  },
+  "NIPT": {
+    "name": "NIPT Test (Non-Invasive Prenatal Test)",
+    "labName": "NIPT",
+    "aliases": [
+      "NIPT",
+      "NIPS",
+      "Non Invasive Prenatal Test",
+      "Prenatal Genetic Screening",
+      "Down Syndrome Blood Test",
+      "Baby Chromosome Test"
+    ],
+    "slugs": [
+      "nipt"
+    ]
+  },
+  "NIPT WITH MICRODELETION": {
+    "name": "NIPT Test with Microdeletion Screening",
+    "labName": "NIPT with Microdeletion",
+    "aliases": [
+      "NIPT Microdeletion",
+      "NIPT Plus",
+      "Non Invasive Prenatal Test"
+    ],
+    "slugs": [
+      "nipt-with-microdeletion"
+    ]
+  },
+  "NK CELL EVALUATION, BLOOD": {
+    "name": "Nk Cell Evaluation",
+    "labName": "Nk Cell Evaluation, Blood",
+    "aliases": [],
+    "slugs": [
+      "nk-cell-evaluation-blood"
+    ]
+  },
+  "NSCLC PANEL": {
+    "name": "Nsclc Panel",
+    "labName": "Nsclc Panel",
+    "aliases": [],
+    "slugs": [
+      "nsclc-panel"
+    ]
+  },
+  "N-TERMINAL PRO B-TYPE NATRIURETIC PEPTIDE, SERUM": {
+    "name": "NT-proBNP Test (Heart Failure Marker)",
+    "labName": "N-Terminal Pro B-Type Natriuretic Peptide, Serum",
+    "aliases": [
+      "NT proBNP",
+      "BNP",
+      "Heart Failure Test"
+    ],
+    "slugs": [
+      "n-terminal-pro-b-type-natriuretic-peptide-serum"
+    ]
+  },
+  "OLIGOCLONAL BANDS, CSF": {
+    "name": "Oligoclonal Bands, CSF",
+    "labName": "Oligoclonal Bands, CSF",
+    "aliases": [],
+    "slugs": [
+      "oligoclonal-bands-csf"
+    ]
+  },
+  "ONCOMINE COMPREHENSIVE PLUS PANEL": {
+    "name": "Oncomine Comprehensive Plus Panel",
+    "labName": "Oncomine Comprehensive Plus Panel",
+    "aliases": [],
+    "slugs": [
+      "oncomine-comprehensive-plus-panel"
+    ]
+  },
+  "ORAL GLUCOSE TOLERANCE TEST - GESTATIONAL": {
+    "name": "Pregnancy Diabetes Test (Gestational GTT)",
+    "labName": "Oral Glucose Tolerance Test - Gestational",
+    "aliases": [
+      "GTT",
+      "OGTT",
+      "GDM Test",
+      "Gestational Diabetes Test",
+      "Glucose Tolerance Test",
+      "Pregnancy Sugar Test"
+    ],
+    "slugs": [
+      "oral-glucose-tolerance-test-gestational"
+    ]
+  },
+  "OSMOLALITY, URINE": {
+    "name": "Osmolality, Urine",
+    "labName": "Osmolality, Urine",
+    "aliases": [],
+    "slugs": [
+      "osmolality-urine"
+    ]
+  },
+  "OSMOTIC FRAGILITY TEST, BLOOD": {
+    "name": "Osmotic Fragility Test",
+    "labName": "Osmotic Fragility Test, Blood",
+    "aliases": [],
+    "slugs": [
+      "osmotic-fragility-test-blood"
+    ]
+  },
+  "OT SURVEILLANCE": {
+    "name": "Ot Surveillance",
+    "labName": "Ot Surveillance",
+    "aliases": [],
+    "slugs": [
+      "ot-surveillance"
+    ]
+  },
+  "OT SURVEILLANCE - AEROBIC CULTURE": {
+    "name": "Ot Surveillance - Aerobic Culture",
+    "labName": "Ot Surveillance - Aerobic Culture",
+    "aliases": [],
+    "slugs": [
+      "ot-surveillance-aerobic-culture"
+    ]
+  },
+  "OVARIAN MALIGNANCY RISK ALGORITHM (ROMA)-HE4+CA125": {
+    "name": "Ovarian Malignancy Risk Algorithm (roma)-He4+ca125",
+    "labName": "Ovarian Malignancy Risk Algorithm (roma)-He4+ca125",
+    "aliases": [],
+    "slugs": [
+      "ovarian-malignancy-risk-algorithm-roma-he4ca125"
+    ]
+  },
+  "PANCREATIC ELASTASE, STOOL": {
+    "name": "Pancreatic Elastase, Stool",
+    "labName": "Pancreatic Elastase, Stool",
+    "aliases": [],
+    "slugs": [
+      "pancreatic-elastase-stool"
+    ]
+  },
+  "PAP DUO-LBC+HPV DNA DETECTOR": {
+    "name": "Pap Smear + HPV Test (Cervical Cancer Screening)",
+    "labName": "Pap Duo-Lbc+hpv DNA Detector",
+    "aliases": [
+      "Pap Duo",
+      "HPV Test",
+      "Cervical Screening"
+    ],
+    "slugs": [
+      "pap-duo-lbchpv-dna-detector"
+    ]
+  },
+  "PAPANICOLAOU SMEAR": {
+    "name": "Pap Smear Test (Cervical Cancer Screening)",
+    "labName": "Papanicolaou Smear",
+    "aliases": [
+      "Pap Test",
+      "Pap Smear",
+      "Cervical Cancer Screening"
+    ],
+    "slugs": [
+      "papanicolaou-smear"
+    ]
+  },
+  "PARAFFIN BLOCK H&E SLIDE, TISSUE/PB": {
+    "name": "Paraffin Block H&e Slide, Tissue/Pb",
+    "labName": "Paraffin Block H&e Slide, Tissue/Pb",
+    "aliases": [],
+    "slugs": [
+      "paraffin-block-he-slide-tissue-pb"
+    ]
+  },
+  "PARAFFIN BLOCKS RETURN": {
+    "name": "Paraffin Blocks Return",
+    "labName": "Paraffin Blocks Return",
+    "aliases": [],
+    "slugs": [
+      "paraffin-blocks-return"
+    ]
+  },
+  "PARAFFIN BLOCKS/H& E SLIDE, TISSUE/PB": {
+    "name": "Paraffin Blocks/H& E Slide, Tissue/Pb",
+    "labName": "Paraffin Blocks/H& E Slide, Tissue/Pb",
+    "aliases": [],
+    "slugs": [
+      "paraffin-blocks-h-e-slide-tissue-pb"
+    ]
+  },
+  "PARANEOPLASTIC NEUROLOGIC SYNDROME-6 ANTIGENS": {
+    "name": "Paraneoplastic Neurologic Syndrome-6 Antigens",
+    "labName": "Paraneoplastic Neurologic Syndrome-6 Antigens",
+    "aliases": [],
+    "slugs": [
+      "paraneoplastic-neurologic-syndrome-6-antigens"
+    ]
+  },
+  "PCOD PANEL": {
+    "name": "PCOD Panel",
+    "labName": "Pcod Panel",
+    "aliases": [
+      "PCOS",
+      "PCOS Test",
+      "PCOD Test"
+    ],
+    "slugs": [
+      "pcod-panel"
+    ]
+  },
+  "PCOS BASIC": {
+    "name": "PCOS Basic Panel",
+    "labName": "PCOS Basic",
+    "aliases": [
+      "PCOD",
+      "PCOS Test",
+      "PCOD Test"
+    ],
+    "slugs": [
+      "pcos-basic"
+    ]
+  },
+  "PCOS TOTAL": {
+    "name": "PCOS Total Panel",
+    "labName": "PCOS Total",
+    "aliases": [
+      "PCOD",
+      "PCOS Test",
+      "PCOD Test"
+    ],
+    "slugs": [
+      "pcos-total"
+    ]
+  },
+  "PDL 1 - 22 C3 - DAKO": {
+    "name": "Pdl 1 - 22 C3 - Dako",
+    "labName": "Pdl 1 - 22 C3 - Dako",
+    "aliases": [],
+    "slugs": [
+      "pdl-1-22-c3-dako"
+    ]
+  },
+  "PERICARDIAL FLUID ANALYSIS": {
+    "name": "Pericardial Fluid Analysis",
+    "labName": "Pericardial Fluid Analysis",
+    "aliases": [],
+    "slugs": [
+      "pericardial-fluid-analysis"
+    ]
+  },
+  "PERIODIC ACID SCHIFFS STAIN (PAS)": {
+    "name": "Periodic Acid Schiffs Stain (pas)",
+    "labName": "Periodic Acid Schiffs Stain (pas)",
+    "aliases": [],
+    "slugs": [
+      "periodic-acid-schiffs-stain-pas"
+    ]
+  },
+  "PERIPHERAL SMEAR EXAM, EDTA WHOLE BLOOD": {
+    "name": "Peripheral Blood Smear Test",
+    "labName": "Peripheral Smear Exam, EDTA Whole Blood",
+    "aliases": [
+      "PS",
+      "Blood Smear",
+      "Peripheral Smear"
+    ],
+    "slugs": [
+      "peripheral-smear-exam-edta-whole-blood"
+    ]
+  },
+  "PERITONEAL FLUID, ROUTINE": {
+    "name": "Peritoneal Fluid, Routine",
+    "labName": "Peritoneal Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "peritoneal-fluid-routine"
+    ]
+  },
+  "PERLS PRUSSION BLUE STAIN FOR HEMOSIDERIN": {
+    "name": "Perls Prussion Blue Stain for Hemosiderin",
+    "labName": "Perls Prussion Blue Stain for Hemosiderin",
+    "aliases": [],
+    "slugs": [
+      "perls-prussion-blue-stain-for-hemosiderin"
+    ]
+  },
+  "PH, RANDOM, URINE": {
+    "name": "Ph, Random, Urine",
+    "labName": "Ph, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "ph-random-urine"
+    ]
+  },
+  "PHILADELPHIA CHROMOSOME (BCR/ABL - QUANTITATIVE)": {
+    "name": "Philadelphia Chromosome (bcr/Abl - Quantitative)",
+    "labName": "Philadelphia Chromosome (bcr/Abl - Quantitative)",
+    "aliases": [],
+    "slugs": [
+      "philadelphia-chromosome-bcr-abl-quantitative"
+    ]
+  },
+  "PHOSPHORUS, 24HRS URINE": {
+    "name": "Phosphorus, 24 Hr Urine",
+    "labName": "Phosphorus, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "phosphorus-24hrs-urine"
+    ]
+  },
+  "PHOSPHORUS, RANDOM, URINE": {
+    "name": "Phosphorus, Random, Urine",
+    "labName": "Phosphorus, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "phosphorus-random-urine"
+    ]
+  },
+  "PHOSPHORUS, SERUM": {
+    "name": "Phosphorus Test",
+    "labName": "Phosphorus, Serum",
+    "aliases": [
+      "Phosphorus",
+      "Phosphate"
+    ],
+    "slugs": [
+      "phosphorus-serum"
+    ]
+  },
+  "PIVKA II TOTAL": {
+    "name": "Pivka II Total",
+    "labName": "Pivka Ii Total",
+    "aliases": [],
+    "slugs": [
+      "pivka-ii-total"
+    ]
+  },
+  "PLEURAL FLUID, ROUTINE": {
+    "name": "Pleural Fluid, Routine",
+    "labName": "Pleural Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "pleural-fluid-routine"
+    ]
+  },
+  "POTASSIUM, RANDOM, URINE": {
+    "name": "Potassium, Random, Urine",
+    "labName": "Potassium, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "potassium-random-urine"
+    ]
+  },
+  "POTASSIUM, SERUM": {
+    "name": "Potassium Test",
+    "labName": "Potassium, Serum",
+    "aliases": [
+      "Potassium",
+      "K"
+    ],
+    "slugs": [
+      "potassium-serum"
+    ]
+  },
+  "POTASSIUM, URINE": {
+    "name": "Potassium, Urine",
+    "labName": "Potassium, Urine",
+    "aliases": [],
+    "slugs": [
+      "potassium-urine"
+    ]
+  },
+  "PREGNANCY TEST, SPOT URINE (UPT)": {
+    "name": "Urine Pregnancy Test (UPT)",
+    "labName": "Pregnancy Test, Spot Urine (upt)",
+    "aliases": [
+      "UPT",
+      "Pregnancy Test",
+      "Home Pregnancy Test"
+    ],
+    "slugs": [
+      "pregnancy-test-spot-urine-upt"
+    ]
+  },
+  "PREOPERATIVE PANEL": {
+    "name": "Pre-Operative Panel (Surgery Checkup)",
+    "labName": "Preoperative Panel",
+    "aliases": [
+      "Pre Op Profile",
+      "Pre Surgery Tests",
+      "PAC"
+    ],
+    "slugs": [
+      "preoperative-panel"
+    ]
+  },
+  "PROCALCITONIN, SERUM": {
+    "name": "Procalcitonin Test (Bacterial Infection Marker)",
+    "labName": "Procalcitonin, Serum",
+    "aliases": [
+      "PCT",
+      "Sepsis Marker"
+    ],
+    "slugs": [
+      "procalcitonin-serum"
+    ]
+  },
+  "PRODUCT OF CONCEPTION (POC) – GENETIC SCREENING": {
+    "name": "Product of Conception (poc) – Genetic Screening",
+    "labName": "Product of Conception (poc) – Genetic Screening",
+    "aliases": [],
+    "slugs": [
+      "product-of-conception-poc-genetic-screening"
+    ]
+  },
+  "PROGESTERONE, SERUM": {
+    "name": "Progesterone Test",
+    "labName": "Progesterone, Serum",
+    "aliases": [
+      "P4"
+    ],
+    "slugs": [
+      "progesterone-serum"
+    ]
+  },
+  "PROTEIN C ACTIVITY, PLASMA": {
+    "name": "Protein C Activity Test",
+    "labName": "Protein C Activity, Plasma",
+    "aliases": [],
+    "slugs": [
+      "protein-c-activity-plasma"
+    ]
+  },
+  "PROTEIN ELECTROPHORESIS REFLEX TO IMMUNOFIXATION": {
+    "name": "Protein Electrophoresis Reflex to Immunofixation",
+    "labName": "Protein Electrophoresis Reflex to Immunofixation",
+    "aliases": [],
+    "slugs": [
+      "protein-electrophoresis-reflex-to-immunofixation"
+    ]
+  },
+  "PROTEIN ELECTROPHORESIS, SERUM": {
+    "name": "Serum Protein Electrophoresis (SPEP)",
+    "labName": "Protein Electrophoresis, Serum",
+    "aliases": [
+      "SPEP",
+      "M Band",
+      "Myeloma Screening",
+      "Protein Electrophoresis"
+    ],
+    "slugs": [
+      "protein-electrophoresis-serum"
+    ]
+  },
+  "PROTEIN S ACTIVITY, PLASMA": {
+    "name": "Protein S Activity Test",
+    "labName": "Protein S Activity, Plasma",
+    "aliases": [],
+    "slugs": [
+      "protein-s-activity-plasma"
+    ]
+  },
+  "PROTEIN, 24HRS URINE": {
+    "name": "24-Hour Urine Protein Test",
+    "labName": "Protein, 24hrs Urine",
+    "aliases": [
+      "24 Hr Urine Protein"
+    ],
+    "slugs": [
+      "protein-24hrs-urine"
+    ]
+  },
+  "PROTEIN, TOTAL, BODY FLUID": {
+    "name": "Protein, Total, Body Fluid",
+    "labName": "Protein, Total, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "protein-total-body-fluid"
+    ]
+  },
+  "PROTEIN, TOTAL, SPINAL FLUID": {
+    "name": "Protein, Total, Spinal Fluid",
+    "labName": "Protein, Total, Spinal Fluid",
+    "aliases": [],
+    "slugs": [
+      "protein-total-spinal-fluid"
+    ]
+  },
+  "PSA FREE & TOTAL, SERUM": {
+    "name": "PSA Test - Free & Total (Prostate Screening)",
+    "labName": "PSA Free & Total, Serum",
+    "aliases": [
+      "PSA",
+      "Prostate Test"
+    ],
+    "slugs": [
+      "psa-free-total-serum"
+    ]
+  },
+  "PTH(INTACT),EDTA & CALCIUM, SERUM": {
+    "name": "PTH & Calcium Test (Parathyroid Hormone)",
+    "labName": "Pth(intact),EDTA & Calcium, Serum",
+    "aliases": [
+      "PTH",
+      "Parathyroid Test",
+      "Intact PTH"
+    ],
+    "slugs": [
+      "pth-intact-edta-calcium-serum"
+    ]
+  },
+  "PUS CULTURE & SENSITIVITY, AEROBIC": {
+    "name": "Pus Culture & Sensitivity Test",
+    "labName": "Pus Culture & Sensitivity, Aerobic",
+    "aliases": [
+      "Pus Culture",
+      "Wound Culture"
+    ],
+    "slugs": [
+      "pus-culture-sensitivity-aerobic"
+    ]
+  },
+  "QUADRUPLE MARKER, SERUM": {
+    "name": "Quad Marker Test - Serum (Second Trimester)",
+    "labName": "Quadruple Marker, Serum",
+    "aliases": [
+      "Quadruple Marker",
+      "Second Trimester Screening",
+      "Down Syndrome Screening"
+    ],
+    "slugs": [
+      "quadruple-marker-serum"
+    ]
+  },
+  "QUANTITATIVE D-DIMER, CITRATE PLASMA": {
+    "name": "D-Dimer Test (Quantitative)",
+    "labName": "Quantitative D-Dimer, Citrate Plasma",
+    "aliases": [
+      "D Dimer",
+      "Blood Clot Test"
+    ],
+    "slugs": [
+      "quantitative-d-dimer-citrate-plasma"
+    ]
+  },
+  "RA TOTAL": {
+    "name": "RA Total",
+    "labName": "RA Total",
+    "aliases": [],
+    "slugs": [
+      "ra-total"
+    ]
+  },
+  "RAAS SCREENING, SERUM": {
+    "name": "Raas Screening",
+    "labName": "Raas Screening, Serum",
+    "aliases": [],
+    "slugs": [
+      "raas-screening-serum"
+    ]
+  },
+  "RADICAL TUMOUR SAMPLE": {
+    "name": "Radical Tumour Sample",
+    "labName": "Radical Tumour Sample",
+    "aliases": [],
+    "slugs": [
+      "radical-tumour-sample"
+    ]
+  },
+  "RAPID TYPHI IGM, SERUM/PLASMA EDTA/EDTA WB": {
+    "name": "Typhoid Rapid Test (Typhi IgM)",
+    "labName": "Rapid Typhi IGM, Serum/Plasma EDTA/EDTA Wb",
+    "aliases": [
+      "Typhidot",
+      "Typhoid Test"
+    ],
+    "slugs": [
+      "rapid-typhi-igm-serum-plasma-edta-edta-wb"
+    ]
+  },
+  "RBC COUNT, BLOOD": {
+    "name": "Red Blood Cell (RBC) Count",
+    "labName": "RBC Count, Blood",
+    "aliases": [
+      "RBC",
+      "Red Cell Count"
+    ],
+    "slugs": [
+      "rbc-count-blood"
+    ]
+  },
+  "RECIPIENT ANTIBODY STATUS (POS/ NEG)": {
+    "name": "Recipient Antibody Status (pos/ Neg)",
+    "labName": "Recipient Antibody Status (pos/ Neg)",
+    "aliases": [],
+    "slugs": [
+      "recipient-antibody-status-pos-neg"
+    ]
+  },
+  "REDUCING SUBSTANCES, STOOL": {
+    "name": "Reducing Substances, Stool",
+    "labName": "Reducing Substances, Stool",
+    "aliases": [],
+    "slugs": [
+      "reducing-substances-stool"
+    ]
+  },
+  "RETICULOCYTE COUNT, EDTA WHOLE BLOOD": {
+    "name": "Reticulocyte Count Test",
+    "labName": "Reticulocyte Count, EDTA Whole Blood",
+    "aliases": [
+      "Retic Count",
+      "Retic"
+    ],
+    "slugs": [
+      "reticulocyte-count-edta-whole-blood"
+    ]
+  },
+  "RETURN OF PARAFFIN BLOCK/ SLIDE": {
+    "name": "Return of Paraffin Block/ Slide",
+    "labName": "Return of Paraffin Block/ Slide",
+    "aliases": [],
+    "slugs": [
+      "return-of-paraffin-block-slide"
+    ]
+  },
+  "RHEUMATOID FACTOR QUANTITATIVE, SERUM": {
+    "name": "Rheumatoid Factor Test - Quantitative (RA Factor)",
+    "labName": "Rheumatoid Factor Quantitative, Serum",
+    "aliases": [
+      "RF",
+      "RA Factor",
+      "RA Test",
+      "Arthritis Test"
+    ],
+    "slugs": [
+      "rheumatoid-factor-quantitative-serum"
+    ]
+  },
+  "RHEUMATOID FACTOR, BODY FLUID": {
+    "name": "Rheumatoid Factor, Body Fluid",
+    "labName": "Rheumatoid Factor, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "rheumatoid-factor-body-fluid"
+    ]
+  },
+  "RUBELLA IGG & IGM, SERUM": {
+    "name": "Rubella Test (IgG & IgM)",
+    "labName": "Rubella IGG & IGM, Serum",
+    "aliases": [
+      "Rubella",
+      "German Measles Test"
+    ],
+    "slugs": [
+      "rubella-igg-igm-serum"
+    ]
+  },
+  "RUBELLA IGG ANTIBODIES, SERUM": {
+    "name": "Rubella Immunity Test (IgG)",
+    "labName": "Rubella IGG Antibodies, Serum",
+    "aliases": [
+      "Rubella",
+      "German Measles Test"
+    ],
+    "slugs": [
+      "rubella-igg-antibodies-serum"
+    ]
+  },
+  "SCA PANEL, EDTA BLOOD": {
+    "name": "Sca Panel",
+    "labName": "Sca Panel, EDTA Blood",
+    "aliases": [],
+    "slugs": [
+      "sca-panel-edta-blood"
+    ]
+  },
+  "SCRUB TYPHUS IGM, SERUM": {
+    "name": "Scrub Typhus Test (IgM)",
+    "labName": "Scrub Typhus IGM, Serum",
+    "aliases": [
+      "Scrub Typhus"
+    ],
+    "slugs": [
+      "scrub-typhus-igm-serum"
+    ]
+  },
+  "SECOND OPINION / REVIEW": {
+    "name": "Second Opinion / Review",
+    "labName": "Second Opinion / Review",
+    "aliases": [],
+    "slugs": [
+      "second-opinion-review"
+    ]
+  },
+  "SEMEN ANALYSIS": {
+    "name": "Semen Analysis (Sperm Count Test)",
+    "labName": "Semen Analysis",
+    "aliases": [
+      "Sperm Test",
+      "Sperm Count",
+      "Male Fertility Test",
+      "Semen Test"
+    ],
+    "slugs": [
+      "semen-analysis"
+    ]
+  },
+  "SERUM BLOOD UREA NITROGEN WITH UREA": {
+    "name": "Serum Blood Urea Nitrogen with Urea",
+    "labName": "Serum Blood Urea Nitrogen with Urea",
+    "aliases": [],
+    "slugs": [
+      "serum-blood-urea-nitrogen-with-urea"
+    ]
+  },
+  "SERUM FREE LIGHT CHAINS (KAPPA & LAMBDA)": {
+    "name": "Serum Free Light Chains (kappa & Lambda)",
+    "labName": "Serum Free Light Chains (kappa & Lambda)",
+    "aliases": [],
+    "slugs": [
+      "serum-free-light-chains-kappa-lambda"
+    ]
+  },
+  "SICKLING TEST, EDTA WHOLE BLOOD": {
+    "name": "Sickle Cell Test (Sickling Test)",
+    "labName": "Sickling Test, EDTA Whole Blood",
+    "aliases": [
+      "Sickling",
+      "Sickle Cell"
+    ],
+    "slugs": [
+      "sickling-test-edta-whole-blood"
+    ]
+  },
+  "SINGLE ANTIGEN BEAD CLASS I": {
+    "name": "Single Antigen Bead Class I",
+    "labName": "Single Antigen Bead Class I",
+    "aliases": [],
+    "slugs": [
+      "single-antigen-bead-class-i"
+    ]
+  },
+  "SINGLE ANTIGEN BEAD CLASS II": {
+    "name": "Single Antigen Bead Class II",
+    "labName": "Single Antigen Bead Class Ii",
+    "aliases": [],
+    "slugs": [
+      "single-antigen-bead-class-ii"
+    ]
+  },
+  "SKIN TEST MANTOUX": {
+    "name": "Mantoux Test (TB Skin Test)",
+    "labName": "Skin Test Mantoux",
+    "aliases": [
+      "Mantoux",
+      "TB Test",
+      "Tuberculin Skin Test",
+      "PPD"
+    ],
+    "slugs": [
+      "skin-test-mantoux"
+    ]
+  },
+  "SLE DIAGNOSTIC PROFILE": {
+    "name": "SLE Diagnostic Profile",
+    "labName": "SLE Diagnostic Profile",
+    "aliases": [],
+    "slugs": [
+      "sle-diagnostic-profile"
+    ]
+  },
+  "SODIUM, RANDOM, URINE": {
+    "name": "Sodium, Random, Urine",
+    "labName": "Sodium, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "sodium-random-urine"
+    ]
+  },
+  "SODIUM, SERUM": {
+    "name": "Sodium Test",
+    "labName": "Sodium, Serum",
+    "aliases": [
+      "Sodium",
+      "Na"
+    ],
+    "slugs": [
+      "sodium-serum"
+    ]
+  },
+  "SODIUM, URINE": {
+    "name": "Sodium, Urine",
+    "labName": "Sodium, Urine",
+    "aliases": [],
+    "slugs": [
+      "sodium-urine"
+    ]
+  },
+  "SPECIAL STAINS, TISSUE/PARAFFIN BLOCK": {
+    "name": "Special Stains, Tissue/Paraffin Block",
+    "labName": "Special Stains, Tissue/Paraffin Block",
+    "aliases": [],
+    "slugs": [
+      "special-stains-tissue-paraffin-block"
+    ]
+  },
+  "SPECIFIC GRAVITY, RANDOM, URINE": {
+    "name": "Specific Gravity, Random, Urine",
+    "labName": "Specific Gravity, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "specific-gravity-random-urine"
+    ]
+  },
+  "SPERM DNA FRAGMENTATION": {
+    "name": "Sperm DNA Fragmentation",
+    "labName": "Sperm DNA Fragmentation",
+    "aliases": [],
+    "slugs": [
+      "sperm-dna-fragmentation"
+    ]
+  },
+  "SPUTUM EOSINOPHILS": {
+    "name": "Sputum Eosinophils",
+    "labName": "Sputum Eosinophils",
+    "aliases": [],
+    "slugs": [
+      "sputum-eosinophils"
+    ]
+  },
+  "STOOL - HANGING DROP METHOD": {
+    "name": "Stool - Hanging Drop Method",
+    "labName": "Stool - Hanging Drop Method",
+    "aliases": [],
+    "slugs": [
+      "stool-hanging-drop-method"
+    ]
+  },
+  "STOOL FOR CULTURE & SENSITIVITY, AEROBIC": {
+    "name": "Stool Culture & Sensitivity Test",
+    "labName": "Stool for Culture & Sensitivity, Aerobic",
+    "aliases": [
+      "Stool C/S",
+      "Stool Culture"
+    ],
+    "slugs": [
+      "stool-for-culture-sensitivity-aerobic"
+    ]
+  },
+  "STOOL FOR OCCULT BLOOD": {
+    "name": "Stool Occult Blood Test",
+    "labName": "Stool for Occult Blood",
+    "aliases": [
+      "FOBT",
+      "Hidden Blood in Stool",
+      "Occult Blood"
+    ],
+    "slugs": [
+      "stool-for-occult-blood"
+    ]
+  },
+  "SYNOVIAL FLUID, ROUTINE": {
+    "name": "Synovial Fluid, Routine",
+    "labName": "Synovial Fluid, Routine",
+    "aliases": [],
+    "slugs": [
+      "synovial-fluid-routine"
+    ]
+  },
+  "T. PALLIDUM HEMAGGLUTINATION, SERUM": {
+    "name": "Syphilis Confirmatory Test (TPHA)",
+    "labName": "T. Pallidum Hemagglutination, Serum",
+    "aliases": [
+      "TPHA",
+      "Syphilis Test"
+    ],
+    "slugs": [
+      "t-pallidum-hemagglutination-serum"
+    ]
+  },
+  "TACROLIMUS": {
+    "name": "Tacrolimus",
+    "labName": "Tacrolimus",
+    "aliases": [],
+    "slugs": [
+      "tacrolimus"
+    ]
+  },
+  "TACROLIMUS, EDTA WHOLE BLOOD": {
+    "name": "Tacrolimus Test",
+    "labName": "Tacrolimus, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "tacrolimus-edta-whole-blood"
+    ]
+  },
+  "TACROLIMUS, EDTA/HEPARIN WHOLE BLOOD": {
+    "name": "Tacrolimus, EDTA/Heparin Whole Blood",
+    "labName": "Tacrolimus, EDTA/Heparin Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "tacrolimus-edta-heparin-whole-blood"
+    ]
+  },
+  "TBFERON (M TUBERCULOSIS IGRA)": {
+    "name": "TB Blood Test (IGRA)",
+    "labName": "Tbferon (m Tuberculosis Igra)",
+    "aliases": [
+      "Tbferon",
+      "TB Test",
+      "Tuberculosis Test",
+      "Quantiferon"
+    ],
+    "slugs": [
+      "tbferon-m-tuberculosis-igra"
+    ]
+  },
+  "TESTOSTERONE,FREE/TOTAL, SERUM": {
+    "name": "Testosterone Test (Free & Total)",
+    "labName": "Testosterone,Free/Total, Serum",
+    "aliases": [
+      "Testosterone"
+    ],
+    "slugs": [
+      "testosterone-free-total-serum"
+    ]
+  },
+  "THALASSEMIA PROFILE": {
+    "name": "Thalassemia Profile",
+    "labName": "Thalassemia Profile",
+    "aliases": [],
+    "slugs": [
+      "thalassemia-profile"
+    ]
+  },
+  "THROAT SWAB CULTURE + SUSCEPTIBILITY": {
+    "name": "Throat Swab Culture & Sensitivity Test",
+    "labName": "Throat Swab Culture + Susceptibility",
+    "aliases": [
+      "Throat Culture",
+      "Throat Infection Test"
+    ],
+    "slugs": [
+      "throat-swab-culture-susceptibility"
+    ]
+  },
+  "THROMBOCHECK HEREDITARY": {
+    "name": "Thrombocheck Hereditary",
+    "labName": "Thrombocheck Hereditary",
+    "aliases": [],
+    "slugs": [
+      "thrombocheck-hereditary"
+    ]
+  },
+  "THROMBOCHECK PANEL": {
+    "name": "Thrombocheck Panel",
+    "labName": "Thrombocheck Panel",
+    "aliases": [],
+    "slugs": [
+      "thrombocheck-panel"
+    ]
+  },
+  "THROMBOCHECK TOTAL": {
+    "name": "Thrombocheck Total",
+    "labName": "Thrombocheck Total",
+    "aliases": [],
+    "slugs": [
+      "thrombocheck-total"
+    ]
+  },
+  "THYROGLOBULIN, SERUM": {
+    "name": "Thyroglobulin Test",
+    "labName": "Thyroglobulin, Serum",
+    "aliases": [],
+    "slugs": [
+      "thyroglobulin-serum"
+    ]
+  },
+  "THYROID ANTIBODIES, SERUM": {
+    "name": "Thyroid Antibodies",
+    "labName": "Thyroid Antibodies, Serum",
+    "aliases": [],
+    "slugs": [
+      "thyroid-antibodies-serum"
+    ]
+  },
+  "THYROID SCREENING PANEL": {
+    "name": "Thyroid Screening Panel",
+    "labName": "Thyroid Screening Panel",
+    "aliases": [],
+    "slugs": [
+      "thyroid-screening-panel"
+    ]
+  },
+  "THYROSCREEN PANEL": {
+    "name": "Thyroscreen Panel",
+    "labName": "Thyroscreen Panel",
+    "aliases": [],
+    "slugs": [
+      "thyroscreen-panel"
+    ]
+  },
+  "TISSUE FOR PROCESSING, TISSUE/PARAFFIN BLOCK": {
+    "name": "Tissue for Processing, Tissue/Paraffin Block",
+    "labName": "Tissue for Processing, Tissue/Paraffin Block",
+    "aliases": [],
+    "slugs": [
+      "tissue-for-processing-tissue-paraffin-block"
+    ]
+  },
+  "TISSUE TRANSGLUTAMINASE IGA, SERUM": {
+    "name": "Celiac Disease Test (tTG IgA)",
+    "labName": "Tissue Transglutaminase IGA, Serum",
+    "aliases": [
+      "tTG",
+      "Anti tTG",
+      "Gluten Allergy Test",
+      "Celiac Test",
+      "Coeliac Test"
+    ],
+    "slugs": [
+      "tissue-transglutaminase-iga-serum"
+    ]
+  },
+  "TNF – ALPHA (SERUM)": {
+    "name": "Tnf – Alpha (serum)",
+    "labName": "Tnf – Alpha (serum)",
+    "aliases": [],
+    "slugs": [
+      "tnf-alpha-serum"
+    ]
+  },
+  "TORCH IGG & IGM ABS (EIA)": {
+    "name": "TORCH IgG & IgM Antibodies Test (EIA)",
+    "labName": "TORCH IGG & IGM Abs (eia)",
+    "aliases": [
+      "TORCH",
+      "TORCH Panel"
+    ],
+    "slugs": [
+      "torch-igg-igm-abs-eia"
+    ]
+  },
+  "TOTAL BILE ACIDS, SERUM": {
+    "name": "Total Bile Acids Test",
+    "labName": "Total Bile Acids, Serum",
+    "aliases": [],
+    "slugs": [
+      "total-bile-acids-serum"
+    ]
+  },
+  "TOTAL IGG, SERUM": {
+    "name": "Total IgG Test",
+    "labName": "Total IGG, Serum",
+    "aliases": [],
+    "slugs": [
+      "total-igg-serum"
+    ]
+  },
+  "TOTAL IRON BINDING CAPACITY, SERUM": {
+    "name": "TIBC Test (Total Iron Binding Capacity)",
+    "labName": "Total Iron Binding Capacity, Serum",
+    "aliases": [
+      "TIBC"
+    ],
+    "slugs": [
+      "total-iron-binding-capacity-serum"
+    ]
+  },
+  "TOTAL LEUKOCYTE COUNT": {
+    "name": "White Blood Cell Count (TLC)",
+    "labName": "Total Leukocyte Count",
+    "aliases": [
+      "TLC",
+      "WBC Count",
+      "Total Leucocyte Count",
+      "WBC"
+    ],
+    "slugs": [
+      "total-leukocyte-count"
+    ]
+  },
+  "TOTAL PROTEIN, CSF": {
+    "name": "Total Protein, CSF",
+    "labName": "Total Protein, CSF",
+    "aliases": [],
+    "slugs": [
+      "total-protein-csf"
+    ]
+  },
+  "TOTAL PROTEIN, SERUM": {
+    "name": "Total Protein Test",
+    "labName": "Total Protein, Serum",
+    "aliases": [],
+    "slugs": [
+      "total-protein-serum"
+    ]
+  },
+  "TOTAL PROTEIN, SYNOVIAL FLUID": {
+    "name": "Total Protein, Synovial Fluid",
+    "labName": "Total Protein, Synovial Fluid",
+    "aliases": [],
+    "slugs": [
+      "total-protein-synovial-fluid"
+    ]
+  },
+  "TOTAL PROTEIN,ALBUMIN,GLOBULIN, SERUM": {
+    "name": "Protein, Albumin & Globulin Test (A/G Ratio)",
+    "labName": "Total Protein,Albumin,Globulin, Serum",
+    "aliases": [
+      "A/G Ratio",
+      "AG Ratio",
+      "Total Protein"
+    ],
+    "slugs": [
+      "total-protein-albumin-globulin-serum"
+    ]
+  },
+  "TOXOPLASMA IGG & IGM ANTIBODIES, SERUM": {
+    "name": "Toxoplasma Test (IgG & IgM)",
+    "labName": "Toxoplasma IGG & IGM Antibodies, Serum",
+    "aliases": [
+      "Toxoplasma",
+      "Toxoplasmosis Test"
+    ],
+    "slugs": [
+      "toxoplasma-igg-igm-antibodies-serum"
+    ]
+  },
+  "TPMT GENOTYPING, EDTA WHOLE BLOOD": {
+    "name": "Tpmt Genotyping",
+    "labName": "Tpmt Genotyping, EDTA Whole Blood",
+    "aliases": [],
+    "slugs": [
+      "tpmt-genotyping-edta-whole-blood"
+    ]
+  },
+  "TRANSFERRIN, SERUM": {
+    "name": "Transferrin Test",
+    "labName": "Transferrin, Serum",
+    "aliases": [],
+    "slugs": [
+      "transferrin-serum"
+    ]
+  },
+  "TRIGLYCERIDES, BODY FLUID": {
+    "name": "Triglycerides, Body Fluid",
+    "labName": "Triglycerides, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "triglycerides-body-fluid"
+    ]
+  },
+  "TRIPLE MARKER TEST BY TRF METHOD, SERUM": {
+    "name": "Triple Marker Test (Second Trimester Screening)",
+    "labName": "Triple Marker Test By Trf Method, Serum",
+    "aliases": [
+      "Triple Marker",
+      "Triple Test",
+      "Down Syndrome Screening"
+    ],
+    "slugs": [
+      "triple-marker-test-by-trf-method-serum"
+    ]
+  },
+  "TRIPLE TEST": {
+    "name": "Triple Test (Pregnancy Screening)",
+    "labName": "Triple Test",
+    "aliases": [
+      "Triple Marker",
+      "Down Syndrome Screening"
+    ],
+    "slugs": [
+      "triple-test"
+    ]
+  },
+  "TROPONIN T - HS, SERUM": {
+    "name": "Troponin T Test (High Sensitivity)",
+    "labName": "Troponin T - Hs, Serum",
+    "aliases": [
+      "Troponin",
+      "hs-Troponin T",
+      "Heart Attack Test"
+    ],
+    "slugs": [
+      "troponin-t-hs-serum"
+    ]
+  },
+  "TSH RECEPTOR ANTIBODIES, SERUM": {
+    "name": "TSH Receptor Antibody Test (TRAb)",
+    "labName": "TSH Receptor Antibodies, Serum",
+    "aliases": [
+      "TRAb",
+      "TSH Receptor Antibodies"
+    ],
+    "slugs": [
+      "tsh-receptor-antibodies-serum"
+    ]
+  },
+  "TWO STEP STRATEGY FOR OGTT IN GDM": {
+    "name": "Two-Step Pregnancy Diabetes Test (OGTT)",
+    "labName": "Two Step Strategy for OGTT in GDM",
+    "aliases": [
+      "OGTT",
+      "GDM Test",
+      "Gestational Diabetes Test"
+    ],
+    "slugs": [
+      "two-step-strategy-for-ogtt-in-gdm"
+    ]
+  },
+  "TZANK SMEAR": {
+    "name": "Tzank Smear",
+    "labName": "Tzank Smear",
+    "aliases": [],
+    "slugs": [
+      "tzank-smear"
+    ]
+  },
+  "UGTA1 GENE MUTATION": {
+    "name": "Ugta1 Gene Mutation",
+    "labName": "Ugta1 Gene Mutation",
+    "aliases": [],
+    "slugs": [
+      "ugta1-gene-mutation"
+    ]
+  },
+  "ULTIMATE LIPID PROFILE, SERUM": {
+    "name": "Ultimate Lipid Profile",
+    "labName": "Ultimate Lipid Profile, Serum",
+    "aliases": [],
+    "slugs": [
+      "ultimate-lipid-profile-serum"
+    ]
+  },
+  "UREA NITROGEN, 24HRS URINE": {
+    "name": "Urea Nitrogen, 24 Hr Urine",
+    "labName": "Urea Nitrogen, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "urea-nitrogen-24hrs-urine"
+    ]
+  },
+  "UREA NITROGEN, BODY FLUID": {
+    "name": "Urea Nitrogen, Body Fluid",
+    "labName": "Urea Nitrogen, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "urea-nitrogen-body-fluid"
+    ]
+  },
+  "UREA, 24 HOUR, URINE": {
+    "name": "Urea, 24 Hour, Urine",
+    "labName": "Urea, 24 Hour, Urine",
+    "aliases": [],
+    "slugs": [
+      "urea-24-hour-urine"
+    ]
+  },
+  "UREA, RANDOM, URINE": {
+    "name": "Urea, Random, Urine",
+    "labName": "Urea, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "urea-random-urine"
+    ]
+  },
+  "URIC ACID, 24HRS URINE": {
+    "name": "Uric Acid, 24 Hr Urine",
+    "labName": "Uric Acid, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "uric-acid-24hrs-urine"
+    ]
+  },
+  "URIC ACID, BODY FLUID": {
+    "name": "Uric Acid, Body Fluid",
+    "labName": "Uric Acid, Body Fluid",
+    "aliases": [],
+    "slugs": [
+      "uric-acid-body-fluid"
+    ]
+  },
+  "URIC ACID/CREATININE RATIO, RANDOM, URINE": {
+    "name": "Uric Acid/Creatinine Ratio, Random, Urine",
+    "labName": "Uric Acid/Creatinine Ratio, Random, Urine",
+    "aliases": [],
+    "slugs": [
+      "uric-acid-creatinine-ratio-random-urine"
+    ]
+  },
+  "URINARY EOSINOPHILS": {
+    "name": "Urinary Eosinophils",
+    "labName": "Urinary Eosinophils",
+    "aliases": [],
+    "slugs": [
+      "urinary-eosinophils"
+    ]
+  },
+  "URINARY PROTEIN CREATININE RATIO": {
+    "name": "Urine Protein-Creatinine Ratio (UPCR)",
+    "labName": "Urinary Protein Creatinine Ratio",
+    "aliases": [
+      "UPCR",
+      "Urine Protein"
+    ],
+    "slugs": [
+      "urinary-protein-creatinine-ratio"
+    ]
+  },
+  "URINARY PROTEIN, RANDOM URINE": {
+    "name": "Urinary Protein, Random Urine",
+    "labName": "Urinary Protein, Random Urine",
+    "aliases": [],
+    "slugs": [
+      "urinary-protein-random-urine"
+    ]
+  },
+  "URINE CULTURE AND SENSITIVITY": {
+    "name": "Urine Culture & Sensitivity (C/S)",
+    "labName": "Urine Culture and Sensitivity",
+    "aliases": [
+      "Urine Culture",
+      "Urine C/S",
+      "UTI Test",
+      "Urine Infection Test"
+    ],
+    "slugs": [
+      "urine-culture-and-sensitivity"
+    ]
+  },
+  "URINE FOR BILE PIGMENTS": {
+    "name": "Urine for Bile Pigments",
+    "labName": "Urine for Bile Pigments",
+    "aliases": [],
+    "slugs": [
+      "urine-for-bile-pigments"
+    ]
+  },
+  "URINE FOR BILE SALTS": {
+    "name": "Urine for Bile Salts",
+    "labName": "Urine for Bile Salts",
+    "aliases": [],
+    "slugs": [
+      "urine-for-bile-salts"
+    ]
+  },
+  "URINE PROTEIN (24 HRS / SPOT URINE)": {
+    "name": "Urine Protein Test (24 Hr / Spot)",
+    "labName": "Urine Protein (24 Hrs / Spot Urine)",
+    "aliases": [
+      "Urine Protein",
+      "Proteinuria Test"
+    ],
+    "slugs": [
+      "urine-protein-24-hrs-spot-urine"
+    ]
+  },
+  "VACCICHEQ": {
+    "name": "Vaccicheq",
+    "labName": "Vaccicheq",
+    "aliases": [],
+    "slugs": [
+      "vaccicheq"
+    ]
+  },
+  "VAGINAL SWAB FOR C&S": {
+    "name": "Vaginal Swab for C&s",
+    "labName": "Vaginal Swab for C&s",
+    "aliases": [],
+    "slugs": [
+      "vaginal-swab-for-cs"
+    ]
+  },
+  "VAGINAL SWAB FOR TV / MONILIASIS": {
+    "name": "Vaginal Swab for Tv / Moniliasis",
+    "labName": "Vaginal Swab for Tv / Moniliasis",
+    "aliases": [],
+    "slugs": [
+      "vaginal-swab-for-tv-moniliasis"
+    ]
+  },
+  "VANILMANDELIC ACID, 24HRS URINE": {
+    "name": "Vanilmandelic Acid, 24 Hr Urine",
+    "labName": "Vanilmandelic Acid, 24hrs Urine",
+    "aliases": [],
+    "slugs": [
+      "vanilmandelic-acid-24hrs-urine"
+    ]
+  },
+  "VARICELLA ZOSTER IGG, SERUM": {
+    "name": "Varicella Zoster IgG Test",
+    "labName": "Varicella Zoster IGG, Serum",
+    "aliases": [],
+    "slugs": [
+      "varicella-zoster-igg-serum"
+    ]
+  },
+  "VDRL (MODIFIED),SERUM": {
+    "name": "VDRL Test (Syphilis Screening)",
+    "labName": "VDRL (modified),Serum",
+    "aliases": [
+      "VDRL",
+      "Syphilis Test",
+      "STD Test"
+    ],
+    "slugs": [
+      "vdrl-modified-serum"
+    ]
+  },
+  "VDRL, CSF": {
+    "name": "VDRL, CSF",
+    "labName": "VDRL, CSF",
+    "aliases": [],
+    "slugs": [
+      "vdrl-csf"
+    ]
+  },
+  "VERHOEFFS VAN GIESON METHOD FOR ELASTIC FIBRES": {
+    "name": "Verhoeffs Van Gieson Method for Elastic Fibres",
+    "labName": "Verhoeffs Van Gieson Method for Elastic Fibres",
+    "aliases": [],
+    "slugs": [
+      "verhoeffs-van-gieson-method-for-elastic-fibres"
+    ]
+  },
+  "VIRAL SCREEN": {
+    "name": "Viral Screen",
+    "labName": "Viral Screen",
+    "aliases": [],
+    "slugs": [
+      "viral-screen"
+    ]
+  },
+  "VITAMIN D PLUS": {
+    "name": "Vitamin D Plus",
+    "labName": "Vitamin D Plus",
+    "aliases": [],
+    "slugs": [
+      "vitamin-d-plus"
+    ]
+  },
+  "VITAMIN PLUS": {
+    "name": "Vitamin Plus",
+    "labName": "Vitamin Plus",
+    "aliases": [],
+    "slugs": [
+      "vitamin-plus"
+    ]
+  },
+  "WHITE CELL COUNT AND DIFFERENTIAL, EDTA WB": {
+    "name": "White Blood Cell Count with Differential (TLC + DLC)",
+    "labName": "White Cell Count and Differential, EDTA Wb",
+    "aliases": [
+      "TLC DLC",
+      "DLC",
+      "WBC Differential"
+    ],
+    "slugs": [
+      "white-cell-count-and-differential-edta-wb"
+    ]
+  },
+  "WHOLE EXOME SEQUENCING - SOLO": {
+    "name": "Whole Exome Sequencing - Solo",
+    "labName": "Whole Exome Sequencing - Solo",
+    "aliases": [],
+    "slugs": [
+      "whole-exome-sequencing-solo"
+    ]
+  },
+  "WHOLE EXOME SEQUENCING WITH MT DNA SEQUENCING": {
+    "name": "Whole Exome Sequencing with Mt DNA Sequencing",
+    "labName": "Whole Exome Sequencing with Mt DNA Sequencing",
+    "aliases": [],
+    "slugs": [
+      "whole-exome-sequencing-with-mt-dna-sequencing"
+    ]
+  },
+  "XPERT MTB /RIF ULTRA – EXTRA-PULMONARY": {
+    "name": "Xpert Mtb /Rif Ultra – Extra-Pulmonary",
+    "labName": "Xpert Mtb /Rif Ultra – Extra-Pulmonary",
+    "aliases": [],
+    "slugs": [
+      "xpert-mtb-rif-ultra-extra-pulmonary"
+    ]
+  },
+  "XPERT MTB/RIF - EXTRAPULMONARY": {
+    "name": "Xpert Mtb/Rif - Extrapulmonary",
+    "labName": "Xpert Mtb/Rif - Extrapulmonary",
+    "aliases": [],
+    "slugs": [
+      "xpert-mtb-rif-extrapulmonary"
+    ]
+  },
+  "XPERT MTB/RIF - PULMONARY": {
+    "name": "TB PCR Test - Lungs (CBNAAT / GeneXpert)",
+    "labName": "Xpert Mtb/Rif - Pulmonary",
+    "aliases": [
+      "CBNAAT",
+      "GeneXpert",
+      "Xpert MTB RIF",
+      "TB PCR",
+      "TB Test"
+    ],
+    "slugs": [
+      "xpert-mtb-rif-pulmonary"
+    ]
+  },
+  "XPERT MTB/RIF ULTRA - PULMONARY": {
+    "name": "Xpert Mtb/Rif Ultra - Pulmonary",
+    "labName": "Xpert Mtb/Rif Ultra - Pulmonary",
+    "aliases": [],
+    "slugs": [
+      "xpert-mtb-rif-ultra-pulmonary"
+    ]
+  },
+  "XPERT PLUS": {
+    "name": "Xpert Plus",
+    "labName": "Xpert Plus",
+    "aliases": [],
+    "slugs": [
+      "xpert-plus"
+    ]
+  },
+  "XPERT PLUS EXTRAPULMONARY": {
+    "name": "Xpert Plus Extrapulmonary",
+    "labName": "Xpert Plus Extrapulmonary",
+    "aliases": [],
+    "slugs": [
+      "xpert-plus-extrapulmonary"
+    ]
+  },
+  "Y-CHROMOSOME MICRODELETION PCR, EDTA BLOOD": {
+    "name": "Y-Chromosome Microdeletion Test (Male Infertility)",
+    "labName": "Y-Chromosome Microdeletion PCR, EDTA Blood",
+    "aliases": [
+      "Y Microdeletion",
+      "Male Infertility Genetic Test"
+    ],
+    "slugs": [
+      "y-chromosome-microdeletion-pcr-edta-blood"
+    ]
+  },
+  "ZIEL-NEELSEN TECHNIQUE FOR ACID FAST BACILLI": {
+    "name": "Ziel-Neelsen Technique for Acid Fast Bacilli",
+    "labName": "Ziel-Neelsen Technique for Acid Fast Bacilli",
+    "aliases": [],
+    "slugs": [
+      "ziel-neelsen-technique-for-acid-fast-bacilli"
+    ]
+  },
+  "Skin biopsy and immunoflorescence": {
+    "name": "Skin biopsy and immunoflorescence",
+    "labName": "Skin biopsy and immunoflorescence",
+    "aliases": [],
+    "slugs": [
+      "skin-biopsy-and-immunoflorescence"
+    ]
+  }
+}

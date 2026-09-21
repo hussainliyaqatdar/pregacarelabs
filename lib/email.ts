@@ -13,7 +13,11 @@ function itemsRows(booking: Booking) {
     .map(
       (i) => `
     <tr>
-      <td style="padding:8px 0;border-bottom:1px solid #eee;">${i.name} ${i.qty > 1 ? `x ${i.qty}` : ""}</td>
+      <td style="padding:8px 0;border-bottom:1px solid #eee;">${i.name} ${i.qty > 1 ? `x ${i.qty}` : ""}${
+        i.labName && i.labName.toLowerCase() !== i.name.toLowerCase()
+          ? `<br><span style="color:#777;font-size:12px;">Lab test name: ${i.labName}</span>`
+          : ""
+      }</td>
       <td style="padding:8px 0;border-bottom:1px solid #eee;text-align:right;">
         <span style="color:#999;text-decoration:line-through;margin-right:6px;">${money(i.mrp * i.qty)}</span>
         <strong>${money(i.price * i.qty)}</strong>

@@ -31,7 +31,10 @@ export async function POST(req: NextRequest) {
     const found = source.find((x) => x.slug === line.slug);
     if (!found) throw new Error(`Unknown ${line.kind} ${line.slug}`);
     const mrp = found.mrp ?? found.price;
-    return { kind: line.kind, slug: found.slug, name: found.name, qty: line.qty, mrp, price: found.price };
+    // Tests are shown to customers under a friendly name, but the lab knows
+    // them by their catalog name - keep that on the booking for fulfillment.
+    const labName = "labName" in found ? found.labName : undefined;
+    return { kind: line.kind, slug: found.slug, name: found.name, labName, qty: line.qty, mrp, price: found.price };
   });
 
   const subtotalMrp = items.reduce((s, i) => s + i.mrp * i.qty, 0);

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { allTests, allPackages, getTestBySlug } from "@/lib/catalog";
+import { allTests, allPackages, getTestBySlug, displayAliases } from "@/lib/catalog";
 import PriceTag from "@/components/PriceTag";
 import AddToCartButton from "@/components/AddToCartButton";
 import TestCard from "@/components/TestCard";
@@ -30,10 +30,15 @@ export default function TestPage({ params }: { params: { slug: string } }) {
   const relatedTests = allTests.filter((t) => t.category === test.category && t.slug !== test.slug).slice(0, 3);
   const inPackages = allPackages.filter((p) => p.constituents.some((c) => c.slug === test.slug)).slice(0, 3);
 
+  const aliases = displayAliases(test);
+  // Show the lab's own name only when it says something the friendly name doesn't.
+  const showLabName = test.labName.toLowerCase() !== test.name.toLowerCase();
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalTest",
     name: test.name,
+    ...(aliases.length > 0 ? { alternateName: aliases } : {}),
     description: test.description,
     usedToDiagnose: test.category,
   };
@@ -50,12 +55,20 @@ export default function TestPage({ params }: { params: { slug: string } }) {
 
       <div className="bg-white border rounded-xl p-6 md:p-8 flex flex-col gap-4">
         <span className="text-xs uppercase tracking-wide text-brand font-semibold">{test.category} &middot; Individual Test</span>
-        <h1 className="text-2xl md:text-3xl font-bold text-gray-900">{test.name}</h1>
+        <div>
+          <h1 className="text-2xl md:text-3xl font-bold text-gray-900">{test.name}</h1>
+          {aliases.length > 0 && (
+            <p className="text-sm text-gray-500 mt-1">
+              <span className="font-medium">Also known as:</span> {aliases.join(", ")}
+            </p>
+          )}
+        </div>
         <p className="text-gray-700 leading-relaxed">{test.description}</p>
 
         <div className="flex flex-wrap gap-4 text-sm text-gray-600">
           <span><strong>Sample:</strong> {test.sampleType}</span>
           <span><strong>Test code:</strong> {test.code}</span>
+          {showLabName && <span><strong>Lab test name:</strong> {test.labName}</span>}
           <span><strong>Reports in:</strong> {test.eta}</span>
         </div>
 

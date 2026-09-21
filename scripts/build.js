@@ -5,6 +5,7 @@ const { fallbackDescription, cleanName } = require("./fallback-descriptions");
 const curatedDescriptions = require("./test-descriptions");
 const packagesContent = require("./packages-content");
 const { estimateEta, DEFAULT_ETA } = require("./eta");
+const { CURATED: CURATED_FRIENDLY_NAMES, normKey, friendlyNameFor } = require("./friendly-names");
 
 const rawTests = require("./raw/tests-raw.json");
 // "Thyroid Panel (T3, T4, TSH)" (PKG-TP) removed at the business's request -
@@ -62,10 +63,16 @@ const tests = rawTests.map((row) => {
   const displayName = smartTitleCase(rawName);
   const description = curatedDescriptions[rawName] || fallbackDescription(displayName);
   const isCurated = Boolean(curatedDescriptions[rawName]);
+  const friendly = friendlyNameFor(rawName, displayName);
   return {
     id: String(row.Code),
+    // Slug stays derived from the original catalog name, NOT the friendly
+    // name, so existing URLs, carts, bookings, and the alias table keep working.
     slug: uniqueSlug(slugify(displayName)),
-    name: displayName,
+    name: friendly.name,
+    aliases: friendly.aliases,
+    // The lab's own name, title-cased for display; rawName below stays exact.
+    labName: displayName,
     rawName,
     code: String(row.Code),
     price: Number(row["MRP (Rs.)"]) || 0,
@@ -183,6 +190,26 @@ fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(path.join(outDir, "tests.json"), JSON.stringify(tests, null, 2));
 fs.writeFileSync(path.join(outDir, "packages.json"), JSON.stringify(packages, null, 2));
 
+// Persisted mapping: original lab test name -> customer-friendly name +
+// aliases (+ the slug(s) it resolves to). The lab-facing name stays the source
+// of truth for orders; this is how to translate between the two.
+const nameMap = {};
+for (const t of tests) {
+  const entry = (nameMap[t.rawName] ||= { name: t.name, labName: t.labName, aliases: t.aliases, slugs: [] });
+  entry.slugs.push(t.slug);
+}
+fs.writeFileSync(path.join(outDir, "test-name-map.json"), JSON.stringify(nameMap, null, 2));
+
+// ---- friendly-name validation ----
+const rawNames = new Set(tests.map((t) => normKey(t.rawName)));
+const unmatchedCurated = Object.keys(CURATED_FRIENDLY_NAMES).filter((k) => !rawNames.has(normKey(k)));
+const namesSeen = new Map();
+for (const t of tests) {
+  if (!namesSeen.has(t.name)) namesSeen.set(t.name, new Set());
+  namesSeen.get(t.name).add(t.rawName);
+}
+const nameCollisions = [...namesSeen].filter(([, raws]) => raws.size > 1);
+
 // ---- report ----
 const curatedCount = tests.filter((t) => t.curated).length;
 console.log(`Tests: ${tests.length} total, ${curatedCount} curated, ${tests.length - curatedCount} auto-generated`);
@@ -190,3 +217,11 @@ console.log(`Packages: ${packages.length} total, ${packagesWithoutContent.length
 if (packagesWithoutContent.length) console.log("  Missing content for:", packagesWithoutContent);
 console.log(`Constituent links: ${unmatchedConstituents.length} unmatched out of ${packages.reduce((s, p) => s + p.constituents.length, 0)}`);
 if (unmatchedConstituents.length) console.log("  Unmatched:\n  " + unmatchedConstituents.join("\n  "));
+const curatedKeys = new Set(Object.keys(CURATED_FRIENDLY_NAMES).map(normKey));
+const friendlyCount = tests.filter((t) => curatedKeys.has(normKey(t.rawName))).length;
+console.log(`Friendly names: ${friendlyCount} curated, ${tests.length - friendlyCount} mechanically cleaned`);
+if (unmatchedCurated.length) console.log("  Curated names matching no test (check spelling):\n  " + unmatchedCurated.join("\n  "));
+if (nameCollisions.length) {
+  console.log("  Different lab tests share one friendly name (customers couldn't tell them apart):");
+  nameCollisions.forEach(([n, raws]) => console.log(`  "${n}" <- ${[...raws].join(" | ")}`));
+}

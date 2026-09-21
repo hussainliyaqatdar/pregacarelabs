@@ -1,10 +1,11 @@
 "use client";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
-import { allTests, allPackages, search } from "@/lib/catalog";
+import { allTests, allPackages, search, displayAliases } from "@/lib/catalog";
 import { useCartSummary } from "@/lib/cart-context";
 import { useUI } from "@/lib/ui-context";
 import AddToCartButton from "./AddToCartButton";
+import type { TestItem } from "@/lib/types";
 
 const RESULT_LIMIT = 30;
 
@@ -15,7 +16,12 @@ const ClockIcon = () => (
   </svg>
 );
 
-type Row = { kind: "test" | "package"; slug: string; name: string; price: number; mrp: number | null; eta: string; sub?: string };
+type Row = { kind: "test" | "package"; slug: string; name: string; price: number; mrp: number | null; eta: string; sub?: string; aka?: string };
+
+function testRow(t: TestItem): Row {
+  const aka = displayAliases(t).join(", ");
+  return { kind: "test", slug: t.slug, name: t.name, price: t.price, mrp: t.mrp, eta: t.eta, sub: t.category, aka: aka || undefined };
+}
 
 export default function SearchModal() {
   const { searchModalOpen, closeSearchModal, openCartDrawer } = useUI();
@@ -47,15 +53,12 @@ export default function SearchModal() {
         .filter((r) => r.kind === kind)
         .map((r) =>
           r.kind === "test"
-            ? { kind: "test" as const, slug: r.item.slug, name: r.item.name, price: r.item.price, mrp: r.item.mrp, eta: r.item.eta, sub: r.item.category }
+            ? testRow(r.item)
             : { kind: "package" as const, slug: r.item.slug, name: r.item.name, price: r.item.price, mrp: r.item.mrp, eta: r.item.eta, sub: r.item.tagline }
         );
     }
     if (kind === "test") {
-      return allTests
-        .filter((t) => t.popular)
-        .slice(0, RESULT_LIMIT)
-        .map((t) => ({ kind: "test" as const, slug: t.slug, name: t.name, price: t.price, mrp: t.mrp, eta: t.eta, sub: t.category }));
+      return allTests.filter((t) => t.popular).slice(0, RESULT_LIMIT).map(testRow);
     }
     return allPackages
       .filter((p) => !p.needsContent)
@@ -120,7 +123,13 @@ export default function SearchModal() {
                 <Link href={r.kind === "test" ? `/tests/${r.slug}` : `/packages/${r.slug}`} onClick={closeSearchModal} className="font-medium text-gray-900 hover:text-brand truncate block">
                   {r.name}
                 </Link>
-                {r.sub && <p className="text-xs text-gray-500 truncate">{r.sub}</p>}
+                {r.aka ? (
+                  <p className="text-xs text-gray-500 truncate">
+                    <span className="font-medium">Also known as:</span> {r.aka}
+                  </p>
+                ) : (
+                  r.sub && <p className="text-xs text-gray-500 truncate">{r.sub}</p>
+                )}
                 <div className="flex items-center gap-1 text-xs text-gray-500 mt-0.5">
                   <ClockIcon />
                   <span>Reports in {r.eta}</span>

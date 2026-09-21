@@ -1,7 +1,15 @@
 export type TestItem = {
   id: string;
   slug: string;
+  // Customer-friendly display name (e.g. "Complete Blood Count (CBC)").
   name: string;
+  // Other names a customer might search for or have heard from a doctor.
+  aliases: string[];
+  // The lab's own catalog name (e.g. "CBC-5, EDTA Whole Blood"), title-cased
+  // for display. Shown to the lab on orders and searchable by customers.
+  labName: string;
+  // The lab's catalog name exactly as stored (often ALL CAPS); the key used
+  // to match the source data.
   rawName: string;
   code: string;
   price: number;
@@ -60,6 +68,9 @@ export type BookingLineItem = {
   kind: "test" | "package";
   slug: string;
   name: string;
+  // The lab's catalog name for a test, so fulfillment sees what the lab
+  // actually knows it as (older bookings won't have this).
+  labName?: string;
   qty: number;
   mrp: number;
   price: number;
