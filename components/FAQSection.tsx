@@ -23,7 +23,7 @@ const FAQS = [
   },
   {
     q: "Do you offer the Glucose Tolerance Test (GTT) for gestational diabetes at home?",
-    a: "Yes. Our Oral Glucose Tolerance Test - Gestational is available for home collection, typically recommended between weeks 24-28 to screen for gestational diabetes.",
+    a: "Yes. Our Pregnancy Diabetes Test (Gestational GTT) is available for home collection, typically recommended between weeks 24-28 to screen for gestational diabetes.",
   },
   {
     q: "Is home sample collection safe for pregnant women?",
