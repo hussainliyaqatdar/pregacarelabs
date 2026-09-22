@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { useCart } from "@/lib/cart-context";
+import { useCart, useCartSummary } from "@/lib/cart-context";
 import { allTests, allPackages } from "@/lib/catalog";
 import { getUpcomingDates, formatDateLabel } from "@/lib/booking-dates";
 
@@ -9,6 +9,7 @@ const UPCOMING_DATES = getUpcomingDates();
 
 export default function CheckoutPage() {
   const { lines, clear } = useCart();
+  const { coupon, discount, total, removeCoupon } = useCartSummary();
   const router = useRouter();
 
   const items = lines
@@ -111,7 +112,8 @@ export default function CheckoutPage() {
       const res = await fetch("/api/bookings", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ patient, cart: lines, date, slot }),
+        // Only the code is sent - the server works out the discount itself.
+        body: JSON.stringify({ patient, cart: lines, date, slot, couponCode: discount > 0 && coupon ? coupon.code : undefined }),
       });
       const data = await res.json();
       if (!res.ok) {
@@ -120,6 +122,7 @@ export default function CheckoutPage() {
         return;
       }
       clear();
+      removeCoupon();
       router.push(`/confirmation/${data.id}`);
     } catch {
       setError("Could not submit booking. Please try again.");
@@ -296,9 +299,20 @@ export default function CheckoutPage() {
               <span>Rs. {(i.price * i.qty).toLocaleString("en-IN")}</span>
             </div>
           ))}
+          {discount > 0 && coupon && (
+            <div className="border-t pt-2 flex justify-between items-center text-sm text-green-700 font-medium">
+              <span>
+                Coupon ({coupon.code}){" "}
+                <button type="button" onClick={removeCoupon} className="text-xs font-normal text-gray-500 underline hover:text-gray-700">
+                  Remove
+                </button>
+              </span>
+              <span>- Rs. {discount.toLocaleString("en-IN")}</span>
+            </div>
+          )}
           <div className="border-t pt-2 flex justify-between font-bold text-brand-dark">
             <span>Amount due on collection</span>
-            <span>Rs. {subtotalPrice.toLocaleString("en-IN")}</span>
+            <span>Rs. {total.toLocaleString("en-IN")}</span>
           </div>
           {error && <p className="text-sm text-red-600">{error}</p>}
           <button onClick={submit} disabled={submitting} className="bg-brand text-white px-4 py-3 rounded-md font-medium hover:bg-brand-dark transition disabled:opacity-60">

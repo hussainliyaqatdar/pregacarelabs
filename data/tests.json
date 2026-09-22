@@ -2,7 +2,7 @@
   {
     "id": "3250",
     "slug": "tsh-3rd-gen-ultrasensitive-serum",
-    "name": "TSH Test (Thyroid Stimulating Hormone)",
+    "name": "Thyroid Stimulating Hormone (TSH)",
     "aliases": [
       "TSH",
       "Thyroid Stimulating Hormone",
@@ -24,7 +24,7 @@
   {
     "id": "TPC",
     "slug": "thyroid-panel-tsh-serum",
-    "name": "Thyroid Function Test (TFT)",
+    "name": "Thyroid Function Test (T3,T4,TSH)",
     "aliases": [
       "TFT",
       "Thyroid Profile",
@@ -47,7 +47,7 @@
   {
     "id": "1499",
     "slug": "thyroid-panel-ii-ft3-ft4-tsh-serum",
-    "name": "Complete Thyroid Profile (T3, T4, TSH)",
+    "name": "Free Thyroid Profile (FT3, FT4, TSH)",
     "aliases": [
       "Thyroid Profile",
       "TFT",

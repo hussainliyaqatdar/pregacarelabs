@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import SearchModal from "@/components/SearchModal";
 import CartDrawer from "@/components/CartDrawer";
+import { getFeaturedCoupon } from "@/lib/coupon-config";
 import { BUSINESS_NAME, SITE_URL, BOOKING_PHONE, SERVICE_AREAS, GMB_RATING, GMB_PROFILE_URL } from "@/lib/site-config";
 
 export const metadata: Metadata = {
@@ -49,6 +50,8 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  // The one coupon we advertise publicly; other codes stay server-side.
+  const featuredCoupon = getFeaturedCoupon();
   const orgJsonLd = {
     "@context": "https://schema.org",
     "@type": "MedicalBusiness",
@@ -77,11 +80,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }} />
         <CartProvider>
           <UIProvider>
-            <Header />
+            <Header featuredCoupon={featuredCoupon} />
             <main className="max-w-6xl mx-auto px-4 py-8 min-h-[70vh]">{children}</main>
             <Footer />
             <SearchModal />
-            <CartDrawer />
+            <CartDrawer featuredCoupon={featuredCoupon} />
           </UIProvider>
         </CartProvider>
       </body>

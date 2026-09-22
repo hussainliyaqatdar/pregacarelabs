@@ -82,8 +82,14 @@ export type Booking = {
   patient: BookingPatient;
   items: BookingLineItem[];
   subtotalMrp: number;
+  // Sum of item prices BEFORE any coupon. The amount the customer actually owes
+  // is subtotalPrice - couponDiscount; use amountDue() from lib/booking-totals.
   subtotalPrice: number;
+  // Total saved versus MRP, including any coupon discount.
   savings: number;
+  // Present only when a coupon was applied (older bookings won't have these).
+  couponCode?: string;
+  couponDiscount?: number;
   date: string;
   slot: string;
   paymentStatus: "due";

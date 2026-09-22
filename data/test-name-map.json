@@ -1,6 +1,6 @@
 {
   "TSH 3rd Gen Ultrasensitive, Serum": {
-    "name": "TSH Test (Thyroid Stimulating Hormone)",
+    "name": "Thyroid Stimulating Hormone (TSH)",
     "labName": "TSH 3rd Gen Ultrasensitive, Serum",
     "aliases": [
       "TSH",
@@ -12,7 +12,7 @@
     ]
   },
   "Thyroid Panel – TSH, Serum": {
-    "name": "Thyroid Function Test (TFT)",
+    "name": "Thyroid Function Test (T3,T4,TSH)",
     "labName": "Thyroid Panel – TSH, Serum",
     "aliases": [
       "TFT",
@@ -25,7 +25,7 @@
     ]
   },
   "Thyroid Panel II (FT3, FT4, TSH), Serum": {
-    "name": "Complete Thyroid Profile (T3, T4, TSH)",
+    "name": "Free Thyroid Profile (FT3, FT4, TSH)",
     "labName": "Thyroid Panel II (FT3, FT4, TSH), Serum",
     "aliases": [
       "Thyroid Profile",

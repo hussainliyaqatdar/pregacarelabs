@@ -2,6 +2,11 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
 import type { CartLine } from "./types";
 import { allTests, allPackages } from "./catalog";
+import { computeDiscount, type CouponRule } from "./coupon-rules";
+
+// `transient` marks failures that say nothing about the code itself (offline,
+// rate-limited), so a saved coupon shouldn't be dropped because of them.
+export type ApplyCouponResult = { ok: true; coupon: CouponRule } | { ok: false; message: string; transient?: boolean };
 
 type CartContextType = {
   lines: CartLine[];
@@ -10,13 +15,35 @@ type CartContextType = {
   remove: (kind: "test" | "package", slug: string) => void;
   clear: () => void;
   count: number;
+  // The coupon the customer has entered (its rules, as confirmed by the server).
+  // Whether it currently gives a discount depends on the cart - see useCartSummary.
+  coupon: CouponRule | null;
+  applyCoupon: (code: string) => Promise<ApplyCouponResult>;
+  removeCoupon: () => void;
 };
 
 const CartContext = createContext<CartContextType | null>(null);
 const STORAGE_KEY = "diagnostics-cart-v2";
+const COUPON_KEY = "diagnostics-coupon-v1";
+
+async function checkCoupon(code: string): Promise<ApplyCouponResult> {
+  try {
+    const res = await fetch("/api/coupons/validate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ code }),
+    });
+    const data = await res.json();
+    if (data.valid) return { ok: true, coupon: data.coupon as CouponRule };
+    return { ok: false, message: data.message || "That coupon code isn't valid.", transient: res.status === 429 };
+  } catch {
+    return { ok: false, message: "Couldn't check that code. Please check your connection and try again.", transient: true };
+  }
+}
 
 export function CartProvider({ children }: { children: React.ReactNode }) {
   const [lines, setLines] = useState<CartLine[]>([]);
+  const [coupon, setCoupon] = useState<CouponRule | null>(null);
   const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
@@ -24,6 +51,20 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (raw) setLines(JSON.parse(raw));
     } catch {}
+    let stored: CouponRule | null = null;
+    try {
+      const raw = localStorage.getItem(COUPON_KEY);
+      if (raw) stored = JSON.parse(raw);
+    } catch {}
+    if (stored) {
+      setCoupon(stored);
+      // The coupon may have been switched off or changed since it was saved, so
+      // re-check it. A transient failure keeps it (the server re-checks at booking).
+      checkCoupon(stored.code).then((result) => {
+        if (result.ok) setCoupon(result.coupon);
+        else if (!result.transient) setCoupon(null);
+      });
+    }
     setLoaded(true);
   }, []);
 
@@ -31,6 +72,22 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     if (!loaded) return;
     localStorage.setItem(STORAGE_KEY, JSON.stringify(lines));
   }, [lines, loaded]);
+
+  useEffect(() => {
+    if (!loaded) return;
+    if (coupon) localStorage.setItem(COUPON_KEY, JSON.stringify(coupon));
+    else localStorage.removeItem(COUPON_KEY);
+  }, [coupon, loaded]);
+
+  async function applyCoupon(code: string): Promise<ApplyCouponResult> {
+    const result = await checkCoupon(code);
+    if (result.ok) setCoupon(result.coupon);
+    return result;
+  }
+
+  function removeCoupon() {
+    setCoupon(null);
+  }
 
   function add(kind: "test" | "package", slug: string) {
     setLines((prev) => {
@@ -61,7 +118,11 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
 
   const count = lines.reduce((sum, l) => sum + l.qty, 0);
 
-  return <CartContext.Provider value={{ lines, add, decrement, remove, clear, count }}>{children}</CartContext.Provider>;
+  return (
+    <CartContext.Provider value={{ lines, add, decrement, remove, clear, count, coupon, applyCoupon, removeCoupon }}>
+      {children}
+    </CartContext.Provider>
+  );
 }
 
 export function useCart() {
@@ -82,7 +143,7 @@ export type CartSummaryItem = {
 // Resolves cart lines (kind+slug+qty) against the catalog, used anywhere the
 // cart's contents need to be displayed (drawer, search modal footer, cart page).
 export function useCartSummary() {
-  const { lines, remove, clear } = useCart();
+  const { lines, remove, clear, coupon, applyCoupon, removeCoupon } = useCart();
 
   const items: CartSummaryItem[] = lines
     .map((l) => {
@@ -98,5 +159,17 @@ export function useCartSummary() {
   const subtotalPrice = items.reduce((s, i) => s + i.price * i.qty, 0);
   const count = items.reduce((s, i) => s + i.qty, 0);
 
-  return { items, subtotalMrp, subtotalPrice, count, remove, clear };
+  // Live preview of the coupon. The server recomputes this when the order is
+  // placed; this is the same pure function, so the two always agree.
+  const result = coupon ? computeDiscount(coupon, subtotalPrice) : null;
+  const discount = result?.discount ?? 0;
+  const total = subtotalPrice - discount;
+
+  return {
+    items, subtotalMrp, subtotalPrice, count, remove, clear,
+    coupon, applyCoupon, removeCoupon,
+    discount, // rupees off from the coupon right now (0 if none, or not yet eligible)
+    couponShortfall: result && !result.eligible ? result.shortfall : 0, // rupees to add to unlock it
+    total, // what the customer pays after the coupon
+  };
 }
