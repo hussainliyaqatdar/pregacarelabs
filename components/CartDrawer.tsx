@@ -4,10 +4,13 @@ import { useEffect } from "react";
 import { useCartSummary } from "@/lib/cart-context";
 import { useUI } from "@/lib/ui-context";
 import PriceTag from "./PriceTag";
+import CouponNudge from "./CouponNudge";
+import CouponField from "./CouponField";
+import type { CouponRule } from "@/lib/coupon-rules";
 
-export default function CartDrawer() {
+export default function CartDrawer({ featuredCoupon = null }: { featuredCoupon?: CouponRule | null }) {
   const { cartDrawerOpen, closeCartDrawer, openSearchModal } = useUI();
-  const { items, subtotalMrp, subtotalPrice, remove, clear } = useCartSummary();
+  const { items, subtotalMrp, remove, clear, coupon, discount, total } = useCartSummary();
 
   useEffect(() => {
     if (!cartDrawerOpen) return;
@@ -41,6 +44,8 @@ export default function CartDrawer() {
             </svg>
           </button>
         </div>
+
+        <CouponNudge featured={featuredCoupon} />
 
         {items.length === 0 ? (
           <div className="flex-1 flex flex-col items-center justify-center gap-3 px-6 text-center">
@@ -93,19 +98,26 @@ export default function CartDrawer() {
             </div>
 
             <div className="shrink-0 border-t px-4 py-3 flex flex-col gap-3 bg-white">
+              <CouponField />
               <div className="bg-brand-light rounded-lg p-3 flex flex-col gap-1">
                 <div className="flex justify-between text-sm text-gray-600">
                   <span>MRP total</span>
                   <span className="line-through">Rs. {subtotalMrp.toLocaleString("en-IN")}</span>
                 </div>
+                {discount > 0 && coupon && (
+                  <div className="flex justify-between text-sm text-green-700 font-medium">
+                    <span>Coupon ({coupon.code})</span>
+                    <span>- Rs. {discount.toLocaleString("en-IN")}</span>
+                  </div>
+                )}
                 <div className="flex justify-between font-bold text-brand-dark text-lg">
                   <span>You pay</span>
-                  <span>Rs. {subtotalPrice.toLocaleString("en-IN")}</span>
+                  <span>Rs. {total.toLocaleString("en-IN")}</span>
                 </div>
-                {subtotalMrp > subtotalPrice && (
+                {subtotalMrp > total && (
                   <div className="flex justify-between text-sm text-brand-accent font-medium">
                     <span>Total savings</span>
-                    <span>Rs. {(subtotalMrp - subtotalPrice).toLocaleString("en-IN")}</span>
+                    <span>Rs. {(subtotalMrp - total).toLocaleString("en-IN")}</span>
                   </div>
                 )}
               </div>

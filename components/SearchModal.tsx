@@ -25,7 +25,7 @@ function testRow(t: TestItem): Row {
 
 export default function SearchModal() {
   const { searchModalOpen, closeSearchModal, openCartDrawer } = useUI();
-  const { count, subtotalPrice } = useCartSummary();
+  const { count, total, discount, coupon } = useCartSummary();
   const [tab, setTab] = useState<"tests" | "packages">("tests");
   const [query, setQuery] = useState("");
 
@@ -150,7 +150,8 @@ export default function SearchModal() {
           <div className="shrink-0 border-t px-4 py-3 flex items-center justify-between gap-3 bg-brand-light">
             <div className="text-sm">
               <span className="font-bold text-brand-dark">{count} item{count > 1 ? "s" : ""}</span>
-              <span className="text-gray-600"> &middot; Rs. {subtotalPrice.toLocaleString("en-IN")}</span>
+              <span className="text-gray-600"> &middot; Rs. {total.toLocaleString("en-IN")}</span>
+              {discount > 0 && coupon && <span className="block text-xs text-green-700">{coupon.code} applied</span>}
             </div>
             <button
               onClick={() => {

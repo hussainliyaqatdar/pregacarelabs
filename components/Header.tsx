@@ -6,16 +6,19 @@ import { useUI } from "@/lib/ui-context";
 import { BOOKING_PHONE, BOOKING_PHONE_TEL } from "@/lib/site-config";
 import { getPackageCategories } from "@/lib/catalog";
 import Logo from "./Logo";
+import CouponBanner from "./CouponBanner";
+import type { CouponRule } from "@/lib/coupon-rules";
 
 const PACKAGE_CATEGORIES = getPackageCategories();
 
-export default function Header() {
+export default function Header({ featuredCoupon = null }: { featuredCoupon?: CouponRule | null }) {
   const { count } = useCart();
   const { openCartDrawer } = useUI();
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
     <header className="bg-white border-b sticky top-0 z-30">
+      <CouponBanner coupon={featuredCoupon} />
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
         <Link href="/" className="shrink-0">
           <Logo />

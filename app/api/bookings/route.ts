@@ -3,15 +3,18 @@ import { allTests, allPackages } from "@/lib/catalog";
 import { getSlotsForDate } from "@/lib/slots";
 import { saveBooking } from "@/lib/store";
 import { sendOwnerNotification } from "@/lib/email";
+import { findCoupon } from "@/lib/coupon-config";
+import { computeDiscount } from "@/lib/coupon-rules";
 import type { Booking, CartLine } from "@/lib/types";
 
 export async function POST(req: NextRequest) {
   const body = await req.json();
-  const { patient, cart, date, slot } = body as {
+  const { patient, cart, date, slot, couponCode } = body as {
     patient: Booking["patient"];
     cart: CartLine[];
     date: string;
     slot: string;
+    couponCode?: string;
   };
 
   if (!patient?.name || !patient?.whatsapp || !patient?.addressLine || !patient?.pincode) {
@@ -40,6 +43,28 @@ export async function POST(req: NextRequest) {
   const subtotalMrp = items.reduce((s, i) => s + i.mrp * i.qty, 0);
   const subtotalPrice = items.reduce((s, i) => s + i.price * i.qty, 0);
 
+  // The discount is decided HERE from the server's own prices and coupon list -
+  // never from an amount sent by the browser. If the customer's coupon no longer
+  // applies (switched off, or the cart dropped below the minimum), reject the
+  // order rather than silently charging a different price than they were shown.
+  let appliedCode: string | undefined;
+  let couponDiscount = 0;
+  if (couponCode) {
+    const coupon = findCoupon(couponCode);
+    if (!coupon) {
+      return NextResponse.json({ error: "That coupon code is no longer valid. Please remove it and try again." }, { status: 400 });
+    }
+    const result = computeDiscount(coupon, subtotalPrice);
+    if (!result.eligible) {
+      return NextResponse.json(
+        { error: `${coupon.code} needs a cart of at least Rs. ${coupon.minCartValue.toLocaleString("en-IN")}. Add more tests or remove the coupon.` },
+        { status: 400 }
+      );
+    }
+    appliedCode = coupon.code;
+    couponDiscount = result.discount;
+  }
+
   // No payment is collected at booking time - the site's promise is "pay
   // only after sample collection." Payment is taken in person (cash/UPI) or
   // via a link sent after the phlebotomist visit, outside this flow.
@@ -50,7 +75,8 @@ export async function POST(req: NextRequest) {
     items,
     subtotalMrp,
     subtotalPrice,
-    savings: subtotalMrp - subtotalPrice,
+    savings: subtotalMrp - subtotalPrice + couponDiscount,
+    ...(appliedCode ? { couponCode: appliedCode, couponDiscount } : {}),
     date,
     slot,
     paymentStatus: "due",

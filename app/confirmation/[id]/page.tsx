@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getBooking } from "@/lib/store";
+import { amountDue } from "@/lib/booking-totals";
 
 export default function ConfirmationPage({ params }: { params: { id: string } }) {
   const booking = getBooking(params.id);
@@ -32,9 +33,15 @@ export default function ConfirmationPage({ params }: { params: { id: string } })
             </span>
           </div>
         ))}
+        {booking.couponCode && booking.couponDiscount ? (
+          <div className="border-t pt-2 flex justify-between text-sm text-brand-dark">
+            <span>Coupon {booking.couponCode}</span>
+            <span>- Rs. {booking.couponDiscount.toLocaleString("en-IN")}</span>
+          </div>
+        ) : null}
         <div className="border-t pt-2 flex justify-between font-bold text-brand-dark">
           <span>Amount due on collection</span>
-          <span>Rs. {booking.subtotalPrice.toLocaleString("en-IN")}</span>
+          <span>Rs. {amountDue(booking).toLocaleString("en-IN")}</span>
         </div>
       </div>
       <p className="text-xs text-gray-500 text-center -mt-4">No payment has been taken yet - pay only after your sample is collected.</p>
