@@ -20,7 +20,7 @@
 
 const CURATED = {
   // ---- Thyroid ----
-  "TSH 3rd Gen Ultrasensitive, Serum": { name: "Thyroid Stimulating Hormone (TSH))", aliases: ["TSH", "Thyroid Stimulating Hormone", "Thyroid Test"] },
+  "TSH 3rd Gen Ultrasensitive, Serum": { name: "Thyroid Stimulating Hormone (TSH)", aliases: ["TSH", "Thyroid Stimulating Hormone", "Thyroid Test"] },
   "Thyroid Panel – TSH, Serum": { name: "Thyroid Function Test (T3,T4,TSH)", aliases: ["TFT", "Thyroid Profile", "Thyroid Test", "TSH Panel"] },
   "Thyroid Panel II (FT3, FT4, TSH), Serum": { name: "Free Thyroid Profile (FT3, FT4, TSH)", aliases: ["Thyroid Profile", "TFT", "Thyroid Panel", "Free T3 Free T4 TSH"] },
   "Free Thyroxine (FT4), Serum": { name: "Free T4 Test (Thyroxine)", aliases: ["FT4", "Free Thyroxine", "T4"] },
