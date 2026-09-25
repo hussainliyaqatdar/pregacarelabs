@@ -11,11 +11,6 @@ export const SERVICE_AREAS = ["JP Nagar", "Jayanagar", "BTM Layout", "Banashanka
 
 export const TRUST_MARKERS = [
   {
-    image: "/images/trust-reports-6-hours.webp",
-    alt: "A phone showing a WhatsApp message: \"Your Lab Report is Ready\", with a report attached, next to a 6 hours icon.",
-    label: "Reports Within 6 Hours",
-  },
-  {
     image: "/images/trust-pay-after-collection.webp",
     alt: "A crossed-out payment card and cash icon, illustrating no advance payment.",
     label: "Pay After Collection",
@@ -23,7 +18,12 @@ export const TRUST_MARKERS = [
   {
     image: "/images/trust-nabl-fortis.webp",
     alt: "NABL accreditation mark alongside the Fortis Hospitals logo.",
-    label: "NABL-Accredited & Fortis-Associated",
+    label: "Samples Tested at Fortis Hospitals",
+  },
+  {
+    image: "/images/trust-reports-6-hours.webp",
+    alt: "A phone showing a WhatsApp message: \"Your Lab Report is Ready\", with a report attached, next to a 6 hours icon.",
+    label: "Reports Within 6 Hours",
   },
   {
     image: "/images/trust-doctors-pan-india.webp",
