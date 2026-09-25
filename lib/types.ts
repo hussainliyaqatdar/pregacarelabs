@@ -1,3 +1,5 @@
+export type ProductFaq = { q: string; a: string };
+
 export type TestItem = {
   id: string;
   slug: string;
@@ -21,6 +23,9 @@ export type TestItem = {
   sampleType: string;
   description: string;
   eta: string;
+  // SEO FAQs, present only for the tests the business named for this (see
+  // scripts/product-faqs.js) - most tests won't have this.
+  faqs?: ProductFaq[];
 };
 
 export type PackageConstituent = {
@@ -42,6 +47,8 @@ export type PackageItem = {
   constituents: PackageConstituent[];
   needsContent: boolean;
   eta: string;
+  // SEO FAQs - every package gets these (see scripts/product-faqs.js).
+  faqs?: ProductFaq[];
 };
 
 export type CartLine = {

@@ -6,6 +6,7 @@ const curatedDescriptions = require("./test-descriptions");
 const packagesContent = require("./packages-content");
 const { estimateEta, DEFAULT_ETA } = require("./eta");
 const { CURATED: CURATED_FRIENDLY_NAMES, normKey, friendlyNameFor } = require("./friendly-names");
+const { PRICED_TEST_CODE_SET, testFaqs, packageFaqs } = require("./product-faqs");
 
 const rawTests = require("./raw/tests-raw.json");
 // "Thyroid Panel (T3, T4, TSH)" (PKG-TP) removed at the business's request -
@@ -184,6 +185,16 @@ const packages = rawPackages.map((row) => {
   };
 });
 
+// ---- SEO FAQs: the 65 priced tests named by the business, and all packages ----
+for (const t of tests) {
+  if (PRICED_TEST_CODE_SET.has(t.code.toUpperCase())) t.faqs = testFaqs(t);
+}
+for (const p of packages) {
+  p.faqs = packageFaqs(p);
+}
+const matchedPricedCodes = new Set(tests.filter((t) => t.faqs).map((t) => t.code.toUpperCase()));
+const unmatchedPricedCodes = [...PRICED_TEST_CODE_SET].filter((c) => !matchedPricedCodes.has(c));
+
 // ---- write output ----
 const outDir = path.join(__dirname, "..", "data");
 fs.mkdirSync(outDir, { recursive: true });
@@ -225,3 +236,5 @@ if (nameCollisions.length) {
   console.log("  Different lab tests share one friendly name (customers couldn't tell them apart):");
   nameCollisions.forEach(([n, raws]) => console.log(`  "${n}" <- ${[...raws].join(" | ")}`));
 }
+console.log(`FAQs: ${matchedPricedCodes.size}/${PRICED_TEST_CODE_SET.size} priced tests + ${packages.length} packages`);
+if (unmatchedPricedCodes.length) console.log("  Priced test codes matching no test (check the code list):\n  " + unmatchedPricedCodes.join(", "));

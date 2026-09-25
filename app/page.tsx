@@ -26,8 +26,11 @@ export default function Home() {
         </div>
 
         <div className="hero-text flex flex-col gap-4">
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Trusted Labs, At Your Home</h1>
-          <p className="text-gray-700">Hospital grade reports at the most affordable prices in your city</p>
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Your Pregnancy, Cared For At Home</h1>
+          <p className="text-gray-700">
+            Accurate hormone panels, NIPT and other specialised DNA tests - hospital-grade prenatal reports without
+            leaving your couch, trusted by expecting mothers across Bangalore.
+          </p>
         </div>
 
         <div className="hero-search">
