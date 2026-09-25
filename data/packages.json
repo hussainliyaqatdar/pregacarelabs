@@ -42,7 +42,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Full Body Checkup Mini package near me in Bangalore?",
+        "a": "Yes - the Full Body Checkup Mini package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Full Body Checkup Mini package in Bangalore?",
+        "a": "The Full Body Checkup Mini package costs Rs. 1,099 (down from Rs. 3,410 MRP) for all 6 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Full Body Checkup Mini package?",
+        "a": "Yes. All 6 tests included in the Full Body Checkup Mini package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Full Body Checkup Mini package include?",
+        "a": "A smart starting point for anyone over 25. Covers blood sugar, cholesterol, liver, kidneys, thyroid, and urine - the core markers every annual checkup should include, at an easy entry price."
+      },
+      {
+        "q": "Is the Full Body Checkup Mini package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Full Body Checkup Mini package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-FBCE",
@@ -97,7 +119,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Full Body Checkup Essential package near me in Bangalore?",
+        "a": "Yes - the Full Body Checkup Essential package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Full Body Checkup Essential package in Bangalore?",
+        "a": "The Full Body Checkup Essential package costs Rs. 1,350 (down from Rs. 4,410 MRP) for all 8 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Full Body Checkup Essential package?",
+        "a": "Yes. All 8 tests included in the Full Body Checkup Essential package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Full Body Checkup Essential package include?",
+        "a": "A thorough annual checkup that goes beyond the basics, adding your 3-month sugar average (HbA1c) and full thyroid check to core organ and metabolic tests. A solid yearly health baseline."
+      },
+      {
+        "q": "Is the Full Body Checkup Essential package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Full Body Checkup Essential package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-FBCA",
@@ -162,7 +206,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Full Body Checkup Advanced package near me in Bangalore?",
+        "a": "Yes - the Full Body Checkup Advanced package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Full Body Checkup Advanced package in Bangalore?",
+        "a": "The Full Body Checkup Advanced package costs Rs. 2,099 (down from Rs. 7,610 MRP) for all 10 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Full Body Checkup Advanced package?",
+        "a": "Yes. All 10 tests included in the Full Body Checkup Advanced package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Full Body Checkup Advanced package include?",
+        "a": "Our most complete annual checkup. Everything in our Essential package, plus Vitamin B12 and D - two deficiencies so common they're worth checking every year. Ideal for corporate wellness or a thorough yearly review."
+      },
+      {
+        "q": "Is the Full Body Checkup Advanced package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Full Body Checkup Advanced package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-AHC",
@@ -176,7 +242,29 @@
     "description": "A curated heart health test package. Full details coming soon - please call us for the complete list of included tests.",
     "constituents": [],
     "needsContent": true,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Advanced Heart Checkup package near me in Bangalore?",
+        "a": "Yes - the Advanced Heart Checkup package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Advanced Heart Checkup package in Bangalore?",
+        "a": "The Advanced Heart Checkup package costs Rs. 2,499 for everything included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Advanced Heart Checkup package?",
+        "a": "Yes. Everything included in the Advanced Heart Checkup package is collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Advanced Heart Checkup package include?",
+        "a": "A curated heart health test package. Full details coming soon - please call us for the complete list of included tests."
+      },
+      {
+        "q": "Is the Advanced Heart Checkup package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Advanced Heart Checkup package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-DB",
@@ -206,7 +294,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Diabetes Basic package near me in Bangalore?",
+        "a": "Yes - the Diabetes Basic package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Diabetes Basic package in Bangalore?",
+        "a": "The Diabetes Basic package costs Rs. 599 (down from Rs. 760 MRP) for all 3 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Diabetes Basic package?",
+        "a": "Yes. All 3 tests included in the Diabetes Basic package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 6-12 hours."
+      },
+      {
+        "q": "What does the Diabetes Basic package include?",
+        "a": "Not sure if your blood sugar is under control? This screen checks your 3-month average (HbA1c) plus fasting and after-meal glucose - everything you need for a first diabetes check or routine monitoring, in one affordable draw."
+      },
+      {
+        "q": "Is the Diabetes Basic package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Diabetes Basic package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-IB",
@@ -236,7 +346,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Infection Basic package near me in Bangalore?",
+        "a": "Yes - the Infection Basic package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Infection Basic package in Bangalore?",
+        "a": "The Infection Basic package costs Rs. 999 (down from Rs. 1,200 MRP) for all 3 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Infection Basic package?",
+        "a": "Yes. All 3 tests included in the Infection Basic package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Infection Basic package include?",
+        "a": "Feeling feverish or unwell with no clear cause? This panel checks your blood count, inflammation levels, and urine together to help pinpoint whether an infection is behind it, and how serious it is."
+      },
+      {
+        "q": "Is the Infection Basic package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Infection Basic package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-VC",
@@ -261,14 +393,36 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Vitamin Checkup package near me in Bangalore?",
+        "a": "Yes - the Vitamin Checkup package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Vitamin Checkup package in Bangalore?",
+        "a": "The Vitamin Checkup package costs Rs. 1,499 (down from Rs. 3,100 MRP) for all 2 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Vitamin Checkup package?",
+        "a": "Yes. All 2 tests included in the Vitamin Checkup package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Vitamin Checkup package include?",
+        "a": "Tired all the time, or dealing with bone or muscle aches? Vitamin D and B12 deficiency are two of the most common, and most fixable, causes in India. This quick screen checks both in one draw."
+      },
+      {
+        "q": "Is the Vitamin Checkup package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Vitamin Checkup package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-FIP",
     "slug": "fever-infection-panel",
     "name": "Fever & Infection Panel",
     "code": "PKG-FIP",
-    "category": "Women's Health",
+    "category": "Fever and Infection",
     "price": 1249,
     "mrp": 1550,
     "tagline": "Most Ordered - Seasonal High Volume",
@@ -296,7 +450,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Fever & Infection Panel package near me in Bangalore?",
+        "a": "Yes - the Fever & Infection Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Fever & Infection Panel package in Bangalore?",
+        "a": "The Fever & Infection Panel package costs Rs. 1,249 (down from Rs. 1,550 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Fever & Infection Panel package?",
+        "a": "Yes. All 4 tests included in the Fever & Infection Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Fever & Infection Panel package include?",
+        "a": "Our most-booked panel, for good reason. When fever won't quit, this checks your blood count, inflammation markers, a typhoid screen, and urine together - giving your doctor a fast, complete picture."
+      },
+      {
+        "q": "Is the Fever & Infection Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Fever & Infection Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-PSP",
@@ -356,7 +532,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Pre-Surgical Panel package near me in Bangalore?",
+        "a": "Yes - the Pre-Surgical Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Pre-Surgical Panel package in Bangalore?",
+        "a": "The Pre-Surgical Panel package costs Rs. 3,199 (down from Rs. 5,795 MRP) for all 9 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Pre-Surgical Panel package?",
+        "a": "Yes. All 9 tests included in the Pre-Surgical Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Pre-Surgical Panel package include?",
+        "a": "The standard checklist before any planned surgery. Covers blood clotting, blood group, liver and kidney function, and mandatory infection screening - everything your surgical team needs to clear you safely."
+      },
+      {
+        "q": "Is the Pre-Surgical Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Pre-Surgical Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-FTA",
@@ -421,7 +619,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the First Trimester Antenatal Panel package near me in Bangalore?",
+        "a": "Yes - the First Trimester Antenatal Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the First Trimester Antenatal Panel package in Bangalore?",
+        "a": "The First Trimester Antenatal Panel package costs Rs. 2,599 (down from Rs. 3,920 MRP) for all 10 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the First Trimester Antenatal Panel package?",
+        "a": "Yes. All 10 tests included in the First Trimester Antenatal Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the First Trimester Antenatal Panel package include?",
+        "a": "Your first-visit essentials, in one panel. Covers infection screening, blood group, thyroid, kidney function, and early diabetes risk - everything your doctor needs to build your pregnancy care plan around week 12."
+      },
+      {
+        "q": "Is the First Trimester Antenatal Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the First Trimester Antenatal Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-STT",
@@ -461,7 +681,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Second / Third Trimester Panel package near me in Bangalore?",
+        "a": "Yes - the Second / Third Trimester Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Second / Third Trimester Panel package in Bangalore?",
+        "a": "The Second / Third Trimester Panel package costs Rs. 1,349 (down from Rs. 1,930 MRP) for all 5 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Second / Third Trimester Panel package?",
+        "a": "Yes. All 5 tests included in the Second / Third Trimester Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Second / Third Trimester Panel package include?",
+        "a": "Built for week 28. Focuses on what matters most at this stage - blood sugar control, iron levels, and haemoglobin - to catch gestational diabetes or anaemia early, when they're easiest to manage."
+      },
+      {
+        "q": "Is the Second / Third Trimester Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Second / Third Trimester Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-PCOS",
@@ -526,7 +768,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the PCOS Workup Panel package near me in Bangalore?",
+        "a": "Yes - the PCOS Workup Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the PCOS Workup Panel package in Bangalore?",
+        "a": "The PCOS Workup Panel package costs Rs. 4,399 (down from Rs. 7,660 MRP) for all 10 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the PCOS Workup Panel package?",
+        "a": "Yes. All 10 tests included in the PCOS Workup Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the PCOS Workup Panel package include?",
+        "a": "Irregular periods, unwanted hair growth, or trouble losing weight? This panel checks the key hormones behind PCOS alongside your blood sugar and blood count, giving your doctor a complete hormonal picture."
+      },
+      {
+        "q": "Is the PCOS Workup Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the PCOS Workup Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-MENO",
@@ -561,7 +825,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Menopause & Perimenopause Panel package near me in Bangalore?",
+        "a": "Yes - the Menopause & Perimenopause Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Menopause & Perimenopause Panel package in Bangalore?",
+        "a": "The Menopause & Perimenopause Panel package costs Rs. 1,299 (down from Rs. 2,730 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Menopause & Perimenopause Panel package?",
+        "a": "Yes. All 4 tests included in the Menopause & Perimenopause Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Menopause & Perimenopause Panel package include?",
+        "a": "Hot flushes, mood swings, or periods that have gone unpredictable? This panel checks the core hormones behind the menopausal transition, helping your doctor confirm what's happening and how best to manage it."
+      },
+      {
+        "q": "Is the Menopause & Perimenopause Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Menopause & Perimenopause Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-FIW",
@@ -611,7 +897,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Female Infertility Workup package near me in Bangalore?",
+        "a": "Yes - the Female Infertility Workup package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Female Infertility Workup package in Bangalore?",
+        "a": "The Female Infertility Workup package costs Rs. 3,099 (down from Rs. 5,930 MRP) for all 7 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Female Infertility Workup package?",
+        "a": "Yes. All 7 tests included in the Female Infertility Workup package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Female Infertility Workup package include?",
+        "a": "Trying to conceive and want answers? This panel checks your ovarian reserve, key fertility hormones, thyroid, and blood sugar together - the essential hormone workup for couples planning a pregnancy."
+      },
+      {
+        "q": "Is the Female Infertility Workup package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Female Infertility Workup package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-TORCH",
@@ -646,7 +954,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the TORCH Comprehensive Panel package near me in Bangalore?",
+        "a": "Yes - the TORCH Comprehensive Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the TORCH Comprehensive Panel package in Bangalore?",
+        "a": "The TORCH Comprehensive Panel package costs Rs. 4,899 (down from Rs. 6,380 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the TORCH Comprehensive Panel package?",
+        "a": "Yes. All 4 tests included in the TORCH Comprehensive Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the TORCH Comprehensive Panel package include?",
+        "a": "Recommended before you conceive, or after a pregnancy loss. Checks for infections - Toxoplasma, Rubella, CMV, Herpes - that can affect a pregnancy, plus key autoimmune markers, so you can plan with confidence."
+      },
+      {
+        "q": "Is the TORCH Comprehensive Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the TORCH Comprehensive Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-DMP",
@@ -701,7 +1031,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Diabetes Monitoring Panel package near me in Bangalore?",
+        "a": "Yes - the Diabetes Monitoring Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Diabetes Monitoring Panel package in Bangalore?",
+        "a": "The Diabetes Monitoring Panel package costs Rs. 3,049 (down from Rs. 5,060 MRP) for all 8 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Diabetes Monitoring Panel package?",
+        "a": "Yes. All 8 tests included in the Diabetes Monitoring Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Diabetes Monitoring Panel package include?",
+        "a": "Already managing diabetes? This is your quarterly check-in - blood sugar control, kidney and liver health, cholesterol, and thyroid, all in one panel, so nothing slips through the cracks between doctor visits."
+      },
+      {
+        "q": "Is the Diabetes Monitoring Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Diabetes Monitoring Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-IRP",
@@ -746,7 +1098,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Insulin Resistance Panel package near me in Bangalore?",
+        "a": "Yes - the Insulin Resistance Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Insulin Resistance Panel package in Bangalore?",
+        "a": "The Insulin Resistance Panel package costs Rs. 3,099 (down from Rs. 4,035 MRP) for all 6 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Insulin Resistance Panel package?",
+        "a": "Yes. All 6 tests included in the Insulin Resistance Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Insulin Resistance Panel package include?",
+        "a": "For when blood sugar is borderline and weight won't budge. This panel measures insulin resistance directly, alongside blood sugar, cholesterol, and heart-risk markers - useful in PCOS, pre-diabetes, or metabolic syndrome."
+      },
+      {
+        "q": "Is the Insulin Resistance Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Insulin Resistance Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-CES",
@@ -806,7 +1180,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Comprehensive Endocrine Screen package near me in Bangalore?",
+        "a": "Yes - the Comprehensive Endocrine Screen package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Comprehensive Endocrine Screen package in Bangalore?",
+        "a": "The Comprehensive Endocrine Screen package costs Rs. 3,699 (down from Rs. 6,460 MRP) for all 9 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Comprehensive Endocrine Screen package?",
+        "a": "Yes. All 9 tests included in the Comprehensive Endocrine Screen package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Comprehensive Endocrine Screen package include?",
+        "a": "A broad hormone health check for anyone with multiple, hard-to-place symptoms. Covers thyroid, reproductive hormones, blood sugar, cholesterol, and Vitamin D - a strong starting point for a new patient workup."
+      },
+      {
+        "q": "Is the Comprehensive Endocrine Screen package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Comprehensive Endocrine Screen package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-AWP",
@@ -841,7 +1237,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Anaemia Workup Panel package near me in Bangalore?",
+        "a": "Yes - the Anaemia Workup Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Anaemia Workup Panel package in Bangalore?",
+        "a": "The Anaemia Workup Panel package costs Rs. 2,249 (down from Rs. 3,600 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Anaemia Workup Panel package?",
+        "a": "Yes. All 4 tests included in the Anaemia Workup Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Anaemia Workup Panel package include?",
+        "a": "Constantly tired or looking pale? This panel checks the three most common causes of anaemia in India - low iron, low B12, and inherited blood disorders - so treatment can target the real cause."
+      },
+      {
+        "q": "Is the Anaemia Workup Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Anaemia Workup Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-LDP",
@@ -881,7 +1299,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Liver Disease Panel package near me in Bangalore?",
+        "a": "Yes - the Liver Disease Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Liver Disease Panel package in Bangalore?",
+        "a": "The Liver Disease Panel package costs Rs. 1,999 (down from Rs. 3,565 MRP) for all 5 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Liver Disease Panel package?",
+        "a": "Yes. All 5 tests included in the Liver Disease Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Liver Disease Panel package include?",
+        "a": "For jaundice, high liver enzymes, or known hepatitis exposure. This panel gives a complete liver health picture, plus clotting and hepatitis screening - the full workup your doctor needs to investigate further."
+      },
+      {
+        "q": "Is the Liver Disease Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Liver Disease Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-HIVM",
@@ -916,7 +1356,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the HIV Monitoring Panel package near me in Bangalore?",
+        "a": "Yes - the HIV Monitoring Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the HIV Monitoring Panel package in Bangalore?",
+        "a": "The HIV Monitoring Panel package costs Rs. 3,149 (down from Rs. 4,830 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the HIV Monitoring Panel package?",
+        "a": "Yes. All 4 tests included in the HIV Monitoring Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the HIV Monitoring Panel package include?",
+        "a": "For patients already on HIV treatment. This six-monthly check tracks your immune cell count (CD4) alongside blood and liver health, helping your doctor confirm treatment is working and staying safe."
+      },
+      {
+        "q": "Is the HIV Monitoring Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the HIV Monitoring Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-HLH",
@@ -961,7 +1423,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Hair Loss & Hormonal Panel package near me in Bangalore?",
+        "a": "Yes - the Hair Loss & Hormonal Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Hair Loss & Hormonal Panel package in Bangalore?",
+        "a": "The Hair Loss & Hormonal Panel package costs Rs. 2,649 (down from Rs. 5,680 MRP) for all 6 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Hair Loss & Hormonal Panel package?",
+        "a": "Yes. All 6 tests included in the Hair Loss & Hormonal Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Hair Loss & Hormonal Panel package include?",
+        "a": "Hair thinning that won't stop? This is our most-booked dermatology panel, checking the five most common, and treatable, causes: thyroid issues, Vitamin D & B12 deficiency, hormone imbalance, and anaemia."
+      },
+      {
+        "q": "Is the Hair Loss & Hormonal Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Hair Loss & Hormonal Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-ASK",
@@ -1001,7 +1485,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Autoimmune Skin Panel package near me in Bangalore?",
+        "a": "Yes - the Autoimmune Skin Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Autoimmune Skin Panel package in Bangalore?",
+        "a": "The Autoimmune Skin Panel package costs Rs. 2,249 (down from Rs. 3,455 MRP) for all 5 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Autoimmune Skin Panel package?",
+        "a": "Yes. All 5 tests included in the Autoimmune Skin Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Autoimmune Skin Panel package include?",
+        "a": "For ongoing skin inflammation or blistering that hasn't responded to usual treatment. Screens for underlying autoimmune causes, and is often recommended before starting stronger immune-suppressing treatment."
+      },
+      {
+        "q": "Is the Autoimmune Skin Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Autoimmune Skin Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-AUP",
@@ -1036,7 +1542,29 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the Allergy & Urticaria Panel package near me in Bangalore?",
+        "a": "Yes - the Allergy & Urticaria Panel package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the Allergy & Urticaria Panel package in Bangalore?",
+        "a": "The Allergy & Urticaria Panel package costs Rs. 1,649 (down from Rs. 2,280 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the Allergy & Urticaria Panel package?",
+        "a": "Yes. All 4 tests included in the Allergy & Urticaria Panel package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the Allergy & Urticaria Panel package include?",
+        "a": "Recurring hives, eczema, or itching with no obvious trigger? This panel checks your allergy markers and inflammation levels, and rules out a parasitic cause, helping your doctor get to the root of it."
+      },
+      {
+        "q": "Is the Allergy & Urticaria Panel package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the Allergy & Urticaria Panel package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   },
   {
     "id": "PKG-STI",
@@ -1071,6 +1599,28 @@
       }
     ],
     "needsContent": false,
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I book the STI / Infection Screen package near me in Bangalore?",
+        "a": "Yes - the STI / Infection Screen package is available for home sample collection across Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. No need to visit a lab; book online and we'll send a phlebotomist to you."
+      },
+      {
+        "q": "What is the price of the STI / Infection Screen package in Bangalore?",
+        "a": "The STI / Infection Screen package costs Rs. 1,599 (down from Rs. 2,780 MRP) for all 4 tests included, with home collection at no extra charge and no advance payment."
+      },
+      {
+        "q": "Is home collection available for the STI / Infection Screen package?",
+        "a": "Yes. All 4 tests included in the STI / Infection Screen package are collected in a single home visit by a trained phlebotomist. Reports are typically ready in 12-24 hours."
+      },
+      {
+        "q": "What does the STI / Infection Screen package include?",
+        "a": "A confidential check for the four infections that matter most after a high-risk exposure or unexplained symptoms. Straightforward, private, and a responsible step for your sexual health."
+      },
+      {
+        "q": "Is the STI / Infection Screen package tested at NABL-accredited labs?",
+        "a": "Yes. Every test in the STI / Infection Screen package is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner."
+      }
+    ]
   }
 ]

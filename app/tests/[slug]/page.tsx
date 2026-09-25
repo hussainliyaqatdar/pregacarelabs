@@ -6,6 +6,7 @@ import PriceTag from "@/components/PriceTag";
 import AddToCartButton from "@/components/AddToCartButton";
 import TestCard from "@/components/TestCard";
 import PackageCard from "@/components/PackageCard";
+import ProductFaqSection from "@/components/ProductFaqSection";
 import { SITE_URL } from "@/lib/site-config";
 
 export function generateStaticParams() {
@@ -99,6 +100,8 @@ export default function TestPage({ params }: { params: { slug: string } }) {
           </div>
         </section>
       )}
+
+      {test.faqs && test.faqs.length > 0 && <ProductFaqSection faqs={test.faqs} />}
     </div>
   );
 }

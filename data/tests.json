@@ -19,7 +19,29 @@
     "category": "Thyroid",
     "sampleType": "Blood",
     "description": "Checks how well your thyroid is working by measuring TSH, the hormone that controls it. It's usually the first test doctors order for fatigue, weight changes, hair loss, or a racing heart - and it's sensitive enough to catch even small imbalances.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Thyroid Stimulating Hormone (TSH) test near me in Bangalore?",
+        "a": "Yes - Thyroid Stimulating Hormone (TSH) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Thyroid Stimulating Hormone (TSH) test price in Bangalore?",
+        "a": "Thyroid Stimulating Hormone (TSH) costs Rs. 380 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Thyroid Stimulating Hormone (TSH)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Thyroid Stimulating Hormone (TSH), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Thyroid Stimulating Hormone (TSH) test mean?",
+        "a": "Checks how well your thyroid is working by measuring TSH, the hormone that controls it. It's usually the first test doctors order for fatigue, weight changes, hair loss, or a racing heart - and it's sensitive enough to catch even small imbalances."
+      },
+      {
+        "q": "Is Thyroid Stimulating Hormone (TSH) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Thyroid Stimulating Hormone (TSH) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "TPC",
@@ -42,7 +64,29 @@
     "category": "Thyroid",
     "sampleType": "Blood",
     "description": "A simple thyroid check that measures TSH, the hormone that tells your thyroid how hard to work. Good starting point if you're feeling unusually tired, gaining or losing weight, or noticing hair thinning - also used to track thyroid medication.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Thyroid Function Test (T3,T4,TSH) test near me in Bangalore?",
+        "a": "Yes - Thyroid Function Test (T3,T4,TSH) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Thyroid Function Test (T3,T4,TSH) test price in Bangalore?",
+        "a": "Thyroid Function Test (T3,T4,TSH) costs Rs. 580 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Thyroid Function Test (T3,T4,TSH)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Thyroid Function Test (T3,T4,TSH), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Thyroid Function Test (T3,T4,TSH) test mean?",
+        "a": "A simple thyroid check that measures TSH, the hormone that tells your thyroid how hard to work. Good starting point if you're feeling unusually tired, gaining or losing weight, or noticing hair thinning - also used to track thyroid medication."
+      },
+      {
+        "q": "Is Thyroid Function Test (T3,T4,TSH) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Thyroid Function Test (T3,T4,TSH) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1499",
@@ -65,7 +109,29 @@
     "category": "Thyroid",
     "sampleType": "Blood",
     "description": "A complete look at your thyroid, covering all three key hormones (T3, T4, TSH) in one draw. Gives your doctor a fuller picture than a single number, helping pin down whether your thyroid is overactive or underactive.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Free Thyroid Profile (FT3, FT4, TSH) test near me in Bangalore?",
+        "a": "Yes - Free Thyroid Profile (FT3, FT4, TSH) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Free Thyroid Profile (FT3, FT4, TSH) test price in Bangalore?",
+        "a": "Free Thyroid Profile (FT3, FT4, TSH) costs Rs. 1,050 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Free Thyroid Profile (FT3, FT4, TSH)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Free Thyroid Profile (FT3, FT4, TSH), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Free Thyroid Profile (FT3, FT4, TSH) test mean?",
+        "a": "A complete look at your thyroid, covering all three key hormones (T3, T4, TSH) in one draw. Gives your doctor a fuller picture than a single number, helping pin down whether your thyroid is overactive or underactive."
+      },
+      {
+        "q": "Is Free Thyroid Profile (FT3, FT4, TSH) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Free Thyroid Profile (FT3, FT4, TSH) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3228",
@@ -87,7 +153,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Measures the active thyroid hormone T4 in your blood. Paired with TSH, it helps confirm whether your thyroid is producing too much or too little hormone, and is often used to fine-tune thyroid medicine doses.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Free T4 Test (Thyroxine) test near me in Bangalore?",
+        "a": "Yes - Free T4 Test (Thyroxine) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Free T4 Test (Thyroxine) test price in Bangalore?",
+        "a": "Free T4 Test (Thyroxine) costs Rs. 500 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Free T4 Test (Thyroxine)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Free T4 Test (Thyroxine), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Free T4 Test (Thyroxine) test mean?",
+        "a": "Measures the active thyroid hormone T4 in your blood. Paired with TSH, it helps confirm whether your thyroid is producing too much or too little hormone, and is often used to fine-tune thyroid medicine doses."
+      },
+      {
+        "q": "Is Free T4 Test (Thyroxine) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Free T4 Test (Thyroxine) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3234",
@@ -109,7 +197,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Measures T3, the most active form of thyroid hormone. Doctors order this when other thyroid results are unclear, or to catch an overactive thyroid early - T3 often rises before other markers do.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Free T3 Test (Triiodothyronine) test near me in Bangalore?",
+        "a": "Yes - Free T3 Test (Triiodothyronine) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Free T3 Test (Triiodothyronine) test price in Bangalore?",
+        "a": "Free T3 Test (Triiodothyronine) costs Rs. 500 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Free T3 Test (Triiodothyronine)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Free T3 Test (Triiodothyronine), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Free T3 Test (Triiodothyronine) test mean?",
+        "a": "Measures T3, the most active form of thyroid hormone. Doctors order this when other thyroid results are unclear, or to catch an overactive thyroid early - T3 often rises before other markers do."
+      },
+      {
+        "q": "Is Free T3 Test (Triiodothyronine) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Free T3 Test (Triiodothyronine) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3180",
@@ -133,7 +243,29 @@
     "category": "Diabetes & Metabolic",
     "sampleType": "Blood",
     "description": "Your 3-month blood sugar report card, in one test. Instead of a single day's reading, it shows how well your sugar has been controlled over the last few months - the main test used to diagnose and monitor diabetes.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a HbA1c Test (3-Month Average Blood Sugar) test near me in Bangalore?",
+        "a": "Yes - HbA1c Test (3-Month Average Blood Sugar) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the HbA1c Test (3-Month Average Blood Sugar) test price in Bangalore?",
+        "a": "HbA1c Test (3-Month Average Blood Sugar) costs Rs. 600 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for HbA1c Test (3-Month Average Blood Sugar)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for HbA1c Test (3-Month Average Blood Sugar), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the HbA1c Test (3-Month Average Blood Sugar) test mean?",
+        "a": "Your 3-month blood sugar report card, in one test. Instead of a single day's reading, it shows how well your sugar has been controlled over the last few months - the main test used to diagnose and monitor diabetes."
+      },
+      {
+        "q": "Is HbA1c Test (3-Month Average Blood Sugar) tested at an NABL-accredited lab?",
+        "a": "Yes. Every HbA1c Test (3-Month Average Blood Sugar) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3192",
@@ -154,7 +286,29 @@
     "category": "Diabetes & Metabolic",
     "sampleType": "Blood",
     "description": "Checks how much insulin your body needs to keep blood sugar normal. High levels can be an early sign of insulin resistance, often seen in PCOS or pre-diabetes, well before blood sugar itself looks abnormal.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Fasting Insulin Test test near me in Bangalore?",
+        "a": "Yes - Fasting Insulin Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Fasting Insulin Test test price in Bangalore?",
+        "a": "Fasting Insulin Test costs Rs. 1,050 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Fasting Insulin Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Fasting Insulin Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Fasting Insulin Test test mean?",
+        "a": "Checks how much insulin your body needs to keep blood sugar normal. High levels can be an early sign of insulin resistance, often seen in PCOS or pre-diabetes, well before blood sugar itself looks abnormal."
+      },
+      {
+        "q": "Is Fasting Insulin Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Fasting Insulin Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5111",
@@ -177,7 +331,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "One of the most useful all-round blood tests. It checks your red cells, white cells, and platelets for signs of anaemia, infection, or bleeding issues, while ESR flags any hidden inflammation in the body.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Complete Blood Count with ESR (CBC + ESR) test near me in Bangalore?",
+        "a": "Yes - Complete Blood Count with ESR (CBC + ESR) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Complete Blood Count with ESR (CBC + ESR) test price in Bangalore?",
+        "a": "Complete Blood Count with ESR (CBC + ESR) costs Rs. 500 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Complete Blood Count with ESR (CBC + ESR)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Complete Blood Count with ESR (CBC + ESR), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Complete Blood Count with ESR (CBC + ESR) test mean?",
+        "a": "One of the most useful all-round blood tests. It checks your red cells, white cells, and platelets for signs of anaemia, infection, or bleeding issues, while ESR flags any hidden inflammation in the body."
+      },
+      {
+        "q": "Is Complete Blood Count with ESR (CBC + ESR) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Complete Blood Count with ESR (CBC + ESR) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5110G",
@@ -202,7 +378,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "A detailed count of your blood's red cells, white cells, and platelets. It's often the very first test in any checkup, giving a quick read on anaemia, infection risk, and overall blood health.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Complete Blood Count (CBC) test near me in Bangalore?",
+        "a": "Yes - Complete Blood Count (CBC) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Complete Blood Count (CBC) test price in Bangalore?",
+        "a": "Complete Blood Count (CBC) costs Rs. 400 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Complete Blood Count (CBC)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Complete Blood Count (CBC), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Complete Blood Count (CBC) test mean?",
+        "a": "A detailed count of your blood's red cells, white cells, and platelets. It's often the very first test in any checkup, giving a quick read on anaemia, infection risk, and overall blood health."
+      },
+      {
+        "q": "Is Complete Blood Count (CBC) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Complete Blood Count (CBC) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5112DR",
@@ -226,7 +424,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "A precise check of haemoglobin, the protein that carries oxygen in your blood. Low levels point to anaemia, which is why this is routinely checked for tiredness, pale skin, and during pregnancy.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Hemoglobin (Hb) Test test near me in Bangalore?",
+        "a": "Yes - Hemoglobin (Hb) Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Hemoglobin (Hb) Test test price in Bangalore?",
+        "a": "Hemoglobin (Hb) Test costs Rs. 130 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Hemoglobin (Hb) Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Hemoglobin (Hb) Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Hemoglobin (Hb) Test test mean?",
+        "a": "A precise check of haemoglobin, the protein that carries oxygen in your blood. Low levels point to anaemia, which is why this is routinely checked for tiredness, pale skin, and during pregnancy."
+      },
+      {
+        "q": "Is Hemoglobin (Hb) Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Hemoglobin (Hb) Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3834",
@@ -248,7 +468,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "Screens for inherited blood conditions like thalassaemia or sickle cell trait. Commonly recommended before marriage or pregnancy, or when a routine blood count shows anaemia that doesn't have an obvious cause.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Hemoglobin Variant Analysis (Thalassemia Screening) test near me in Bangalore?",
+        "a": "Yes - Hemoglobin Variant Analysis (Thalassemia Screening) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Hemoglobin Variant Analysis (Thalassemia Screening) test price in Bangalore?",
+        "a": "Hemoglobin Variant Analysis (Thalassemia Screening) costs Rs. 1,200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Hemoglobin Variant Analysis (Thalassemia Screening)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Hemoglobin Variant Analysis (Thalassemia Screening), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Hemoglobin Variant Analysis (Thalassemia Screening) test mean?",
+        "a": "Screens for inherited blood conditions like thalassaemia or sickle cell trait. Commonly recommended before marriage or pregnancy, or when a routine blood count shows anaemia that doesn't have an obvious cause."
+      },
+      {
+        "q": "Is Hemoglobin Variant Analysis (Thalassemia Screening) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Hemoglobin Variant Analysis (Thalassemia Screening) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3533HD",
@@ -271,7 +513,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "Digs deeper into low haemoglobin by checking your iron levels and how well your blood carries iron. Helps your doctor confirm whether tiredness or paleness is really down to iron-deficiency anaemia.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Iron Studies (Iron & TIBC) test near me in Bangalore?",
+        "a": "Yes - Iron Studies (Iron & TIBC) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Iron Studies (Iron & TIBC) test price in Bangalore?",
+        "a": "Iron Studies (Iron & TIBC) costs Rs. 550 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Iron Studies (Iron & TIBC)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Iron Studies (Iron & TIBC), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Iron Studies (Iron & TIBC) test mean?",
+        "a": "Digs deeper into low haemoglobin by checking your iron levels and how well your blood carries iron. Helps your doctor confirm whether tiredness or paleness is really down to iron-deficiency anaemia."
+      },
+      {
+        "q": "Is Iron Studies (Iron & TIBC) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Iron Studies (Iron & TIBC) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5100",
@@ -294,7 +558,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Confirms your blood group (A, B, AB, O) and Rh factor. Essential to have on record before surgery or a transfusion, during pregnancy, and simply useful to know for emergencies.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Blood Group Test (ABO & Rh) test near me in Bangalore?",
+        "a": "Yes - Blood Group Test (ABO & Rh) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Blood Group Test (ABO & Rh) test price in Bangalore?",
+        "a": "Blood Group Test (ABO & Rh) costs Rs. 200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Blood Group Test (ABO & Rh)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Blood Group Test (ABO & Rh), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Blood Group Test (ABO & Rh) test mean?",
+        "a": "Confirms your blood group (A, B, AB, O) and Rh factor. Essential to have on record before surgery or a transfusion, during pregnancy, and simply useful to know for emergencies."
+      },
+      {
+        "q": "Is Blood Group Test (ABO & Rh) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Blood Group Test (ABO & Rh) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5160",
@@ -316,7 +602,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "Counts platelets, the cells that help your blood clot. Too few can mean easy bruising or bleeding; too many can signal inflammation. Often checked alongside a full blood count.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Platelet Count Test test near me in Bangalore?",
+        "a": "Yes - Platelet Count Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Platelet Count Test test price in Bangalore?",
+        "a": "Platelet Count Test costs Rs. 200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Platelet Count Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Platelet Count Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Platelet Count Test test mean?",
+        "a": "Counts platelets, the cells that help your blood clot. Too few can mean easy bruising or bleeding; too many can signal inflammation. Often checked alongside a full blood count."
+      },
+      {
+        "q": "Is Platelet Count Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Platelet Count Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1569B",
@@ -337,7 +645,29 @@
     "category": "Blood & Anaemia",
     "sampleType": "Blood",
     "description": "A simple way to check for inflammation anywhere in the body. A raised ESR can point to infection or an inflammatory condition, and is often tracked over time to see if treatment is working.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a ESR Test (Erythrocyte Sedimentation Rate) test near me in Bangalore?",
+        "a": "Yes - ESR Test (Erythrocyte Sedimentation Rate) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the ESR Test (Erythrocyte Sedimentation Rate) test price in Bangalore?",
+        "a": "ESR Test (Erythrocyte Sedimentation Rate) costs Rs. 150 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for ESR Test (Erythrocyte Sedimentation Rate)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for ESR Test (Erythrocyte Sedimentation Rate), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the ESR Test (Erythrocyte Sedimentation Rate) test mean?",
+        "a": "A simple way to check for inflammation anywhere in the body. A raised ESR can point to infection or an inflammatory condition, and is often tracked over time to see if treatment is working."
+      },
+      {
+        "q": "Is ESR Test (Erythrocyte Sedimentation Rate) tested at an NABL-accredited lab?",
+        "a": "Yes. Every ESR Test (Erythrocyte Sedimentation Rate) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1388",
@@ -360,7 +690,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "A snapshot of how well your liver is coping - checking key enzymes, proteins, and bilirubin. Ordered for fatigue, jaundice, alcohol use, or simply as part of a routine or pre-surgery health check.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Liver Function Test (LFT) test near me in Bangalore?",
+        "a": "Yes - Liver Function Test (LFT) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Liver Function Test (LFT) test price in Bangalore?",
+        "a": "Liver Function Test (LFT) costs Rs. 900 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Liver Function Test (LFT)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Liver Function Test (LFT), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Liver Function Test (LFT) test mean?",
+        "a": "A snapshot of how well your liver is coping - checking key enzymes, proteins, and bilirubin. Ordered for fatigue, jaundice, alcohol use, or simply as part of a routine or pre-surgery health check."
+      },
+      {
+        "q": "Is Liver Function Test (LFT) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Liver Function Test (LFT) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1527H",
@@ -381,7 +733,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "Measures bilirubin, the pigment behind jaundice. Helps your doctor work out whether yellowing of the skin or eyes is coming from the liver, a blockage, or faster breakdown of red blood cells.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Bilirubin Test (Total, Direct & Indirect) test near me in Bangalore?",
+        "a": "Yes - Bilirubin Test (Total, Direct & Indirect) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Bilirubin Test (Total, Direct & Indirect) test price in Bangalore?",
+        "a": "Bilirubin Test (Total, Direct & Indirect) costs Rs. 330 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Bilirubin Test (Total, Direct & Indirect)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Bilirubin Test (Total, Direct & Indirect), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Bilirubin Test (Total, Direct & Indirect) test mean?",
+        "a": "Measures bilirubin, the pigment behind jaundice. Helps your doctor work out whether yellowing of the skin or eyes is coming from the liver, a blockage, or faster breakdown of red blood cells."
+      },
+      {
+        "q": "Is Bilirubin Test (Total, Direct & Indirect) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Bilirubin Test (Total, Direct & Indirect) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1347H",
@@ -404,7 +778,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "One of the earliest warning signs of liver stress. ALT rises when liver cells are irritated or damaged - commonly from fatty liver, alcohol, viral hepatitis, or certain medicines.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a SGPT / ALT Test (Liver Enzyme) test near me in Bangalore?",
+        "a": "Yes - SGPT / ALT Test (Liver Enzyme) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the SGPT / ALT Test (Liver Enzyme) test price in Bangalore?",
+        "a": "SGPT / ALT Test (Liver Enzyme) costs Rs. 220 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for SGPT / ALT Test (Liver Enzyme)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for SGPT / ALT Test (Liver Enzyme), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the SGPT / ALT Test (Liver Enzyme) test mean?",
+        "a": "One of the earliest warning signs of liver stress. ALT rises when liver cells are irritated or damaged - commonly from fatty liver, alcohol, viral hepatitis, or certain medicines."
+      },
+      {
+        "q": "Is SGPT / ALT Test (Liver Enzyme) tested at an NABL-accredited lab?",
+        "a": "Yes. Every SGPT / ALT Test (Liver Enzyme) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1345H",
@@ -426,7 +822,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "Found in the liver, heart, and muscles - so a raised AST, especially alongside ALT, points to liver strain, while paired with heart markers it can flag muscle or heart issues.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a SGOT / AST Test (Liver Enzyme) test near me in Bangalore?",
+        "a": "Yes - SGOT / AST Test (Liver Enzyme) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the SGOT / AST Test (Liver Enzyme) test price in Bangalore?",
+        "a": "SGOT / AST Test (Liver Enzyme) costs Rs. 220 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for SGOT / AST Test (Liver Enzyme)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for SGOT / AST Test (Liver Enzyme), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the SGOT / AST Test (Liver Enzyme) test mean?",
+        "a": "Found in the liver, heart, and muscles - so a raised AST, especially alongside ALT, points to liver strain, while paired with heart markers it can flag muscle or heart issues."
+      },
+      {
+        "q": "Is SGOT / AST Test (Liver Enzyme) tested at an NABL-accredited lab?",
+        "a": "Yes. Every SGOT / AST Test (Liver Enzyme) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1526H",
@@ -446,7 +864,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "A closer look at the bilirubin your liver has already processed. When this specific type is high, it usually means bile flow from the liver is blocked somewhere.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Direct Bilirubin Test test near me in Bangalore?",
+        "a": "Yes - Direct Bilirubin Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Direct Bilirubin Test test price in Bangalore?",
+        "a": "Direct Bilirubin Test costs Rs. 200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Direct Bilirubin Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Direct Bilirubin Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Direct Bilirubin Test test mean?",
+        "a": "A closer look at the bilirubin your liver has already processed. When this specific type is high, it usually means bile flow from the liver is blocked somewhere."
+      },
+      {
+        "q": "Is Direct Bilirubin Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Direct Bilirubin Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1342",
@@ -470,7 +910,29 @@
     "category": "Kidney Health",
     "sampleType": "Blood",
     "description": "Checks how efficiently your kidneys filter waste from your blood. A routine test for anyone with high blood pressure, diabetes, unexplained swelling, or simply as part of an annual health check.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Kidney Function Test (KFT) test near me in Bangalore?",
+        "a": "Yes - Kidney Function Test (KFT) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Kidney Function Test (KFT) test price in Bangalore?",
+        "a": "Kidney Function Test (KFT) costs Rs. 1,000 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Kidney Function Test (KFT)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Kidney Function Test (KFT), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Kidney Function Test (KFT) test mean?",
+        "a": "Checks how efficiently your kidneys filter waste from your blood. A routine test for anyone with high blood pressure, diabetes, unexplained swelling, or simply as part of an annual health check."
+      },
+      {
+        "q": "Is Kidney Function Test (KFT) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Kidney Function Test (KFT) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1285CS",
@@ -493,7 +955,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "Grows any bacteria in your urine sample to confirm a urinary infection and show exactly which antibiotics will clear it. The go-to test for burning, urgency, fever, or repeat UTIs.",
-    "eta": "2-3 days"
+    "eta": "2-3 days",
+    "faqs": [
+      {
+        "q": "Can I get a Urine Culture & Sensitivity Test test near me in Bangalore?",
+        "a": "Yes - Urine Culture & Sensitivity Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Urine Culture & Sensitivity Test test price in Bangalore?",
+        "a": "Urine Culture & Sensitivity Test costs Rs. 950 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Urine Culture & Sensitivity Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Urine Culture & Sensitivity Test, using a fully equipped, professional collection kit. Reports are typically ready in 2-3 days and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Urine Culture & Sensitivity Test test mean?",
+        "a": "Grows any bacteria in your urine sample to confirm a urinary infection and show exactly which antibiotics will clear it. The go-to test for burning, urgency, fever, or repeat UTIs."
+      },
+      {
+        "q": "Is Urine Culture & Sensitivity Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Urine Culture & Sensitivity Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1568HD",
@@ -515,7 +999,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Checks sodium, potassium, and chloride - the minerals that keep your muscles, nerves, and fluid balance running smoothly. Ordered for dehydration, fatigue, muscle weakness, or to monitor certain medications.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Electrolytes Test (Sodium, Potassium, Chloride) test near me in Bangalore?",
+        "a": "Yes - Electrolytes Test (Sodium, Potassium, Chloride) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Electrolytes Test (Sodium, Potassium, Chloride) test price in Bangalore?",
+        "a": "Electrolytes Test (Sodium, Potassium, Chloride) costs Rs. 550 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Electrolytes Test (Sodium, Potassium, Chloride)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Electrolytes Test (Sodium, Potassium, Chloride), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Electrolytes Test (Sodium, Potassium, Chloride) test mean?",
+        "a": "Checks sodium, potassium, and chloride - the minerals that keep your muscles, nerves, and fluid balance running smoothly. Ordered for dehydration, fatigue, muscle weakness, or to monitor certain medications."
+      },
+      {
+        "q": "Is Electrolytes Test (Sodium, Potassium, Chloride) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Electrolytes Test (Sodium, Potassium, Chloride) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1079H",
@@ -536,7 +1042,29 @@
     "category": "Kidney Health",
     "sampleType": "Blood",
     "description": "Measures a waste product your kidneys filter out. Used alongside creatinine to check kidney function and hydration, and to keep an eye on patients with kidney disease.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Blood Urea Nitrogen (BUN) Test test near me in Bangalore?",
+        "a": "Yes - Blood Urea Nitrogen (BUN) Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Blood Urea Nitrogen (BUN) Test test price in Bangalore?",
+        "a": "Blood Urea Nitrogen (BUN) Test costs Rs. 255 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Blood Urea Nitrogen (BUN) Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Blood Urea Nitrogen (BUN) Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Blood Urea Nitrogen (BUN) Test test mean?",
+        "a": "Measures a waste product your kidneys filter out. Used alongside creatinine to check kidney function and hydration, and to keep an eye on patients with kidney disease."
+      },
+      {
+        "q": "Is Blood Urea Nitrogen (BUN) Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Blood Urea Nitrogen (BUN) Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5200U",
@@ -561,7 +1089,29 @@
     "category": "Urine Tests",
     "sampleType": "Blood",
     "description": "A quick, routine check of your urine for sugar, protein, blood, and infection. Picks up urinary infections, early kidney issues, diabetes, and dehydration - a standard part of most health checkups.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Urine Routine Test (Urinalysis) test near me in Bangalore?",
+        "a": "Yes - Urine Routine Test (Urinalysis) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Urine Routine Test (Urinalysis) test price in Bangalore?",
+        "a": "Urine Routine Test (Urinalysis) costs Rs. 200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Urine Routine Test (Urinalysis)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Urine Routine Test (Urinalysis), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Urine Routine Test (Urinalysis) test mean?",
+        "a": "A quick, routine check of your urine for sugar, protein, blood, and infection. Picks up urinary infections, early kidney issues, diabetes, and dehydration - a standard part of most health checkups."
+      },
+      {
+        "q": "Is Urine Routine Test (Urinalysis) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Urine Routine Test (Urinalysis) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "4836H",
@@ -581,7 +1131,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Checks calcium, essential for strong bones, working muscles, and healthy nerves. An abnormal result can point to a bone, kidney, thyroid, or nutrition-related issue worth investigating.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Calcium Test test near me in Bangalore?",
+        "a": "Yes - Calcium Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Calcium Test test price in Bangalore?",
+        "a": "Calcium Test costs Rs. 255 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Calcium Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Calcium Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Calcium Test test mean?",
+        "a": "Checks calcium, essential for strong bones, working muscles, and healthy nerves. An abnormal result can point to a bone, kidney, thyroid, or nutrition-related issue worth investigating."
+      },
+      {
+        "q": "Is Calcium Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Calcium Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1320H",
@@ -602,7 +1174,29 @@
     "category": "Kidney Health",
     "sampleType": "Blood",
     "description": "The single most-used marker of kidney health. Produced by your muscles and filtered out by the kidneys, it's checked routinely in diabetes, high blood pressure, and before surgery.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Serum Creatinine Test test near me in Bangalore?",
+        "a": "Yes - Serum Creatinine Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Serum Creatinine Test test price in Bangalore?",
+        "a": "Serum Creatinine Test costs Rs. 230 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Serum Creatinine Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Serum Creatinine Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Serum Creatinine Test test mean?",
+        "a": "The single most-used marker of kidney health. Produced by your muscles and filtered out by the kidneys, it's checked routinely in diabetes, high blood pressure, and before surgery."
+      },
+      {
+        "q": "Is Serum Creatinine Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Serum Creatinine Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1209AD",
@@ -625,7 +1219,29 @@
     "category": "Heart Health",
     "sampleType": "Blood",
     "description": "Your full cholesterol picture in one test - total cholesterol, 'good' HDL, 'bad' LDL, and triglycerides. Shows your heart disease risk and how well diet, exercise, or medication are working for you.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Lipid Profile (Cholesterol Test) test near me in Bangalore?",
+        "a": "Yes - Lipid Profile (Cholesterol Test) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Lipid Profile (Cholesterol Test) test price in Bangalore?",
+        "a": "Lipid Profile (Cholesterol Test) costs Rs. 650 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Lipid Profile (Cholesterol Test)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Lipid Profile (Cholesterol Test), using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Lipid Profile (Cholesterol Test) test mean?",
+        "a": "Your full cholesterol picture in one test - total cholesterol, 'good' HDL, 'bad' LDL, and triglycerides. Shows your heart disease risk and how well diet, exercise, or medication are working for you."
+      },
+      {
+        "q": "Is Lipid Profile (Cholesterol Test) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Lipid Profile (Cholesterol Test) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3344",
@@ -646,7 +1262,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "A cardiovascular risk marker that often rises when Vitamin B12 or folate are low. Frequently checked as part of a heart-health workup or when investigating repeated pregnancy loss.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Homocysteine Test test near me in Bangalore?",
+        "a": "Yes - Homocysteine Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Homocysteine Test test price in Bangalore?",
+        "a": "Homocysteine Test costs Rs. 1,400 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Homocysteine Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Homocysteine Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Homocysteine Test test mean?",
+        "a": "A cardiovascular risk marker that often rises when Vitamin B12 or folate are low. Frequently checked as part of a heart-health workup or when investigating repeated pregnancy loss."
+      },
+      {
+        "q": "Is Homocysteine Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Homocysteine Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3346HD",
@@ -667,7 +1305,29 @@
     "category": "Heart Health",
     "sampleType": "Blood",
     "description": "Measures a type of fat in your blood that's closely tied to diet, weight, and sugar control. High levels raise your risk of heart disease and, at very high levels, pancreatitis.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Triglycerides Test test near me in Bangalore?",
+        "a": "Yes - Triglycerides Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Triglycerides Test test price in Bangalore?",
+        "a": "Triglycerides Test costs Rs. 330 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Triglycerides Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Triglycerides Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Triglycerides Test test mean?",
+        "a": "Measures a type of fat in your blood that's closely tied to diet, weight, and sugar control. High levels raise your risk of heart disease and, at very high levels, pancreatitis."
+      },
+      {
+        "q": "Is Triglycerides Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Triglycerides Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3350HD",
@@ -687,7 +1347,29 @@
     "category": "Heart Health",
     "sampleType": "Blood",
     "description": "A quick read on your total cholesterol, one of the clearest indicators of heart disease risk. Usually looked at alongside HDL, LDL, and triglycerides for the complete picture.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Total Cholesterol Test test near me in Bangalore?",
+        "a": "Yes - Total Cholesterol Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Total Cholesterol Test test price in Bangalore?",
+        "a": "Total Cholesterol Test costs Rs. 210 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Total Cholesterol Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Total Cholesterol Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Total Cholesterol Test test mean?",
+        "a": "A quick read on your total cholesterol, one of the clearest indicators of heart disease risk. Usually looked at alongside HDL, LDL, and triglycerides for the complete picture."
+      },
+      {
+        "q": "Is Total Cholesterol Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Total Cholesterol Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "2021",
@@ -709,7 +1391,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "Three key hormones checked together to understand irregular periods, fertility concerns, or possible pituitary issues. A useful first step in any hormonal health workup.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Fertility Hormone Panel (LH, FSH, Prolactin) test near me in Bangalore?",
+        "a": "Yes - Fertility Hormone Panel (LH, FSH, Prolactin) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Fertility Hormone Panel (LH, FSH, Prolactin) test price in Bangalore?",
+        "a": "Fertility Hormone Panel (LH, FSH, Prolactin) costs Rs. 1,700 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Fertility Hormone Panel (LH, FSH, Prolactin)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Fertility Hormone Panel (LH, FSH, Prolactin), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Fertility Hormone Panel (LH, FSH, Prolactin) test mean?",
+        "a": "Three key hormones checked together to understand irregular periods, fertility concerns, or possible pituitary issues. A useful first step in any hormonal health workup."
+      },
+      {
+        "q": "Is Fertility Hormone Panel (LH, FSH, Prolactin) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Fertility Hormone Panel (LH, FSH, Prolactin) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1705R",
@@ -733,7 +1437,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "Gives a good estimate of your remaining egg supply (ovarian reserve). Widely used in fertility planning and assessment, and to help diagnose conditions like PCOS.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a AMH / MIS Test (Ovarian Reserve) test near me in Bangalore?",
+        "a": "Yes - AMH / MIS Test (Ovarian Reserve) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the AMH / MIS Test (Ovarian Reserve) test price in Bangalore?",
+        "a": "AMH / MIS Test (Ovarian Reserve) costs Rs. 2,300 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for AMH / MIS Test (Ovarian Reserve)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for AMH / MIS Test (Ovarian Reserve), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the AMH / MIS Test (Ovarian Reserve) test mean?",
+        "a": "Gives a good estimate of your remaining egg supply (ovarian reserve). Widely used in fertility planning and assessment, and to help diagnose conditions like PCOS."
+      },
+      {
+        "q": "Is AMH / MIS Test (Ovarian Reserve) tested at an NABL-accredited lab?",
+        "a": "Yes. Every AMH / MIS Test (Ovarian Reserve) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3198",
@@ -754,7 +1480,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "The hormone that triggers ovulation in women and supports testosterone production in men. Checked when investigating irregular cycles, infertility, PCOS, or possible menopause.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a LH Test (Luteinizing Hormone) test near me in Bangalore?",
+        "a": "Yes - LH Test (Luteinizing Hormone) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the LH Test (Luteinizing Hormone) test price in Bangalore?",
+        "a": "LH Test (Luteinizing Hormone) costs Rs. 650 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for LH Test (Luteinizing Hormone)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for LH Test (Luteinizing Hormone), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the LH Test (Luteinizing Hormone) test mean?",
+        "a": "The hormone that triggers ovulation in women and supports testosterone production in men. Checked when investigating irregular cycles, infertility, PCOS, or possible menopause."
+      },
+      {
+        "q": "Is LH Test (Luteinizing Hormone) tested at an NABL-accredited lab?",
+        "a": "Yes. Every LH Test (Luteinizing Hormone) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3206",
@@ -774,7 +1522,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "A pituitary hormone that, when raised, can disrupt periods, cause unexpected milk production, or affect fertility. Commonly checked as part of a hormone or fertility workup.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Prolactin Test test near me in Bangalore?",
+        "a": "Yes - Prolactin Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Prolactin Test test price in Bangalore?",
+        "a": "Prolactin Test costs Rs. 650 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Prolactin Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Prolactin Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Prolactin Test test mean?",
+        "a": "A pituitary hormone that, when raised, can disrupt periods, cause unexpected milk production, or affect fertility. Commonly checked as part of a hormone or fertility workup."
+      },
+      {
+        "q": "Is Prolactin Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Prolactin Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3174",
@@ -794,7 +1564,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "Regulates your menstrual cycle and, in men, sperm production. Used to check fertility and ovarian reserve, and is one of the key tests for confirming menopause.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a FSH Test (Follicle Stimulating Hormone) test near me in Bangalore?",
+        "a": "Yes - FSH Test (Follicle Stimulating Hormone) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the FSH Test (Follicle Stimulating Hormone) test price in Bangalore?",
+        "a": "FSH Test (Follicle Stimulating Hormone) costs Rs. 650 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for FSH Test (Follicle Stimulating Hormone)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for FSH Test (Follicle Stimulating Hormone), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the FSH Test (Follicle Stimulating Hormone) test mean?",
+        "a": "Regulates your menstrual cycle and, in men, sperm production. Used to check fertility and ovarian reserve, and is one of the key tests for confirming menopause."
+      },
+      {
+        "q": "Is FSH Test (Follicle Stimulating Hormone) tested at an NABL-accredited lab?",
+        "a": "Yes. Every FSH Test (Follicle Stimulating Hormone) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3155",
@@ -816,7 +1608,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "The main oestrogen hormone in women. Checked to understand irregular periods, fertility, and the menopausal transition, and often used to monitor fertility treatment.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Estradiol Test (E2) test near me in Bangalore?",
+        "a": "Yes - Estradiol Test (E2) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Estradiol Test (E2) test price in Bangalore?",
+        "a": "Estradiol Test (E2) costs Rs. 850 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Estradiol Test (E2)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Estradiol Test (E2), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Estradiol Test (E2) test mean?",
+        "a": "The main oestrogen hormone in women. Checked to understand irregular periods, fertility, and the menopausal transition, and often used to monitor fertility treatment."
+      },
+      {
+        "q": "Is Estradiol Test (E2) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Estradiol Test (E2) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3244",
@@ -836,7 +1650,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "Low levels in men can explain fatigue and low libido; in women, higher-than-normal levels are linked to PCOS, acne, and excess hair growth. A useful hormone-health check for either.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Total Testosterone Test test near me in Bangalore?",
+        "a": "Yes - Total Testosterone Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Total Testosterone Test test price in Bangalore?",
+        "a": "Total Testosterone Test costs Rs. 850 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Total Testosterone Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Total Testosterone Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Total Testosterone Test test mean?",
+        "a": "Low levels in men can explain fatigue and low libido; in women, higher-than-normal levels are linked to PCOS, acne, and excess hair growth. A useful hormone-health check for either."
+      },
+      {
+        "q": "Is Total Testosterone Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Total Testosterone Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3184",
@@ -859,7 +1695,29 @@
     "category": "Hormones & Fertility",
     "sampleType": "Blood",
     "description": "The pregnancy hormone. A blood HCG test confirms pregnancy earlier and more precisely than a home test, helps date it accurately, and is used to monitor certain early pregnancy concerns.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Pregnancy Blood Test (Beta hCG) test near me in Bangalore?",
+        "a": "Yes - Pregnancy Blood Test (Beta hCG) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Pregnancy Blood Test (Beta hCG) test price in Bangalore?",
+        "a": "Pregnancy Blood Test (Beta hCG) costs Rs. 850 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Pregnancy Blood Test (Beta hCG)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Pregnancy Blood Test (Beta hCG), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Pregnancy Blood Test (Beta hCG) test mean?",
+        "a": "The pregnancy hormone. A blood HCG test confirms pregnancy earlier and more precisely than a home test, helps date it accurately, and is used to monitor certain early pregnancy concerns."
+      },
+      {
+        "q": "Is Pregnancy Blood Test (Beta hCG) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Pregnancy Blood Test (Beta hCG) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1268",
@@ -883,7 +1741,29 @@
     "category": "Pregnancy Care",
     "sampleType": "Blood",
     "description": "A first-trimester screen (weeks 11-13) that estimates the likelihood of chromosomal conditions like Down syndrome. It's a risk screen, not a diagnosis, and is usually paired with an ultrasound for a fuller picture.",
-    "eta": "2-3 days"
+    "eta": "2-3 days",
+    "faqs": [
+      {
+        "q": "Can I get a Double Marker Test (First Trimester Screening) test near me in Bangalore?",
+        "a": "Yes - Double Marker Test (First Trimester Screening) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Double Marker Test (First Trimester Screening) test price in Bangalore?",
+        "a": "Double Marker Test (First Trimester Screening) costs Rs. 2,750 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Double Marker Test (First Trimester Screening)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Double Marker Test (First Trimester Screening), using a fully equipped, professional collection kit. Reports are typically ready in 2-3 days and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Double Marker Test (First Trimester Screening) test mean?",
+        "a": "A first-trimester screen (weeks 11-13) that estimates the likelihood of chromosomal conditions like Down syndrome. It's a risk screen, not a diagnosis, and is usually paired with an ultrasound for a fuller picture."
+      },
+      {
+        "q": "Is Double Marker Test (First Trimester Screening) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Double Marker Test (First Trimester Screening) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1275P",
@@ -906,7 +1786,29 @@
     "category": "Pregnancy Care",
     "sampleType": "Blood",
     "description": "A second-trimester screen (weeks 15-20) that checks the likelihood of chromosomal conditions and neural tube defects. Like the Double Marker test, a high-risk result simply means your doctor may suggest further testing.",
-    "eta": "2-3 days"
+    "eta": "2-3 days",
+    "faqs": [
+      {
+        "q": "Can I get a Quadruple Marker Test (Second Trimester Screening) test near me in Bangalore?",
+        "a": "Yes - Quadruple Marker Test (Second Trimester Screening) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Quadruple Marker Test (Second Trimester Screening) test price in Bangalore?",
+        "a": "Quadruple Marker Test (Second Trimester Screening) costs Rs. 4,200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Quadruple Marker Test (Second Trimester Screening)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Quadruple Marker Test (Second Trimester Screening), using a fully equipped, professional collection kit. Reports are typically ready in 2-3 days and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Quadruple Marker Test (Second Trimester Screening) test mean?",
+        "a": "A second-trimester screen (weeks 15-20) that checks the likelihood of chromosomal conditions and neural tube defects. Like the Double Marker test, a high-risk result simply means your doctor may suggest further testing."
+      },
+      {
+        "q": "Is Quadruple Marker Test (Second Trimester Screening) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Quadruple Marker Test (Second Trimester Screening) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "9901M",
@@ -929,7 +1831,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "Checks for current or past infections - Toxoplasma, Rubella, CMV, Herpes - that can affect a pregnancy if picked up at the wrong time. Often recommended before conceiving or after a pregnancy loss.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a TORCH Test (IgG & IgM) - Pregnancy Infection Screen test near me in Bangalore?",
+        "a": "Yes - TORCH Test (IgG & IgM) - Pregnancy Infection Screen is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the TORCH Test (IgG & IgM) - Pregnancy Infection Screen test price in Bangalore?",
+        "a": "TORCH Test (IgG & IgM) - Pregnancy Infection Screen costs Rs. 3,000 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for TORCH Test (IgG & IgM) - Pregnancy Infection Screen?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for TORCH Test (IgG & IgM) - Pregnancy Infection Screen, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the TORCH Test (IgG & IgM) - Pregnancy Infection Screen test mean?",
+        "a": "Checks for current or past infections - Toxoplasma, Rubella, CMV, Herpes - that can affect a pregnancy if picked up at the wrong time. Often recommended before conceiving or after a pregnancy loss."
+      },
+      {
+        "q": "Is TORCH Test (IgG & IgM) - Pregnancy Infection Screen tested at an NABL-accredited lab?",
+        "a": "Yes. Every TORCH Test (IgG & IgM) - Pregnancy Infection Screen sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "9912",
@@ -950,7 +1874,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "Looks for signs of a recent or active infection from the TORCH group of organisms. Ordered when a current infection during pregnancy needs to be ruled in or out.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a TORCH IgM Test (5 Parameters) test near me in Bangalore?",
+        "a": "Yes - TORCH IgM Test (5 Parameters) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the TORCH IgM Test (5 Parameters) test price in Bangalore?",
+        "a": "TORCH IgM Test (5 Parameters) costs Rs. 2,000 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for TORCH IgM Test (5 Parameters)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for TORCH IgM Test (5 Parameters), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the TORCH IgM Test (5 Parameters) test mean?",
+        "a": "Looks for signs of a recent or active infection from the TORCH group of organisms. Ordered when a current infection during pregnancy needs to be ruled in or out."
+      },
+      {
+        "q": "Is TORCH IgM Test (5 Parameters) tested at an NABL-accredited lab?",
+        "a": "Yes. Every TORCH IgM Test (5 Parameters) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "9911M",
@@ -971,7 +1917,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "Checks whether you've already been exposed to (and are now immune to) the TORCH group of infections. Commonly done before trying to conceive, to confirm existing immunity.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a TORCH IgG Test test near me in Bangalore?",
+        "a": "Yes - TORCH IgG Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the TORCH IgG Test test price in Bangalore?",
+        "a": "TORCH IgG Test costs Rs. 1,700 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for TORCH IgG Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for TORCH IgG Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the TORCH IgG Test test mean?",
+        "a": "Checks whether you've already been exposed to (and are now immune to) the TORCH group of infections. Commonly done before trying to conceive, to confirm existing immunity."
+      },
+      {
+        "q": "Is TORCH IgG Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every TORCH IgG Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "2446R",
@@ -993,7 +1961,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "A screening test for Hepatitis C exposure. Recommended if you've had a possible risk exposure, if liver enzyme results are unexpectedly high, or as part of pregnancy and pre-surgery screening.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Hepatitis C Test (HCV Antibodies) test near me in Bangalore?",
+        "a": "Yes - Hepatitis C Test (HCV Antibodies) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Hepatitis C Test (HCV Antibodies) test price in Bangalore?",
+        "a": "Hepatitis C Test (HCV Antibodies) costs Rs. 1,200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Hepatitis C Test (HCV Antibodies)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Hepatitis C Test (HCV Antibodies), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Hepatitis C Test (HCV Antibodies) test mean?",
+        "a": "A screening test for Hepatitis C exposure. Recommended if you've had a possible risk exposure, if liver enzyme results are unexpectedly high, or as part of pregnancy and pre-surgery screening."
+      },
+      {
+        "q": "Is Hepatitis C Test (HCV Antibodies) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Hepatitis C Test (HCV Antibodies) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "9916R",
@@ -1015,7 +2005,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "A confidential, routine screening test for HIV. Commonly included in general health checkups, pre-surgery panels, and pregnancy screening, or simply for peace of mind after a possible exposure.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a HIV Test (HIV 1 & 2 Antibodies) test near me in Bangalore?",
+        "a": "Yes - HIV Test (HIV 1 & 2 Antibodies) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the HIV Test (HIV 1 & 2 Antibodies) test price in Bangalore?",
+        "a": "HIV Test (HIV 1 & 2 Antibodies) costs Rs. 630 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for HIV Test (HIV 1 & 2 Antibodies)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for HIV Test (HIV 1 & 2 Antibodies), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the HIV Test (HIV 1 & 2 Antibodies) test mean?",
+        "a": "A confidential, routine screening test for HIV. Commonly included in general health checkups, pre-surgery panels, and pregnancy screening, or simply for peace of mind after a possible exposure."
+      },
+      {
+        "q": "Is HIV Test (HIV 1 & 2 Antibodies) tested at an NABL-accredited lab?",
+        "a": "Yes. Every HIV Test (HIV 1 & 2 Antibodies) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "2470R",
@@ -1038,7 +2050,29 @@
     "category": "Liver Health",
     "sampleType": "Blood",
     "description": "Checks for an active Hepatitis B infection. Frequently required before surgery and during pregnancy, and a sensible addition to any general liver or health checkup.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Hepatitis B Test (HBsAg) test near me in Bangalore?",
+        "a": "Yes - Hepatitis B Test (HBsAg) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Hepatitis B Test (HBsAg) test price in Bangalore?",
+        "a": "Hepatitis B Test (HBsAg) costs Rs. 550 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Hepatitis B Test (HBsAg)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Hepatitis B Test (HBsAg), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Hepatitis B Test (HBsAg) test mean?",
+        "a": "Checks for an active Hepatitis B infection. Frequently required before surgery and during pregnancy, and a sensible addition to any general liver or health checkup."
+      },
+      {
+        "q": "Is Hepatitis B Test (HBsAg) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Hepatitis B Test (HBsAg) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1657B",
@@ -1056,7 +2090,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Tracks CD4 and related immune cell counts, giving a clear read on immune system strength. Mainly used to monitor HIV-positive patients who are on treatment.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Lymphocyte Subset Enumeration test near me in Bangalore?",
+        "a": "Yes - Lymphocyte Subset Enumeration is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Lymphocyte Subset Enumeration test price in Bangalore?",
+        "a": "Lymphocyte Subset Enumeration costs Rs. 2,800 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Lymphocyte Subset Enumeration?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Lymphocyte Subset Enumeration, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Lymphocyte Subset Enumeration test mean?",
+        "a": "Tracks CD4 and related immune cell counts, giving a clear read on immune system strength. Mainly used to monitor HIV-positive patients who are on treatment."
+      },
+      {
+        "q": "Is Lymphocyte Subset Enumeration tested at an NABL-accredited lab?",
+        "a": "Yes. Every Lymphocyte Subset Enumeration sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "9076",
@@ -1078,7 +2134,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "The standard blood test for suspected typhoid fever. Most useful when fever has lasted a week or more, helping confirm - or rule out - a Salmonella infection.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Widal Test (Typhoid Fever) test near me in Bangalore?",
+        "a": "Yes - Widal Test (Typhoid Fever) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Widal Test (Typhoid Fever) test price in Bangalore?",
+        "a": "Widal Test (Typhoid Fever) costs Rs. 350 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Widal Test (Typhoid Fever)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Widal Test (Typhoid Fever), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Widal Test (Typhoid Fever) test mean?",
+        "a": "The standard blood test for suspected typhoid fever. Most useful when fever has lasted a week or more, helping confirm - or rule out - a Salmonella infection."
+      },
+      {
+        "q": "Is Widal Test (Typhoid Fever) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Widal Test (Typhoid Fever) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "2361",
@@ -1101,7 +2179,29 @@
     "category": "Stool Tests",
     "sampleType": "Blood",
     "description": "Looks under the microscope for intestinal parasites and their eggs in a stool sample. Ordered for ongoing diarrhoea, stomach pain, or unexplained weight loss.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Stool Test for Worms & Parasites (Ova & Parasite) test near me in Bangalore?",
+        "a": "Yes - Stool Test for Worms & Parasites (Ova & Parasite) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Stool Test for Worms & Parasites (Ova & Parasite) test price in Bangalore?",
+        "a": "Stool Test for Worms & Parasites (Ova & Parasite) costs Rs. 180 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Stool Test for Worms & Parasites (Ova & Parasite)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Stool Test for Worms & Parasites (Ova & Parasite), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Stool Test for Worms & Parasites (Ova & Parasite) test mean?",
+        "a": "Looks under the microscope for intestinal parasites and their eggs in a stool sample. Ordered for ongoing diarrhoea, stomach pain, or unexplained weight loss."
+      },
+      {
+        "q": "Is Stool Test for Worms & Parasites (Ova & Parasite) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Stool Test for Worms & Parasites (Ova & Parasite) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "5814B",
@@ -1119,7 +2219,29 @@
     "category": "Infection Screening",
     "sampleType": "Blood",
     "description": "A specialised blood culture your specialist may order to detect certain slower-growing or less common organisms, for a specific suspected infection they're investigating.",
-    "eta": "2-3 days"
+    "eta": "2-3 days",
+    "faqs": [
+      {
+        "q": "Can I get a Blood Lympho Culture test near me in Bangalore?",
+        "a": "Yes - Blood Lympho Culture is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Blood Lympho Culture test price in Bangalore?",
+        "a": "Blood Lympho Culture costs Rs. 3,800 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Blood Lympho Culture?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Blood Lympho Culture, using a fully equipped, professional collection kit. Reports are typically ready in 2-3 days and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Blood Lympho Culture test mean?",
+        "a": "A specialised blood culture your specialist may order to detect certain slower-growing or less common organisms, for a specific suspected infection they're investigating."
+      },
+      {
+        "q": "Is Blood Lympho Culture tested at an NABL-accredited lab?",
+        "a": "Yes. Every Blood Lympho Culture sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1535N",
@@ -1141,7 +2263,29 @@
     "category": "Autoimmune & Inflammation",
     "sampleType": "Blood",
     "description": "A sensitive early-warning marker for inflammation anywhere in the body. A raised CRP supports a diagnosis of infection or inflammatory illness, and helps track whether treatment is working.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a CRP Test (C-Reactive Protein) test near me in Bangalore?",
+        "a": "Yes - CRP Test (C-Reactive Protein) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the CRP Test (C-Reactive Protein) test price in Bangalore?",
+        "a": "CRP Test (C-Reactive Protein) costs Rs. 500 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for CRP Test (C-Reactive Protein)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for CRP Test (C-Reactive Protein), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the CRP Test (C-Reactive Protein) test mean?",
+        "a": "A sensitive early-warning marker for inflammation anywhere in the body. A raised CRP supports a diagnosis of infection or inflammatory illness, and helps track whether treatment is working."
+      },
+      {
+        "q": "Is CRP Test (C-Reactive Protein) tested at an NABL-accredited lab?",
+        "a": "Yes. Every CRP Test (C-Reactive Protein) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "2434",
@@ -1159,7 +2303,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "A specialised molecular test your specialist may use to detect a specific fungal or unusual organism, as part of investigating a particular clinical concern.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Mycoreal test near me in Bangalore?",
+        "a": "Yes - Mycoreal is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Mycoreal test price in Bangalore?",
+        "a": "Mycoreal costs Rs. 2,250 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Mycoreal?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Mycoreal, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Mycoreal test mean?",
+        "a": "A specialised molecular test your specialist may use to detect a specific fungal or unusual organism, as part of investigating a particular clinical concern."
+      },
+      {
+        "q": "Is Mycoreal tested at an NABL-accredited lab?",
+        "a": "Yes. Every Mycoreal sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "8823",
@@ -1183,7 +2349,29 @@
     "category": "Vitamins & Nutrition",
     "sampleType": "Blood",
     "description": "Checks your Vitamin D stores - a deficiency so common in India it's almost the default. Low levels show up as bone pain, muscle weakness, and constant tiredness, and it's an easy, quick fix once caught.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Vitamin D Test (25-OH) test near me in Bangalore?",
+        "a": "Yes - Vitamin D Test (25-OH) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Vitamin D Test (25-OH) test price in Bangalore?",
+        "a": "Vitamin D Test (25-OH) costs Rs. 1,750 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Vitamin D Test (25-OH)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Vitamin D Test (25-OH), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Vitamin D Test (25-OH) test mean?",
+        "a": "Checks your Vitamin D stores - a deficiency so common in India it's almost the default. Low levels show up as bone pain, muscle weakness, and constant tiredness, and it's an easy, quick fix once caught."
+      },
+      {
+        "q": "Is Vitamin D Test (25-OH) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Vitamin D Test (25-OH) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3020",
@@ -1205,7 +2393,29 @@
     "category": "Vitamins & Nutrition",
     "sampleType": "Blood",
     "description": "B12 keeps your nerves and red blood cells healthy - and running low is especially common on a vegetarian or vegan diet. Deficiency shows up as tiredness, tingling, and sometimes anaemia.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Vitamin B12 Test test near me in Bangalore?",
+        "a": "Yes - Vitamin B12 Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Vitamin B12 Test test price in Bangalore?",
+        "a": "Vitamin B12 Test costs Rs. 1,350 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Vitamin B12 Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Vitamin B12 Test, using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Vitamin B12 Test test mean?",
+        "a": "B12 keeps your nerves and red blood cells healthy - and running low is especially common on a vegetarian or vegan diet. Deficiency shows up as tiredness, tingling, and sometimes anaemia."
+      },
+      {
+        "q": "Is Vitamin B12 Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Vitamin B12 Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1328",
@@ -1228,7 +2438,29 @@
     "category": "Autoimmune & Inflammation",
     "sampleType": "Blood",
     "description": "Supports the diagnosis of rheumatoid arthritis and related autoimmune joint conditions. Worth checking if you've had ongoing joint pain, swelling, or stiffness, especially in the mornings.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Rheumatoid Factor Test (RA Factor) test near me in Bangalore?",
+        "a": "Yes - Rheumatoid Factor Test (RA Factor) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Rheumatoid Factor Test (RA Factor) test price in Bangalore?",
+        "a": "Rheumatoid Factor Test (RA Factor) costs Rs. 800 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Rheumatoid Factor Test (RA Factor)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Rheumatoid Factor Test (RA Factor), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Rheumatoid Factor Test (RA Factor) test mean?",
+        "a": "Supports the diagnosis of rheumatoid arthritis and related autoimmune joint conditions. Worth checking if you've had ongoing joint pain, swelling, or stiffness, especially in the mornings."
+      },
+      {
+        "q": "Is Rheumatoid Factor Test (RA Factor) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Rheumatoid Factor Test (RA Factor) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1100",
@@ -1251,7 +2483,29 @@
     "category": "Autoimmune & Inflammation",
     "sampleType": "Blood",
     "description": "A screening test for autoimmune conditions such as lupus. On its own it doesn't confirm a diagnosis - your doctor will read it together with your symptoms and other results.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a ANA Test (Antinuclear Antibody) test near me in Bangalore?",
+        "a": "Yes - ANA Test (Antinuclear Antibody) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the ANA Test (Antinuclear Antibody) test price in Bangalore?",
+        "a": "ANA Test (Antinuclear Antibody) costs Rs. 1,400 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for ANA Test (Antinuclear Antibody)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for ANA Test (Antinuclear Antibody), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the ANA Test (Antinuclear Antibody) test mean?",
+        "a": "A screening test for autoimmune conditions such as lupus. On its own it doesn't confirm a diagnosis - your doctor will read it together with your symptoms and other results."
+      },
+      {
+        "q": "Is ANA Test (Antinuclear Antibody) tested at an NABL-accredited lab?",
+        "a": "Yes. Every ANA Test (Antinuclear Antibody) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1245E",
@@ -1272,7 +2526,29 @@
     "category": "Allergy",
     "sampleType": "Blood",
     "description": "Measures an antibody strongly linked to allergies - think asthma, eczema, or hay fever. A raised level supports an allergic (or sometimes parasitic) explanation for your symptoms.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Total IgE Test (Allergy Marker) test near me in Bangalore?",
+        "a": "Yes - Total IgE Test (Allergy Marker) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Total IgE Test (Allergy Marker) test price in Bangalore?",
+        "a": "Total IgE Test (Allergy Marker) costs Rs. 1,200 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Total IgE Test (Allergy Marker)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Total IgE Test (Allergy Marker), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Total IgE Test (Allergy Marker) test mean?",
+        "a": "Measures an antibody strongly linked to allergies - think asthma, eczema, or hay fever. A raised level supports an allergic (or sometimes parasitic) explanation for your symptoms."
+      },
+      {
+        "q": "Is Total IgE Test (Allergy Marker) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Total IgE Test (Allergy Marker) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1310H",
@@ -1293,7 +2569,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "High uric acid can crystallise in joints (causing gout) or contribute to kidney stones. Worth checking for joint pain and swelling, or to monitor gout treatment over time.",
-    "eta": "6-9 hours"
+    "eta": "6-9 hours",
+    "faqs": [
+      {
+        "q": "Can I get a Uric Acid Test test near me in Bangalore?",
+        "a": "Yes - Uric Acid Test is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Uric Acid Test test price in Bangalore?",
+        "a": "Uric Acid Test costs Rs. 255 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Uric Acid Test?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Uric Acid Test, using a fully equipped, professional collection kit. Reports are typically ready in 6-9 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Uric Acid Test test mean?",
+        "a": "High uric acid can crystallise in joints (causing gout) or contribute to kidney stones. Worth checking for joint pain and swelling, or to monitor gout treatment over time."
+      },
+      {
+        "q": "Is Uric Acid Test tested at an NABL-accredited lab?",
+        "a": "Yes. Every Uric Acid Test sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3892",
@@ -1317,7 +2615,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Shows how quickly your blood clots. Used to assess bleeding risk before surgery, check liver function, and closely monitor anyone on blood-thinning medication.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a PT/INR Test (Blood Clotting Time) test near me in Bangalore?",
+        "a": "Yes - PT/INR Test (Blood Clotting Time) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the PT/INR Test (Blood Clotting Time) test price in Bangalore?",
+        "a": "PT/INR Test (Blood Clotting Time) costs Rs. 450 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for PT/INR Test (Blood Clotting Time)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for PT/INR Test (Blood Clotting Time), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the PT/INR Test (Blood Clotting Time) test mean?",
+        "a": "Shows how quickly your blood clots. Used to assess bleeding risk before surgery, check liver function, and closely monitor anyone on blood-thinning medication."
+      },
+      {
+        "q": "Is PT/INR Test (Blood Clotting Time) tested at an NABL-accredited lab?",
+        "a": "Yes. Every PT/INR Test (Blood Clotting Time) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3895",
@@ -1339,7 +2659,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Checks a different part of your blood's clotting process than PT/INR. The two are usually run together to investigate bleeding or clotting disorders, or ahead of surgery.",
-    "eta": "6-12 hours"
+    "eta": "6-12 hours",
+    "faqs": [
+      {
+        "q": "Can I get a APTT Test (Blood Clotting) test near me in Bangalore?",
+        "a": "Yes - APTT Test (Blood Clotting) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the APTT Test (Blood Clotting) test price in Bangalore?",
+        "a": "APTT Test (Blood Clotting) costs Rs. 465 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for APTT Test (Blood Clotting)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for APTT Test (Blood Clotting), using a fully equipped, professional collection kit. Reports are typically ready in 6-12 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the APTT Test (Blood Clotting) test mean?",
+        "a": "Checks a different part of your blood's clotting process than PT/INR. The two are usually run together to investigate bleeding or clotting disorders, or ahead of surgery."
+      },
+      {
+        "q": "Is APTT Test (Blood Clotting) tested at an NABL-accredited lab?",
+        "a": "Yes. Every APTT Test (Blood Clotting) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3546",
@@ -1361,7 +2703,29 @@
     "category": "Cancer Markers",
     "sampleType": "Blood",
     "description": "A key screening and monitoring test for prostate health in men. A raised result can mean an enlarged prostate, infection, or a reason for further prostate evaluation.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a PSA Test (Prostate Screening) test near me in Bangalore?",
+        "a": "Yes - PSA Test (Prostate Screening) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the PSA Test (Prostate Screening) test price in Bangalore?",
+        "a": "PSA Test (Prostate Screening) costs Rs. 1,050 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for PSA Test (Prostate Screening)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for PSA Test (Prostate Screening), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the PSA Test (Prostate Screening) test mean?",
+        "a": "A key screening and monitoring test for prostate health in men. A raised result can mean an enlarged prostate, infection, or a reason for further prostate evaluation."
+      },
+      {
+        "q": "Is PSA Test (Prostate Screening) tested at an NABL-accredited lab?",
+        "a": "Yes. Every PSA Test (Prostate Screening) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3121",
@@ -1382,7 +2746,29 @@
     "category": "Cancer Markers",
     "sampleType": "Blood",
     "description": "Mainly used to track a known ovarian condition or monitor cancer treatment response - it can also rise for non-cancerous reasons, so results are always read alongside imaging and your symptoms.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a CA 125 Test (Ovarian Cancer Marker) test near me in Bangalore?",
+        "a": "Yes - CA 125 Test (Ovarian Cancer Marker) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the CA 125 Test (Ovarian Cancer Marker) test price in Bangalore?",
+        "a": "CA 125 Test (Ovarian Cancer Marker) costs Rs. 1,550 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for CA 125 Test (Ovarian Cancer Marker)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for CA 125 Test (Ovarian Cancer Marker), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the CA 125 Test (Ovarian Cancer Marker) test mean?",
+        "a": "Mainly used to track a known ovarian condition or monitor cancer treatment response - it can also rise for non-cancerous reasons, so results are always read alongside imaging and your symptoms."
+      },
+      {
+        "q": "Is CA 125 Test (Ovarian Cancer Marker) tested at an NABL-accredited lab?",
+        "a": "Yes. Every CA 125 Test (Ovarian Cancer Marker) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "3109",
@@ -1403,7 +2789,29 @@
     "category": "Cancer Markers",
     "sampleType": "Blood",
     "description": "Used to monitor liver conditions and certain cancers, and in pregnancy, as part of second-trimester screening for neural tube defects alongside other markers.",
-    "eta": "12-24 hours"
+    "eta": "12-24 hours",
+    "faqs": [
+      {
+        "q": "Can I get a AFP Test (Alpha-Fetoprotein) test near me in Bangalore?",
+        "a": "Yes - AFP Test (Alpha-Fetoprotein) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the AFP Test (Alpha-Fetoprotein) test price in Bangalore?",
+        "a": "AFP Test (Alpha-Fetoprotein) costs Rs. 1,050 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for AFP Test (Alpha-Fetoprotein)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for AFP Test (Alpha-Fetoprotein), using a fully equipped, professional collection kit. Reports are typically ready in 12-24 hours and shared via WhatsApp."
+      },
+      {
+        "q": "What does the AFP Test (Alpha-Fetoprotein) test mean?",
+        "a": "Used to monitor liver conditions and certain cancers, and in pregnancy, as part of second-trimester screening for neural tube defects alongside other markers."
+      },
+      {
+        "q": "Is AFP Test (Alpha-Fetoprotein) tested at an NABL-accredited lab?",
+        "a": "Yes. Every AFP Test (Alpha-Fetoprotein) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "1500",
@@ -1425,7 +2833,29 @@
     "category": "General Health",
     "sampleType": "Blood",
     "description": "Lab processing and pathology review of a small tissue sample from a minor procedure, to confirm a diagnosis. Your doctor will guide you on sample collection specifics.",
-    "eta": "3-5 days"
+    "eta": "3-5 days",
+    "faqs": [
+      {
+        "q": "Can I get a Biopsy - Small Tissue (Histopathology) test near me in Bangalore?",
+        "a": "Yes - Biopsy - Small Tissue (Histopathology) is available for home sample collection anywhere we cover in Bangalore, including JP Nagar, Jayanagar, BTM Layout, Banashankari, and Kanakpura Road. Instead of visiting a lab, book online and a phlebotomist comes to you."
+      },
+      {
+        "q": "What is the Biopsy - Small Tissue (Histopathology) test price in Bangalore?",
+        "a": "Biopsy - Small Tissue (Histopathology) costs Rs. 900 with us, with no advance payment - you only pay after your sample has been collected. Home collection is included at no extra charge."
+      },
+      {
+        "q": "Is home collection available for Biopsy - Small Tissue (Histopathology)?",
+        "a": "Yes. A trained phlebotomist visits your home to collect the sample for Biopsy - Small Tissue (Histopathology), using a fully equipped, professional collection kit. Reports are typically ready in 3-5 days and shared via WhatsApp."
+      },
+      {
+        "q": "What does the Biopsy - Small Tissue (Histopathology) test mean?",
+        "a": "Lab processing and pathology review of a small tissue sample from a minor procedure, to confirm a diagnosis. Your doctor will guide you on sample collection specifics."
+      },
+      {
+        "q": "Is Biopsy - Small Tissue (Histopathology) tested at an NABL-accredited lab?",
+        "a": "Yes. Every Biopsy - Small Tissue (Histopathology) sample we collect is processed at NABL-accredited labs run by Agilus Diagnostics (formerly SRL Diagnostics), our official diagnostics partner - the same labs used for walk-in patients."
+      }
+    ]
   },
   {
     "id": "8825",

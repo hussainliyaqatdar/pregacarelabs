@@ -5,6 +5,7 @@ import { allPackages, getPackageBySlug } from "@/lib/catalog";
 import PriceTag from "@/components/PriceTag";
 import AddToCartButton from "@/components/AddToCartButton";
 import PackageCard from "@/components/PackageCard";
+import ProductFaqSection from "@/components/ProductFaqSection";
 import { SITE_URL, BOOKING_PHONE, BOOKING_PHONE_TEL } from "@/lib/site-config";
 
 export function generateStaticParams() {
@@ -95,6 +96,8 @@ export default function PackagePage({ params }: { params: { slug: string } }) {
           </div>
         </section>
       )}
+
+      {pkg.faqs && pkg.faqs.length > 0 && <ProductFaqSection faqs={pkg.faqs} />}
     </div>
   );
 }
