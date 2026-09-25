@@ -18,7 +18,6 @@ export default function Header({ featuredCoupon = null }: { featuredCoupon?: Cou
 
   return (
     <header className="bg-white border-b sticky top-0 z-30">
-      <CouponBanner coupon={featuredCoupon} />
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
         <Link href="/" className="shrink-0">
           <Logo />
@@ -77,6 +76,7 @@ export default function Header({ featuredCoupon = null }: { featuredCoupon?: Cou
           </div>
         </div>
       </div>
+      <CouponBanner coupon={featuredCoupon} />
       {mobileOpen && (
         <nav className="md:hidden border-t px-4 py-3 flex flex-col gap-3 text-sm bg-white">
           <Link href="/tests" onClick={() => setMobileOpen(false)} className="font-medium">Tests</Link>

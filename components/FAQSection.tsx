@@ -34,8 +34,8 @@ const FAQS = [
     a: "Pricing varies by test - you can see the exact price for NIPT, Double Marker, Quadruple Marker, and every other pregnancy test on its product page before you book, with no hidden charges and no advance payment.",
   },
   {
-    q: `Is ${BUSINESS_NAME} affiliated with Agilus Diagnostics?`,
-    a: `Yes. ${BUSINESS_NAME} is a home-collection partner for Agilus Diagnostics (formerly known as SRL Diagnostics), and works in partnership with Fortis Hospitals. Every sample we collect is processed in Agilus' NABL-accredited labs.`,
+    q: "Are you an authorised home-collection partner of Agilus Diagnostics?",
+    a: "Yes. We provide authorised home sample collection for Agilus Diagnostics (formerly known as SRL Diagnostics), and work in partnership with Fortis Hospitals. Every sample we collect is processed in Agilus' NABL-accredited labs.",
   },
   {
     q: "Which areas in Bangalore do you cover for home sample collection?",

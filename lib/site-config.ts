@@ -1,4 +1,4 @@
-export const BUSINESS_NAME = process.env.BUSINESS_NAME || "Prega Care Labs";
+export const BUSINESS_NAME = process.env.BUSINESS_NAME || "Agilus (SRL) Diagnostics";
 export const BOOKING_PHONE = process.env.BOOKING_PHONE || "+91 70197 64500";
 export const BOOKING_PHONE_TEL = BOOKING_PHONE.replace(/[^\d+]/g, "");
 // Same number handles both calls and WhatsApp chat; wa.me needs digits only, no "+".
@@ -10,10 +10,26 @@ export const SITE_URL = process.env.SITE_URL || "http://localhost:3000";
 export const SERVICE_AREAS = ["JP Nagar", "Jayanagar", "BTM Layout", "Banashankari", "Kanakpura Road"];
 
 export const TRUST_MARKERS = [
-  { icon: "shield", label: "NABL-Accredited, Fortis-Partnered", detail: "Every sample is tested in NABL-accredited labs, backed by our partnership with Fortis Hospitals." },
-  { icon: "wallet", label: "Pay After Collection", detail: "No advance payment - you only pay once your sample has been safely collected." },
-  { icon: "clock", label: "Home Collection Within 60 Minutes", detail: "Our phlebotomist reaches your doorstep within 60 minutes of your confirmed slot." },
-  { icon: "report", label: "Reports Within 6 Hours", detail: "Routine reports are ready within 6 hours of your sample being collected." },
+  {
+    image: "/images/trust-reports-6-hours.webp",
+    alt: "A phone showing a WhatsApp message: \"Your Lab Report is Ready\", with a report attached, next to a 6 hours icon.",
+    label: "Reports Within 6 Hours",
+  },
+  {
+    image: "/images/trust-pay-after-collection.webp",
+    alt: "A crossed-out payment card and cash icon, illustrating no advance payment.",
+    label: "Pay After Collection",
+  },
+  {
+    image: "/images/trust-nabl-fortis.webp",
+    alt: "NABL accreditation mark alongside the Fortis Hospitals logo.",
+    label: "NABL-Accredited & Fortis-Associated",
+  },
+  {
+    image: "/images/trust-doctors-pan-india.webp",
+    alt: "A map of India with a \"10,000+ Doctors PAN India\" callout.",
+    label: "Trusted by 10,000+ Doctors PAN India",
+  },
 ];
 
 // Sourced from the business's own Google Business Profile (4.8 stars, 26

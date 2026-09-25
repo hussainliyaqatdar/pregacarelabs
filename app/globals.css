@@ -78,3 +78,14 @@ body {
     animation: none;
   }
 }
+
+/* Hero carousel: heading/subtext fade+rise in as each slide's text swaps in. */
+@keyframes hero-fade {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .animate-\[hero-fade_0\.6s_ease-out\] {
+    animation: none;
+  }
+}

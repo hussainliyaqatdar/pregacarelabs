@@ -4,7 +4,7 @@ import TrustMarkers from "@/components/TrustMarkers";
 import ReviewsCarousel from "@/components/ReviewsCarousel";
 import TestCard from "@/components/TestCard";
 import PackageCard from "@/components/PackageCard";
-import HeroPhoto from "@/components/HeroPhoto";
+import HeroCarousel from "@/components/HeroCarousel";
 import MoreWaysToBook from "@/components/MoreWaysToBook";
 import FAQSection from "@/components/FAQSection";
 import { allTests, allPackages } from "@/lib/catalog";
@@ -21,17 +21,7 @@ export default function Home() {
   return (
     <div className="flex flex-col gap-16">
       <section className="hero-grid bg-brand-light rounded-2xl p-8 md:p-12 overflow-hidden">
-        <div className="hero-illus max-w-sm mx-auto md:max-w-none md:mx-0">
-          <HeroPhoto />
-        </div>
-
-        <div className="hero-text flex flex-col gap-4">
-          <h1 className="text-3xl md:text-4xl font-bold text-gray-900">Your Pregnancy, Cared For At Home</h1>
-          <p className="text-gray-700">
-            Accurate hormone panels, NIPT and other specialised DNA tests - hospital-grade prenatal reports without
-            leaving your couch, trusted by expecting mothers across Bangalore.
-          </p>
-        </div>
+        <HeroCarousel />
 
         <div className="hero-search">
           <HeroSearchCTA />
